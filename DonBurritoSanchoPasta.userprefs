@@ -1,12 +1,14 @@
-﻿<Properties>
+﻿<Properties GitUserInfo="UsingGIT">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="FoodTruckClassLibrary\MyClass.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FoodTruckClassLibrary\MenuManager.cs">
     <Files>
-      <File FileName="FoodTruckClassLibrary\MyClass.cs" Line="9" Column="4" />
+      <File FileName="FoodTruckClassLibrary\MenuOption.cs" Line="17" Column="3" />
+      <File FileName="FoodTruckClassLibrary\MenuManager.cs" Line="19" Column="4" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FoodTruckAndroid MonoForAntroid.PreferredDevice="3.7&quot; WVGA (Nexus One)" AndroidDeviceId-Debug="emulator-5554" />
 </Properties>

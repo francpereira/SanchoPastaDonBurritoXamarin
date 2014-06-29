@@ -5,6 +5,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodTruckClassLibrary", "Fo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodTruckAndroid", "FoodTruckAndroid\FoodTruckAndroid.csproj", "{7D384B7D-FE67-438C-81D4-476ACF351268}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4C0DD2E6-DAFA-446C-B3A3-CCE8692D109A}"
+	ProjectSection(SolutionItems) = preProject
+		DonBurritoSanchoPasta.sln = DonBurritoSanchoPasta.sln
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,7 +25,9 @@ Global
 		{B51D6ECA-E595-4F91-B995-7582A6394C6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B51D6ECA-E595-4F91-B995-7582A6394C6D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = FoodTruckClassLibrary\FoodTruckClassLibrary.csproj
+		StartupItem = FoodTruckAndroid\FoodTruckAndroid.csproj
 	EndGlobalSection
 EndGlobal

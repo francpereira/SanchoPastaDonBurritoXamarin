@@ -59,4 +59,10 @@
     <AndroidResource Include="Resources\drawable\Icon.png" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Novell\Novell.MonoDroid.CSharp.targets" />
+  <ItemGroup>
+    <ProjectReference Include="..\FoodTruckClassLibrary\FoodTruckClassLibrary.csproj">
+      <Project>{B51D6ECA-E595-4F91-B995-7582A6394C6D}</Project>
+      <Name>FoodTruckClassLibrary</Name>
+    </ProjectReference>
+  </ItemGroup>
 </Project>

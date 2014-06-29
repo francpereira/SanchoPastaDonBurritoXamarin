@@ -1,14 +1,48 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical"
     android:layout_width="fill_parent"
-    android:layout_height="fill_parent"
-    >
-<Button  
-    android:id="@+id/myButton"
-    android:layout_width="fill_parent" 
-    android:layout_height="wrap_content" 
-    android:text="@string/hello"
-    />
+    android:layout_height="fill_parent">
+    <TextView
+        android:text="Large Text"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtMenuName"
+        android:gravity="center"
+        android:layout_margin="10dp" />
+    <TextView
+        android:text="Small Text"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtMenuDescription"
+        android:gravity="center"
+        android:layout_margin="10dp" />
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/space1"
+        android:layout_weight="1" />
+    <LinearLayout
+        android:orientation="horizontal"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/linearLayout1"
+        android:gravity="center">
+        <Button
+            android:text="Button"
+            android:id="@+id/btnMovePrevious"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="left" />
+        <Button
+            android:text="Button"
+            android:id="@+id/btnMoveNext"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="right" />
+    </LinearLayout>
 </LinearLayout>
-

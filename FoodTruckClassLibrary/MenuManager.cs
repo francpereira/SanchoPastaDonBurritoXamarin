@@ -20,21 +20,21 @@ namespace FoodTruckClassLibrary
 				name = "Burrito de Pernil",
 				description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc orci eros, vestibulum vel ultrices suscipit, varius in ante. Ut ultrices convallis gravida. Proin eu semper massa. Suspendisse lacinia ullamcorper faucibus.",
 				price = 5.00m,
-				imageFile = "BurritoPernil.jpg"
+				imageFile = "burritos"
 			});
 
 			menu.Add (new MenuOption () { 
 				name = "Tacos de Lengua",
 				description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc orci eros, vestibulum vel ultrices suscipit, varius in ante. Ut ultrices convallis gravida. Proin eu semper massa. Suspendisse lacinia ullamcorper faucibus.",
 				price = 7.00m,
-				imageFile = "TacosLengua.jpg"
+				imageFile = "tacos"
 			});
 
 			menu.Add (new MenuOption () { 
 				name = "Pasta con Churrasco",
 				description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc orci eros, vestibulum vel ultrices suscipit, varius in ante. Ut ultrices convallis gravida. Proin eu semper massa. Suspendisse lacinia ullamcorper faucibus.",
 				price = 5.50m,
-				imageFile = "PastaChurrasco.jpg"
+				imageFile = "pasta"
 			});
 
 

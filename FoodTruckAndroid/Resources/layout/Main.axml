@@ -11,6 +11,13 @@
         android:id="@+id/txtMenuName"
         android:gravity="center"
         android:layout_margin="10dp" />
+    <ImageView
+        android:src="@drawable/tacos"
+        android:layout_width="160dp"
+        android:layout_height="160dp"
+        android:id="@+id/imgMenu"
+        android:scaleType="fitXY"
+        android:layout_gravity="center_horizontal" />
     <TextView
         android:text="Small Text"
         android:textAppearance="?android:attr/textAppearanceSmall"
@@ -33,13 +40,13 @@
         android:id="@+id/linearLayout1"
         android:gravity="center">
         <Button
-            android:text="Button"
+            android:text="Prev"
             android:id="@+id/btnMovePrevious"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:gravity="left" />
         <Button
-            android:text="Button"
+            android:text="Next"
             android:id="@+id/btnMoveNext"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"

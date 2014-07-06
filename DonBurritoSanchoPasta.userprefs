@@ -1,14 +1,6 @@
 ﻿<Properties GitUserInfo="UsingGIT">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="c:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\SplashActivity.cs">
-    <Files>
-      <File FileName="FoodTruckAndroid\Resources\values\styles.xml" Line="1" Column="1" />
-      <File FileName="FoodTruckAndroid\MainActivity.cs" Line="1" Column="1" />
-      <File FileName="FoodTruckAndroid\Resources\AboutResources.txt" Line="1" Column="1" />
-      <File FileName="FoodTruckAndroid\Resources\Resource.designer.cs" Line="1" Column="1" />
-      <File FileName="c:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\SplashActivity.cs" Line="19" Column="3" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.MonoForAndroid_API_15" />
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

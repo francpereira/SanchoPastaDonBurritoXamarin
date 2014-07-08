@@ -17,26 +17,95 @@ namespace FoodTruckClassLibrary
 		{
 
 			menu.Add (new MenuOption () { 
-				name = "Burrito de Pernil",
-				description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc orci eros, vestibulum vel ultrices suscipit, varius in ante. Ut ultrices convallis gravida. Proin eu semper massa. Suspendisse lacinia ullamcorper faucibus.",
+				name = "Burrito Sencillo",
+				description = "Una sola carne para escoger entre pollo, molida, pernil o churrasco. Sale al plato con nachos e incluye bebida.",
 				price = 5.00m,
 				imageFile = "burritos"
 			});
 
 			menu.Add (new MenuOption () { 
-				name = "Tacos de Lengua",
-				description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc orci eros, vestibulum vel ultrices suscipit, varius in ante. Ut ultrices convallis gravida. Proin eu semper massa. Suspendisse lacinia ullamcorper faucibus.",
+				name = "Burrito Mixto",
+				description = "Dos carnes para escoger entre pollo, molida, pernil o churrasco. Sale al plato con nachos e incluye bebida.",
+				price = 6.00m,
+				imageFile = "tacos"
+			});
+
+			menu.Add (new MenuOption () { 
+				name = "Burropleta",
+				description = "Tres carnes para escoger entre pollo, molida, pernil o churrasco. Sale al plato con nachos e incluye bebida.",
+				price = 7.00m,
+				imageFile = "pasta"
+			});
+
+			menu.Add (new MenuOption () { 
+				name = "Don Burrito",
+				description = "Burrito con todas las carnes pollo, molida, pernil y churrasco. Sale al plato con nachos e incluye bebida.",
+				price = 7.00m,
+				imageFile = "pasta"
+			});
+
+			menu.Add (new MenuOption () { 
+				name = "Quesadilla Sencilla",
+				description = "Una sola carne para escoger entre pollo, molida, pernil o churrasco. Incluye bebida.",
+				price = 6.00m,
+				imageFile = "burritos"
+			});
+
+			menu.Add (new MenuOption () { 
+				name = "Quesadilla Mixta",
+				description = "Dos carnes para escoger entre pollo, molida, pernil o churrasco. Incluye bebida.",
+				price = 7.00m,
+				imageFile = "tacos"
+			});
+
+			menu.Add (new MenuOption () { 
+				name = "Ensalada del dia",
+				description = "Ensalada Fresca con . Incluye bebida.",
+				price = 6.00m,
+				imageFile = "tacos"
+			});
+
+			menu.Add (new MenuOption () { 
+				name = "Crema o Sopa del Dia",
+				description = "Rica sopa pa los dias lluviosos. Incluye pan con ajo",
+				price = 4.00m,
+				imageFile = "tacos"
+			});
+
+			menu.Add (new MenuOption () { 
+				name = "Pasta con Pollo",
+				description = "Escoge entre Spaguettis, Penne, Rottini o Fettuccini. Incluye bebida y pan con ajo o amarillos.",
+				price = 7.00m,
+				imageFile = "tacos"
+			});
+
+			menu.Add (new MenuOption () { 
+				name = "Pasta con Albondiga",
+				description = "Escoge entre Spaguettis, Penne, Rottini o Fettuccini. Incluye bebida y pan con ajo o amarillos.",
+				price = 8.00m,
+				imageFile = "tacos"
+			});
+
+			menu.Add (new MenuOption () { 
+				name = "Pasta con Vegetales",
+				description = "Escoge entre Spaguettis, Penne, Rottini o Fettuccini. Incluye bebida y pan con ajo o amarillos.",
 				price = 7.00m,
 				imageFile = "tacos"
 			});
 
 			menu.Add (new MenuOption () { 
 				name = "Pasta con Churrasco",
-				description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc orci eros, vestibulum vel ultrices suscipit, varius in ante. Ut ultrices convallis gravida. Proin eu semper massa. Suspendisse lacinia ullamcorper faucibus.",
-				price = 5.50m,
-				imageFile = "pasta"
+				description = "Escoge entre Spaguettis, Penne, Rottini o Fettuccini. Incluye bebida y pan con ajo o amarillos.",
+				price = 8.00m,
+				imageFile = "tacos"
 			});
 
+			menu.Add (new MenuOption () { 
+				name = "Lasagna del dia",
+				description = "Incluye bebida y pan con ajo o amarillos.",
+				price = 7.00m,
+				imageFile = "tacos"
+			});
 
 		}
 

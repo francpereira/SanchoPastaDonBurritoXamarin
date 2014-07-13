@@ -12,7 +12,6 @@
         android:gravity="center"
         android:layout_margin="10dp" />
     <ImageView
-        android:src="@drawable/tacos"
         android:layout_width="160dp"
         android:layout_height="160dp"
         android:id="@+id/imgMenu"
@@ -26,30 +25,14 @@
         android:id="@+id/txtMenuDescription"
         android:gravity="center"
         android:layout_margin="10dp" />
-    <Space
+    <TextView
+        android:text="Large Text"
+        android:textAppearance="?android:attr/textAppearanceLarge"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/space1"
-        android:layout_weight="1" />
-    <LinearLayout
-        android:orientation="horizontal"
-        android:minWidth="25px"
-        android:minHeight="25px"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/linearLayout1"
-        android:gravity="center">
-        <Button
-            android:text="Prev"
-            android:id="@+id/btnMovePrevious"
-            android:layout_width="wrap_content"
-            android:layout_height="match_parent"
-            android:gravity="left" />
-        <Button
-            android:text="Next"
-            android:id="@+id/btnMoveNext"
-            android:layout_width="wrap_content"
-            android:layout_height="match_parent"
-            android:gravity="right" />
-    </LinearLayout>
+        android:id="@+id/txtMenuPrice"
+        android:gravity="center"
+        android:layout_margin="10dp"
+        android:textColor="#ff07df1c"
+        android:layout_marginLeft="15dp" />
 </LinearLayout>

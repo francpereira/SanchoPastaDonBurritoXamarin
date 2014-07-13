@@ -22,7 +22,7 @@ namespace FoodTruckAndroid
 			//Resource.Drawable.SplashFoodTruck
 			base.OnCreate(bundle);
 			Thread.Sleep(2000); // Simulate a long loading process on app startup.
-			StartActivity(typeof(MainActivity));
+			StartActivity(typeof(MenuActivity));
 		}
 	}
 }

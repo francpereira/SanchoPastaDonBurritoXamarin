@@ -53,9 +53,12 @@ namespace FoodTruckAndroid
 			//tab.SetIcon(Resource.Drawable.tab_terms);
 			tab.TabSelected += (sender, e) => {
 
-				var geoUri = Android.Net.Uri.Parse ("geo:18.413615,-66.098316");
+				//var geoUri = Android.Net.Uri.Parse ("geo:18.413615,-66.098316");
+				var geoUri = Android.Net.Uri.Parse ("geo:18.413615,-66.098316?z=17&q=18.413615,-66.098316(Don Burrito y Sancho Pasta)");
 				var mapIntent = new Intent (Intent.ActionView, geoUri);
 			    StartActivity (mapIntent);
+				//Intent intent = new Intent(Intent.ActionView, geoUri);
+
 
 				//var streetViewUri = Android.Net.Uri.Parse (
 				//	"google.streetview:cbll=18.413615,-66.098316&cbp=1,90,,0,1.0&mz=20");  
@@ -70,7 +73,7 @@ namespace FoodTruckAndroid
 			//tab.SetIcon (Resource.Drawable.tab_home);
 			tab.TabSelected += (sender, e) => {
 
-
+				StartActivity(typeof(MapActivity));
 			
 			};
 			actionBar.AddTab (tab);

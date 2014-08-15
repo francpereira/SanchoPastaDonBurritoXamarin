@@ -1276,8 +1276,8 @@ namespace FoodTruckAndroid
 			// aapt resource value: 0x7f070039
 			public const int image = 2131165241;
 			
-			// aapt resource value: 0x7f070051
-			public const int imgMenu = 2131165265;
+			// aapt resource value: 0x7f070054
+			public const int imgMenu = 2131165268;
 			
 			// aapt resource value: 0x7f070001
 			public const int listMode = 2131165185;
@@ -1285,29 +1285,29 @@ namespace FoodTruckAndroid
 			// aapt resource value: 0x7f07003b
 			public const int list_item = 2131165243;
 			
-			// aapt resource value: 0x7f07004e
-			public const int map = 2131165262;
+			// aapt resource value: 0x7f070051
+			public const int map = 2131165265;
 			
 			// aapt resource value: 0x7f070024
 			public const int match_parent = 2131165220;
 			
+			// aapt resource value: 0x7f07005a
+			public const int media_route_control_frame = 2131165274;
+			
+			// aapt resource value: 0x7f07005b
+			public const int media_route_disconnect_button = 2131165275;
+			
 			// aapt resource value: 0x7f070057
-			public const int media_route_control_frame = 2131165271;
+			public const int media_route_list = 2131165271;
 			
 			// aapt resource value: 0x7f070058
-			public const int media_route_disconnect_button = 2131165272;
+			public const int media_route_volume_layout = 2131165272;
 			
-			// aapt resource value: 0x7f070054
-			public const int media_route_list = 2131165268;
+			// aapt resource value: 0x7f070059
+			public const int media_route_volume_slider = 2131165273;
 			
-			// aapt resource value: 0x7f070055
-			public const int media_route_volume_layout = 2131165269;
-			
-			// aapt resource value: 0x7f070056
-			public const int media_route_volume_slider = 2131165270;
-			
-			// aapt resource value: 0x7f07004f
-			public const int menuPager = 2131165263;
+			// aapt resource value: 0x7f070052
+			public const int menuPager = 2131165266;
 			
 			// aapt resource value: 0x7f070012
 			public const int middle = 2131165202;
@@ -1402,20 +1402,29 @@ namespace FoodTruckAndroid
 			// aapt resource value: 0x7f07001b
 			public const int terrain = 2131165211;
 			
+			// aapt resource value: 0x7f07004e
+			public const int textView1 = 2131165262;
+			
+			// aapt resource value: 0x7f07004f
+			public const int textView2 = 2131165263;
+			
+			// aapt resource value: 0x7f070050
+			public const int textView3 = 2131165264;
+			
 			// aapt resource value: 0x7f07003d
 			public const int title = 2131165245;
 			
 			// aapt resource value: 0x7f070032
 			public const int top_action_bar = 2131165234;
 			
-			// aapt resource value: 0x7f070052
-			public const int txtMenuDescription = 2131165266;
-			
-			// aapt resource value: 0x7f070050
-			public const int txtMenuName = 2131165264;
+			// aapt resource value: 0x7f070055
+			public const int txtMenuDescription = 2131165269;
 			
 			// aapt resource value: 0x7f070053
-			public const int txtMenuPrice = 2131165267;
+			public const int txtMenuName = 2131165267;
+			
+			// aapt resource value: 0x7f070056
+			public const int txtMenuPrice = 2131165270;
 			
 			// aapt resource value: 0x7f070033
 			public const int up = 2131165235;
@@ -1534,25 +1543,28 @@ namespace FoodTruckAndroid
 			public const int abc_simple_decor = 2130903063;
 			
 			// aapt resource value: 0x7f030018
-			public const int MapActivity = 2130903064;
+			public const int ContactUsActivity = 2130903064;
 			
 			// aapt resource value: 0x7f030019
-			public const int MenuActivity = 2130903065;
+			public const int MapActivity = 2130903065;
 			
 			// aapt resource value: 0x7f03001a
-			public const int MenuFragment = 2130903066;
+			public const int MenuActivity = 2130903066;
 			
 			// aapt resource value: 0x7f03001b
-			public const int mr_media_route_chooser_dialog = 2130903067;
+			public const int MenuFragment = 2130903067;
 			
 			// aapt resource value: 0x7f03001c
-			public const int mr_media_route_controller_dialog = 2130903068;
+			public const int mr_media_route_chooser_dialog = 2130903068;
 			
 			// aapt resource value: 0x7f03001d
-			public const int mr_media_route_list_item = 2130903069;
+			public const int mr_media_route_controller_dialog = 2130903069;
 			
 			// aapt resource value: 0x7f03001e
-			public const int support_simple_spinner_dropdown_item = 2130903070;
+			public const int mr_media_route_list_item = 2130903070;
+			
+			// aapt resource value: 0x7f03001f
+			public const int support_simple_spinner_dropdown_item = 2130903071;
 			
 			static Layout()
 			{
@@ -1720,6 +1732,9 @@ namespace FoodTruckAndroid
 		
 		public partial class Style
 		{
+			
+			// aapt resource value: 0x7f060095
+			public const int Divider = 2131099797;
 			
 			// aapt resource value: 0x7f060067
 			public const int TextAppearance_AppCompat_Base_CompactMenu_Dialog = 2131099751;

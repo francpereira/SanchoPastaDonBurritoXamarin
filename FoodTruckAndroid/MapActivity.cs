@@ -15,7 +15,7 @@ using Android.Gms.Maps.Model;
 
 namespace FoodTruckAndroid
 {
-	[Activity (Label = "MapActivity")]			
+	[Activity (Label = "Mapa")]			
 	public class MapActivity : Activity
 	{
 

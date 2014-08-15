@@ -64,6 +64,7 @@
     <Compile Include="MenuActivity.cs" />
     <Compile Include="MenuPagerAdapter.cs" />
     <Compile Include="MapActivity.cs" />
+    <Compile Include="ContactUsActivity.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\AboutResources.txt" />
@@ -82,6 +83,7 @@
     <AndroidResource Include="Resources\drawable\pastasmall.jpg" />
     <AndroidResource Include="Resources\drawable\tacosmall.jpg" />
     <AndroidResource Include="Resources\layout\MapActivity.axml" />
+    <AndroidResource Include="Resources\layout\ContactUsActivity.axml" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Novell\Novell.MonoDroid.CSharp.targets" />
   <ItemGroup>

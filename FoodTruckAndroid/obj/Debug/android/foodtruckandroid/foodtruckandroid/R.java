@@ -1535,17 +1535,17 @@ containing a value of this type.
         public static final int icon=0x7f07003c;
         public static final int ifRoom=0x7f07000a;
         public static final int image=0x7f070039;
-        public static final int imgMenu=0x7f070051;
+        public static final int imgMenu=0x7f070054;
         public static final int listMode=0x7f070001;
         public static final int list_item=0x7f07003b;
-        public static final int map=0x7f07004e;
+        public static final int map=0x7f070051;
         public static final int match_parent=0x7f070024;
-        public static final int media_route_control_frame=0x7f070057;
-        public static final int media_route_disconnect_button=0x7f070058;
-        public static final int media_route_list=0x7f070054;
-        public static final int media_route_volume_layout=0x7f070055;
-        public static final int media_route_volume_slider=0x7f070056;
-        public static final int menuPager=0x7f07004f;
+        public static final int media_route_control_frame=0x7f07005a;
+        public static final int media_route_disconnect_button=0x7f07005b;
+        public static final int media_route_list=0x7f070057;
+        public static final int media_route_volume_layout=0x7f070058;
+        public static final int media_route_volume_slider=0x7f070059;
+        public static final int menuPager=0x7f070052;
         public static final int middle=0x7f070012;
         public static final int monochrome=0x7f07002b;
         public static final int never=0x7f070009;
@@ -1577,11 +1577,14 @@ containing a value of this type.
         public static final int submit_area=0x7f07004b;
         public static final int tabMode=0x7f070002;
         public static final int terrain=0x7f07001b;
+        public static final int textView1=0x7f07004e;
+        public static final int textView2=0x7f07004f;
+        public static final int textView3=0x7f070050;
         public static final int title=0x7f07003d;
         public static final int top_action_bar=0x7f070032;
-        public static final int txtMenuDescription=0x7f070052;
-        public static final int txtMenuName=0x7f070050;
-        public static final int txtMenuPrice=0x7f070053;
+        public static final int txtMenuDescription=0x7f070055;
+        public static final int txtMenuName=0x7f070053;
+        public static final int txtMenuPrice=0x7f070056;
         public static final int up=0x7f070033;
         public static final int useLogo=0x7f070003;
         public static final int withText=0x7f07000c;
@@ -1638,13 +1641,14 @@ containing a value of this type.
         public static final int abc_search_dropdown_item_icons_2line=0x7f030015;
         public static final int abc_search_view=0x7f030016;
         public static final int abc_simple_decor=0x7f030017;
-        public static final int mapactivity=0x7f030018;
-        public static final int menuactivity=0x7f030019;
-        public static final int menufragment=0x7f03001a;
-        public static final int mr_media_route_chooser_dialog=0x7f03001b;
-        public static final int mr_media_route_controller_dialog=0x7f03001c;
-        public static final int mr_media_route_list_item=0x7f03001d;
-        public static final int support_simple_spinner_dropdown_item=0x7f03001e;
+        public static final int contactusactivity=0x7f030018;
+        public static final int mapactivity=0x7f030019;
+        public static final int menuactivity=0x7f03001a;
+        public static final int menufragment=0x7f03001b;
+        public static final int mr_media_route_chooser_dialog=0x7f03001c;
+        public static final int mr_media_route_controller_dialog=0x7f03001d;
+        public static final int mr_media_route_list_item=0x7f03001e;
+        public static final int support_simple_spinner_dropdown_item=0x7f03001f;
     }
     public static final class string {
         /**  Content description for the action bar "home" affordance. [CHAR LIMIT=NONE] 
@@ -1802,6 +1806,7 @@ containing a value of this type.
         public static final int wallet_buy_button_place_holder=0x7f05002c;
     }
     public static final class style {
+        public static final int Divider=0x7f060095;
         /**  Mimic text appearance in select_dialog_item.xml 
          */
         public static final int TextAppearance_AppCompat_Base_CompactMenu_Dialog=0x7f060067;

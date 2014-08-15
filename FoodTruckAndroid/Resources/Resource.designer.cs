@@ -1276,8 +1276,8 @@ namespace FoodTruckAndroid
 			// aapt resource value: 0x7f070039
 			public const int image = 2131165241;
 			
-			// aapt resource value: 0x7f070054
-			public const int imgMenu = 2131165268;
+			// aapt resource value: 0x7f070059
+			public const int imgMenu = 2131165273;
 			
 			// aapt resource value: 0x7f070001
 			public const int listMode = 2131165185;
@@ -1285,29 +1285,29 @@ namespace FoodTruckAndroid
 			// aapt resource value: 0x7f07003b
 			public const int list_item = 2131165243;
 			
-			// aapt resource value: 0x7f070051
-			public const int map = 2131165265;
+			// aapt resource value: 0x7f070056
+			public const int map = 2131165270;
 			
 			// aapt resource value: 0x7f070024
 			public const int match_parent = 2131165220;
 			
-			// aapt resource value: 0x7f07005a
-			public const int media_route_control_frame = 2131165274;
+			// aapt resource value: 0x7f07005f
+			public const int media_route_control_frame = 2131165279;
 			
-			// aapt resource value: 0x7f07005b
-			public const int media_route_disconnect_button = 2131165275;
+			// aapt resource value: 0x7f070060
+			public const int media_route_disconnect_button = 2131165280;
+			
+			// aapt resource value: 0x7f07005c
+			public const int media_route_list = 2131165276;
+			
+			// aapt resource value: 0x7f07005d
+			public const int media_route_volume_layout = 2131165277;
+			
+			// aapt resource value: 0x7f07005e
+			public const int media_route_volume_slider = 2131165278;
 			
 			// aapt resource value: 0x7f070057
-			public const int media_route_list = 2131165271;
-			
-			// aapt resource value: 0x7f070058
-			public const int media_route_volume_layout = 2131165272;
-			
-			// aapt resource value: 0x7f070059
-			public const int media_route_volume_slider = 2131165273;
-			
-			// aapt resource value: 0x7f070052
-			public const int menuPager = 2131165266;
+			public const int menuPager = 2131165271;
 			
 			// aapt resource value: 0x7f070012
 			public const int middle = 2131165202;
@@ -1387,6 +1387,9 @@ namespace FoodTruckAndroid
 			// aapt resource value: 0x7f070006
 			public const int showTitle = 2131165190;
 			
+			// aapt resource value: 0x7f07004e
+			public const int space1 = 2131165262;
+			
 			// aapt resource value: 0x7f070030
 			public const int split_action_bar = 2131165232;
 			
@@ -1402,14 +1405,23 @@ namespace FoodTruckAndroid
 			// aapt resource value: 0x7f07001b
 			public const int terrain = 2131165211;
 			
-			// aapt resource value: 0x7f07004e
-			public const int textView1 = 2131165262;
-			
 			// aapt resource value: 0x7f07004f
-			public const int textView2 = 2131165263;
+			public const int textView1 = 2131165263;
 			
-			// aapt resource value: 0x7f070050
-			public const int textView3 = 2131165264;
+			// aapt resource value: 0x7f070054
+			public const int textView2 = 2131165268;
+			
+			// aapt resource value: 0x7f070052
+			public const int textView3 = 2131165266;
+			
+			// aapt resource value: 0x7f070051
+			public const int textView5 = 2131165265;
+			
+			// aapt resource value: 0x7f070053
+			public const int textView7 = 2131165267;
+			
+			// aapt resource value: 0x7f070055
+			public const int textView8 = 2131165269;
 			
 			// aapt resource value: 0x7f07003d
 			public const int title = 2131165245;
@@ -1417,20 +1429,23 @@ namespace FoodTruckAndroid
 			// aapt resource value: 0x7f070032
 			public const int top_action_bar = 2131165234;
 			
-			// aapt resource value: 0x7f070055
-			public const int txtMenuDescription = 2131165269;
+			// aapt resource value: 0x7f07005a
+			public const int txtMenuDescription = 2131165274;
 			
-			// aapt resource value: 0x7f070053
-			public const int txtMenuName = 2131165267;
+			// aapt resource value: 0x7f070058
+			public const int txtMenuName = 2131165272;
 			
-			// aapt resource value: 0x7f070056
-			public const int txtMenuPrice = 2131165270;
+			// aapt resource value: 0x7f07005b
+			public const int txtMenuPrice = 2131165275;
 			
 			// aapt resource value: 0x7f070033
 			public const int up = 2131165235;
 			
 			// aapt resource value: 0x7f070003
 			public const int useLogo = 2131165187;
+			
+			// aapt resource value: 0x7f070050
+			public const int view1 = 2131165264;
 			
 			// aapt resource value: 0x7f07000c
 			public const int withText = 2131165196;

@@ -3,6 +3,11 @@
     android:orientation="vertical"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent">
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/space1"
+        android:layout_marginBottom="20dp" />
     <TextView
         android:text="Telefono"
         android:textAppearance="?android:attr/textAppearanceMedium"
@@ -10,7 +15,39 @@
         android:layout_height="wrap_content"
         android:id="@+id/textView1" />
     <View
-        style="@style/Divider" />
+        style="@style/Divider"
+        android:id="@+id/view1" />
+    <TextView
+        android:text="(787) 508-2720"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView5" />
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/space1"
+        android:layout_marginBottom="20dp" />
+    <TextView
+        android:text="Email"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView3" />
+    <View
+        style="@style/Divider"
+        android:id="@+id/view1" />
+    <TextView
+        android:text="diegocenteno@hotmail.com"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView7" />
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/space1"
+        android:layout_marginBottom="20dp" />
     <TextView
         android:text="Facebook"
         android:textAppearance="?android:attr/textAppearanceMedium"
@@ -18,11 +55,12 @@
         android:layout_height="wrap_content"
         android:id="@+id/textView2" />
     <View
-        style="@style/Divider" />
+        style="@style/Divider"
+        android:id="@+id/view1" />
     <TextView
-        android:text="Email"
-        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="https://es-la.facebook.com/DonBuritoSanchoPasta"
+        android:textAppearance="?android:attr/textAppearanceSmall"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/textView3" />
+        android:id="@+id/textView8" />
 </LinearLayout>

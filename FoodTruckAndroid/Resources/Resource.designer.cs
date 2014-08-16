@@ -1102,148 +1102,160 @@ namespace FoodTruckAndroid
 			public const int common_signin_btn_text_pressed_light = 2130837627;
 			
 			// aapt resource value: 0x7f02007c
-			public const int ensaladasmall = 2130837628;
+			public const int contactimage1 = 2130837628;
 			
 			// aapt resource value: 0x7f02007d
-			public const int ic_plusone_medium_off_client = 2130837629;
+			public const int contactimage2 = 2130837629;
 			
 			// aapt resource value: 0x7f02007e
-			public const int ic_plusone_small_off_client = 2130837630;
+			public const int contactimage3 = 2130837630;
 			
 			// aapt resource value: 0x7f02007f
-			public const int ic_plusone_standard_off_client = 2130837631;
+			public const int contactusanim = 2130837631;
 			
 			// aapt resource value: 0x7f020080
-			public const int ic_plusone_tall_off_client = 2130837632;
+			public const int ensaladasmall = 2130837632;
 			
 			// aapt resource value: 0x7f020081
-			public const int list_focused_foodtruck = 2130837633;
+			public const int ic_plusone_medium_off_client = 2130837633;
 			
 			// aapt resource value: 0x7f020082
-			public const int list_pressed_foodtruck = 2130837634;
+			public const int ic_plusone_small_off_client = 2130837634;
 			
 			// aapt resource value: 0x7f020083
-			public const int menu_dropdown_panel_foodtruck = 2130837635;
+			public const int ic_plusone_standard_off_client = 2130837635;
 			
 			// aapt resource value: 0x7f020084
-			public const int mr_ic_audio_vol = 2130837636;
+			public const int ic_plusone_tall_off_client = 2130837636;
 			
 			// aapt resource value: 0x7f020085
-			public const int mr_ic_media_route_connecting_holo_dark = 2130837637;
+			public const int list_focused_foodtruck = 2130837637;
 			
 			// aapt resource value: 0x7f020086
-			public const int mr_ic_media_route_connecting_holo_light = 2130837638;
+			public const int list_pressed_foodtruck = 2130837638;
 			
 			// aapt resource value: 0x7f020087
-			public const int mr_ic_media_route_disabled_holo_dark = 2130837639;
+			public const int menu_dropdown_panel_foodtruck = 2130837639;
 			
 			// aapt resource value: 0x7f020088
-			public const int mr_ic_media_route_disabled_holo_light = 2130837640;
+			public const int mr_ic_audio_vol = 2130837640;
 			
 			// aapt resource value: 0x7f020089
-			public const int mr_ic_media_route_holo_dark = 2130837641;
+			public const int mr_ic_media_route_connecting_holo_dark = 2130837641;
 			
 			// aapt resource value: 0x7f02008a
-			public const int mr_ic_media_route_holo_light = 2130837642;
+			public const int mr_ic_media_route_connecting_holo_light = 2130837642;
 			
 			// aapt resource value: 0x7f02008b
-			public const int mr_ic_media_route_off_holo_dark = 2130837643;
+			public const int mr_ic_media_route_disabled_holo_dark = 2130837643;
 			
 			// aapt resource value: 0x7f02008c
-			public const int mr_ic_media_route_off_holo_light = 2130837644;
+			public const int mr_ic_media_route_disabled_holo_light = 2130837644;
 			
 			// aapt resource value: 0x7f02008d
-			public const int mr_ic_media_route_on_0_holo_dark = 2130837645;
+			public const int mr_ic_media_route_holo_dark = 2130837645;
 			
 			// aapt resource value: 0x7f02008e
-			public const int mr_ic_media_route_on_0_holo_light = 2130837646;
+			public const int mr_ic_media_route_holo_light = 2130837646;
 			
 			// aapt resource value: 0x7f02008f
-			public const int mr_ic_media_route_on_1_holo_dark = 2130837647;
+			public const int mr_ic_media_route_off_holo_dark = 2130837647;
 			
 			// aapt resource value: 0x7f020090
-			public const int mr_ic_media_route_on_1_holo_light = 2130837648;
+			public const int mr_ic_media_route_off_holo_light = 2130837648;
 			
 			// aapt resource value: 0x7f020091
-			public const int mr_ic_media_route_on_2_holo_dark = 2130837649;
+			public const int mr_ic_media_route_on_0_holo_dark = 2130837649;
 			
 			// aapt resource value: 0x7f020092
-			public const int mr_ic_media_route_on_2_holo_light = 2130837650;
+			public const int mr_ic_media_route_on_0_holo_light = 2130837650;
 			
 			// aapt resource value: 0x7f020093
-			public const int mr_ic_media_route_on_holo_dark = 2130837651;
+			public const int mr_ic_media_route_on_1_holo_dark = 2130837651;
 			
 			// aapt resource value: 0x7f020094
-			public const int mr_ic_media_route_on_holo_light = 2130837652;
+			public const int mr_ic_media_route_on_1_holo_light = 2130837652;
 			
 			// aapt resource value: 0x7f020095
-			public const int NewIcon = 2130837653;
+			public const int mr_ic_media_route_on_2_holo_dark = 2130837653;
 			
 			// aapt resource value: 0x7f020096
-			public const int pastasmall = 2130837654;
+			public const int mr_ic_media_route_on_2_holo_light = 2130837654;
 			
 			// aapt resource value: 0x7f020097
-			public const int powered_by_google_dark = 2130837655;
+			public const int mr_ic_media_route_on_holo_dark = 2130837655;
 			
 			// aapt resource value: 0x7f020098
-			public const int powered_by_google_light = 2130837656;
+			public const int mr_ic_media_route_on_holo_light = 2130837656;
 			
 			// aapt resource value: 0x7f020099
-			public const int progress_bg_foodtruck = 2130837657;
+			public const int NewIcon = 2130837657;
 			
 			// aapt resource value: 0x7f02009a
-			public const int progress_horizontal_foodtruck = 2130837658;
+			public const int pastasmall = 2130837658;
 			
 			// aapt resource value: 0x7f02009b
-			public const int progress_primary_foodtruck = 2130837659;
+			public const int powered_by_google_dark = 2130837659;
 			
 			// aapt resource value: 0x7f02009c
-			public const int progress_secondary_foodtruck = 2130837660;
+			public const int powered_by_google_light = 2130837660;
 			
 			// aapt resource value: 0x7f02009d
-			public const int selectable_background_foodtruck = 2130837661;
+			public const int progress_bg_foodtruck = 2130837661;
 			
 			// aapt resource value: 0x7f02009e
-			public const int spinner_ab_default_foodtruck = 2130837662;
+			public const int progress_horizontal_foodtruck = 2130837662;
 			
 			// aapt resource value: 0x7f02009f
-			public const int spinner_ab_disabled_foodtruck = 2130837663;
+			public const int progress_primary_foodtruck = 2130837663;
 			
 			// aapt resource value: 0x7f0200a0
-			public const int spinner_ab_focused_foodtruck = 2130837664;
+			public const int progress_secondary_foodtruck = 2130837664;
 			
 			// aapt resource value: 0x7f0200a1
-			public const int spinner_ab_pressed_foodtruck = 2130837665;
+			public const int selectable_background_foodtruck = 2130837665;
 			
 			// aapt resource value: 0x7f0200a2
-			public const int spinner_background_ab_foodtruck = 2130837666;
+			public const int spinner_ab_default_foodtruck = 2130837666;
 			
 			// aapt resource value: 0x7f0200a3
-			public const int splashfoodtruck = 2130837667;
+			public const int spinner_ab_disabled_foodtruck = 2130837667;
 			
 			// aapt resource value: 0x7f0200a4
-			public const int tab_indicator_ab_foodtruck = 2130837668;
+			public const int spinner_ab_focused_foodtruck = 2130837668;
 			
 			// aapt resource value: 0x7f0200a5
-			public const int tab_selected_focused_foodtruck = 2130837669;
+			public const int spinner_ab_pressed_foodtruck = 2130837669;
 			
 			// aapt resource value: 0x7f0200a6
-			public const int tab_selected_foodtruck = 2130837670;
+			public const int spinner_background_ab_foodtruck = 2130837670;
 			
 			// aapt resource value: 0x7f0200a7
-			public const int tab_selected_pressed_foodtruck = 2130837671;
+			public const int splashfoodtruck = 2130837671;
 			
 			// aapt resource value: 0x7f0200a8
-			public const int tab_unselected_focused_foodtruck = 2130837672;
+			public const int tab_indicator_ab_foodtruck = 2130837672;
 			
 			// aapt resource value: 0x7f0200a9
-			public const int tab_unselected_foodtruck = 2130837673;
+			public const int tab_selected_focused_foodtruck = 2130837673;
 			
 			// aapt resource value: 0x7f0200aa
-			public const int tab_unselected_pressed_foodtruck = 2130837674;
+			public const int tab_selected_foodtruck = 2130837674;
 			
 			// aapt resource value: 0x7f0200ab
-			public const int tacosmall = 2130837675;
+			public const int tab_selected_pressed_foodtruck = 2130837675;
+			
+			// aapt resource value: 0x7f0200ac
+			public const int tab_unselected_focused_foodtruck = 2130837676;
+			
+			// aapt resource value: 0x7f0200ad
+			public const int tab_unselected_foodtruck = 2130837677;
+			
+			// aapt resource value: 0x7f0200ae
+			public const int tab_unselected_pressed_foodtruck = 2130837678;
+			
+			// aapt resource value: 0x7f0200af
+			public const int tacosmall = 2130837679;
 			
 			static Drawable()
 			{
@@ -1372,8 +1384,11 @@ namespace FoodTruckAndroid
 			// aapt resource value: 0x7f070039
 			public const int image = 2131165241;
 			
-			// aapt resource value: 0x7f070059
-			public const int imgMenu = 2131165273;
+			// aapt resource value: 0x7f070056
+			public const int imageViewContact = 2131165270;
+			
+			// aapt resource value: 0x7f07005a
+			public const int imgMenu = 2131165274;
 			
 			// aapt resource value: 0x7f070001
 			public const int listMode = 2131165185;
@@ -1381,29 +1396,29 @@ namespace FoodTruckAndroid
 			// aapt resource value: 0x7f07003b
 			public const int list_item = 2131165243;
 			
-			// aapt resource value: 0x7f070056
-			public const int map = 2131165270;
+			// aapt resource value: 0x7f070057
+			public const int map = 2131165271;
 			
 			// aapt resource value: 0x7f070024
 			public const int match_parent = 2131165220;
 			
-			// aapt resource value: 0x7f07005f
-			public const int media_route_control_frame = 2131165279;
-			
 			// aapt resource value: 0x7f070060
-			public const int media_route_disconnect_button = 2131165280;
+			public const int media_route_control_frame = 2131165280;
 			
-			// aapt resource value: 0x7f07005c
-			public const int media_route_list = 2131165276;
+			// aapt resource value: 0x7f070061
+			public const int media_route_disconnect_button = 2131165281;
 			
 			// aapt resource value: 0x7f07005d
-			public const int media_route_volume_layout = 2131165277;
+			public const int media_route_list = 2131165277;
 			
 			// aapt resource value: 0x7f07005e
-			public const int media_route_volume_slider = 2131165278;
+			public const int media_route_volume_layout = 2131165278;
 			
-			// aapt resource value: 0x7f070057
-			public const int menuPager = 2131165271;
+			// aapt resource value: 0x7f07005f
+			public const int media_route_volume_slider = 2131165279;
+			
+			// aapt resource value: 0x7f070058
+			public const int menuPager = 2131165272;
 			
 			// aapt resource value: 0x7f070012
 			public const int middle = 2131165202;
@@ -1504,20 +1519,20 @@ namespace FoodTruckAndroid
 			// aapt resource value: 0x7f07004f
 			public const int textView1 = 2131165263;
 			
-			// aapt resource value: 0x7f070054
-			public const int textView2 = 2131165268;
-			
 			// aapt resource value: 0x7f070052
 			public const int textView3 = 2131165266;
 			
-			// aapt resource value: 0x7f070051
-			public const int textView5 = 2131165265;
-			
-			// aapt resource value: 0x7f070053
-			public const int textView7 = 2131165267;
-			
 			// aapt resource value: 0x7f070055
 			public const int textView8 = 2131165269;
+			
+			// aapt resource value: 0x7f070053
+			public const int textViewEmail = 2131165267;
+			
+			// aapt resource value: 0x7f070054
+			public const int textViewFacebook = 2131165268;
+			
+			// aapt resource value: 0x7f070051
+			public const int textViewPhone = 2131165265;
 			
 			// aapt resource value: 0x7f07003d
 			public const int title = 2131165245;
@@ -1525,14 +1540,14 @@ namespace FoodTruckAndroid
 			// aapt resource value: 0x7f070032
 			public const int top_action_bar = 2131165234;
 			
-			// aapt resource value: 0x7f07005a
-			public const int txtMenuDescription = 2131165274;
-			
-			// aapt resource value: 0x7f070058
-			public const int txtMenuName = 2131165272;
-			
 			// aapt resource value: 0x7f07005b
-			public const int txtMenuPrice = 2131165275;
+			public const int txtMenuDescription = 2131165275;
+			
+			// aapt resource value: 0x7f070059
+			public const int txtMenuName = 2131165273;
+			
+			// aapt resource value: 0x7f07005c
+			public const int txtMenuPrice = 2131165276;
 			
 			// aapt resource value: 0x7f070033
 			public const int up = 2131165235;

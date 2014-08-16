@@ -196,6 +196,10 @@
     <AndroidResource Include="Resources\drawable-xxhdpi\tab_unselected_focused_foodtruck.9.png" />
     <AndroidResource Include="Resources\drawable-xxhdpi\tab_unselected_foodtruck.9.png" />
     <AndroidResource Include="Resources\drawable-xxhdpi\tab_unselected_pressed_foodtruck.9.png" />
+    <AndroidResource Include="Resources\drawable\contactimage1.png" />
+    <AndroidResource Include="Resources\drawable\contactimage2.png" />
+    <AndroidResource Include="Resources\drawable\contactimage3.png" />
+    <AndroidResource Include="Resources\drawable\contactusanim.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Novell\Novell.MonoDroid.CSharp.targets" />
   <ItemGroup>

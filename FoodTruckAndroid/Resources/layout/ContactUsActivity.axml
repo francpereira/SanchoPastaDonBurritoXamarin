@@ -22,7 +22,8 @@
         android:textAppearance="?android:attr/textAppearanceMedium"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/textView5" />
+        android:id="@+id/textViewPhone"
+        android:autoLink="phone" />
     <Space
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -42,7 +43,8 @@
         android:textAppearance="?android:attr/textAppearanceMedium"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/textView7" />
+        android:id="@+id/textViewEmail"
+        android:autoLink="email" />
     <Space
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -53,7 +55,7 @@
         android:textAppearance="?android:attr/textAppearanceMedium"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/textView2" />
+        android:id="@+id/textViewFacebook" />
     <View
         style="@style/Divider"
         android:id="@+id/view1" />
@@ -62,5 +64,11 @@
         android:textAppearance="?android:attr/textAppearanceSmall"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/textView8" />
+        android:id="@+id/textView8"
+        android:autoLink="web" />
+    <ImageView
+        android:src="@drawable/contactimage1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageViewContact" />
 </LinearLayout>

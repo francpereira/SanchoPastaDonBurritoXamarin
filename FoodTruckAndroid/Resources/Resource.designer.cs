@@ -1399,6 +1399,9 @@ namespace FoodTruckAndroid
 			// aapt resource value: 0x7f070057
 			public const int map = 2131165271;
 			
+			// aapt resource value: 0x7f070062
+			public const int map_dir = 2131165282;
+			
 			// aapt resource value: 0x7f070024
 			public const int match_parent = 2131165220;
 			
@@ -1698,6 +1701,22 @@ namespace FoodTruckAndroid
 			}
 			
 			private Layout()
+			{
+			}
+		}
+		
+		public partial class Menu
+		{
+			
+			// aapt resource value: 0x7f0c0000
+			public const int MapMenu = 2131492864;
+			
+			static Menu()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
+			
+			private Menu()
 			{
 			}
 		}

@@ -200,6 +200,7 @@
     <AndroidResource Include="Resources\drawable\contactimage1.png" />
     <AndroidResource Include="Resources\drawable\contactimage2.png" />
     <AndroidResource Include="Resources\drawable\contactimage3.png" />
+    <AndroidResource Include="Resources\menu\MapMenu.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Novell\Novell.MonoDroid.CSharp.targets" />
   <ItemGroup>
@@ -227,5 +228,6 @@
     <Folder Include="Resources\drawable-mdpi\" />
     <Folder Include="Resources\drawable-xhdpi\" />
     <Folder Include="Resources\drawable-xxhdpi\" />
+    <Folder Include="Resources\menu\" />
   </ItemGroup>
 </Project>

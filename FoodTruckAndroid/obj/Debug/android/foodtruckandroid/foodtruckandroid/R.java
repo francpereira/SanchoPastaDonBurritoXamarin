@@ -1576,6 +1576,7 @@ containing a value of this type.
         public static final int listMode=0x7f070001;
         public static final int list_item=0x7f07003b;
         public static final int map=0x7f070057;
+        public static final int map_dir=0x7f070062;
         public static final int match_parent=0x7f070024;
         public static final int media_route_control_frame=0x7f070060;
         public static final int media_route_disconnect_button=0x7f070061;
@@ -1691,6 +1692,9 @@ containing a value of this type.
         public static final int mr_media_route_controller_dialog=0x7f03001d;
         public static final int mr_media_route_list_item=0x7f03001e;
         public static final int support_simple_spinner_dropdown_item=0x7f03001f;
+    }
+    public static final class menu {
+        public static final int mapmenu=0x7f0c0000;
     }
     public static final class string {
         /**  Content description for the action bar "home" affordance. [CHAR LIMIT=NONE] 

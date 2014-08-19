@@ -51,6 +51,29 @@ namespace FoodTruckAndroid
 
 			}
 		}
+
+
+		public override bool OnCreateOptionsMenu (IMenu  menu)
+		{
+			MenuInflater.Inflate(Resource.Menu.MapMenu, menu);
+			return base.OnCreateOptionsMenu(menu);
+		}
+
+		public override bool OnOptionsItemSelected(IMenuItem item)
+		{
+			switch (item.ItemId)
+			{
+			case Resource.Id.map_dir:
+
+				var geoUri = Android.Net.Uri.Parse ("geo:18.413615,-66.098316?z=17&q=18.413615,-66.098316(Don Burrito y Sancho Pasta)");
+				var mapIntent = new Intent (Intent.ActionView, geoUri);
+				StartActivity (mapIntent);
+
+				return true;
+			}
+
+			return base.OnOptionsItemSelected(item);
+		}
 	}
 }
 

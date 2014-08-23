@@ -67,8 +67,12 @@
         android:id="@+id/textView8"
         android:autoLink="web" />
     <ImageView
-        android:src="@drawable/contactimage1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/imageViewContact" />
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageViewContact"
+        android:src="@drawable/contactus" />
 </LinearLayout>

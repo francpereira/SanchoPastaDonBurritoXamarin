@@ -201,6 +201,9 @@
     <AndroidResource Include="Resources\drawable\contactimage2.png" />
     <AndroidResource Include="Resources\drawable\contactimage3.png" />
     <AndroidResource Include="Resources\menu\MapMenu.xml" />
+    <AndroidResource Include="Resources\drawable\burrito.png" />
+    <AndroidResource Include="Resources\drawable\contactus.png" />
+    <AndroidResource Include="Resources\drawable\pasta.png" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Novell\Novell.MonoDroid.CSharp.targets" />
   <ItemGroup>

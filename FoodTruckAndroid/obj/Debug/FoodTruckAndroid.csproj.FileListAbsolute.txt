@@ -145,3 +145,6 @@ C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\obj\Debug\res\drawable\conta
 C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\obj\Debug\res\menu\mapmenu.xml
 C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\obj\Debug\R.cs.flag
 C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\obj\Debug\uploadflags.txt
+C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\obj\Debug\res\drawable\burrito.png
+C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\obj\Debug\res\drawable\contactus.png
+C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\obj\Debug\res\drawable\pasta.png

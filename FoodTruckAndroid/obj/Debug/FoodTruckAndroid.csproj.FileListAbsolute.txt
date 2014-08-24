@@ -1,3 +1,4 @@
+C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\obj\Debug\FoodTruckAndroid.csprojResolveAssemblyReference.cache
 C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\bin\Debug\FoodTruckAndroid.dll
 C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\bin\Debug\FoodTruckAndroid.pdb
 C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\bin\Debug\FoodTruckAndroid.dll.mdb
@@ -10,7 +11,6 @@ C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\bin\Debug\Xamarin.Android.Su
 C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
 C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\bin\Debug\FoodTruckClassLibrary.pdb
 C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\bin\Debug\FoodTruckClassLibrary.dll.mdb
-C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\obj\Debug\FoodTruckAndroid.csprojResolveAssemblyReference.cache
 C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\obj\Debug\FoodTruckAndroid.dll
 C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\obj\Debug\FoodTruckAndroid.pdb
 C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\obj\Debug\android\bin\FoodTruckAndroid.FoodTruckAndroid.apk
@@ -143,8 +143,8 @@ C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\obj\Debug\res\drawable\conta
 C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\obj\Debug\res\drawable\contactimage2.png
 C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\obj\Debug\res\drawable\contactimage3.png
 C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\obj\Debug\res\menu\mapmenu.xml
-C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\obj\Debug\R.cs.flag
-C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\obj\Debug\uploadflags.txt
 C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\obj\Debug\res\drawable\burrito.png
 C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\obj\Debug\res\drawable\contactus.png
 C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\obj\Debug\res\drawable\pasta.png
+C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\obj\Debug\R.cs.flag
+C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\obj\Debug\uploadflags.txt

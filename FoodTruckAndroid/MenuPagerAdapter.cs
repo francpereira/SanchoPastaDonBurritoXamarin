@@ -28,13 +28,15 @@ namespace FoodTruckAndroid
 
 		public override Fragment GetItem (int position)
 		{
-			menuManager.MoveTo(position);
-			MenuFragment mf = new MenuFragment ();
-			mf.menu = menuManager.CurrentMenuOption(); 
-			return mf;
+			//menuManager.MoveTo(position);
+			//MenuFragment mf = new MenuFragment ();
+			//mf.menu = menuManager.CurrentMenuOption(); 
+			return MenuFragment.NewInstance(position);
 		}
 
 		#endregion
+
+
 	}
 }
 

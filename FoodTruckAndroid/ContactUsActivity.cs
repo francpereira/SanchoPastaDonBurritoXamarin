@@ -26,6 +26,42 @@ namespace FoodTruckAndroid
 
 			SetContentView (Resource.Layout.ContactUsActivity);
 
+			ActionBar actionBar = ActionBar;
+			actionBar.NavigationMode = ActionBarNavigationMode.Tabs;
+
+			ActionBar.Tab tab = actionBar.NewTab ();
+			tab.SetText ("Menu");
+			//tab.SetIcon (Resource.Drawable.tab_home);
+			tab.TabSelected += (sender, e) => {
+				StartActivity(typeof(MenuActivity));
+			}; 
+
+			//tab.Select ();
+
+
+			actionBar.AddTab (tab, false);
+
+			tab = actionBar.NewTab ();
+			tab.SetText("Mapa");
+			tab.TabSelected += (sender, e) => {
+
+				//var geoUri = Android.Net.Uri.Parse ("geo:18.413615,-66.098316?z=17&q=18.413615,-66.098316(Don Burrito y Sancho Pasta)");
+				//var mapIntent = new Intent (Intent.ActionView, geoUri);
+				//StartActivity (mapIntent);
+
+				StartActivity(typeof(MapActivity));
+
+			};
+			actionBar.AddTab (tab, false);
+
+			tab = actionBar.NewTab ();
+			tab.SetText ("Contactenos");
+			tab.TabSelected += (sender, e) => {
+
+
+			};
+			actionBar.AddTab (tab, true);
+
 
 			ImageView contactUsImage = FindViewById<ImageView>(Resource.Id.imageViewContact);
 

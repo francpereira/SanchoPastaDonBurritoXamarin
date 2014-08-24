@@ -105,7 +105,7 @@ namespace FoodTruckClassLibrary
 				description = "Incluye bebida y pan con ajo o amarillos.",
 				price = 7.00m,
 				imageFile = "burritosmall"
-			});
+			}); 
 
 		}
 
@@ -136,6 +136,9 @@ namespace FoodTruckClassLibrary
 		{
 			if (position >= 0 && position <= (menu.Count - 1)) {
 				currentIndex = position;
+			} else
+			{
+				throw new Exception ("MoveTo Inndex Out of Range " + position);
 			}
 		}
 

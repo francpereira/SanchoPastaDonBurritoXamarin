@@ -44,6 +44,9 @@ namespace FoodTruckAndroid
 			tab.TabSelected += (sender, e) => {
 			}; 
 
+			//tab.Select ();
+
+
 			actionBar.AddTab (tab);
 
 			tab = actionBar.NewTab ();
@@ -57,7 +60,7 @@ namespace FoodTruckAndroid
 				StartActivity(typeof(MapActivity));
 
 			};
-			actionBar.AddTab (tab);
+			actionBar.AddTab (tab, false);
 
 			tab = actionBar.NewTab ();
 			tab.SetText ("Contactenos");
@@ -65,7 +68,7 @@ namespace FoodTruckAndroid
 			
 				StartActivity(typeof(ContactUsActivity));
 			};
-			actionBar.AddTab (tab);
+			actionBar.AddTab (tab, false);
 
 
 			menuPagerAdapter = new MenuPagerAdapter (SupportFragmentManager, menuManager);

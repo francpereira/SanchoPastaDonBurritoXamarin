@@ -26,6 +26,37 @@ namespace FoodTruckAndroid
 
 			SetContentView (Resource.Layout.MapActivity);
 
+			ActionBar actionBar = ActionBar;
+			actionBar.NavigationMode = ActionBarNavigationMode.Tabs;
+
+			ActionBar.Tab tab = actionBar.NewTab ();
+			tab.SetText ("Menu");
+			//tab.SetIcon (Resource.Drawable.tab_home);
+			tab.TabSelected += (sender, e) => {
+				StartActivity(typeof(MenuActivity));
+			}; 
+
+
+			actionBar.AddTab (tab, false);
+
+			tab = actionBar.NewTab ();
+			tab.SetText("Mapa");
+			tab.TabSelected += (sender, e) => {
+
+
+			};
+			actionBar.AddTab (tab, true);
+
+			tab = actionBar.NewTab ();
+			tab.SetText ("Contactenos");
+			tab.TabSelected += (sender, e) => {
+
+				StartActivity(typeof(ContactUsActivity));
+			};
+			actionBar.AddTab (tab, false);
+
+
+
 			MapFragment mapFrag = (MapFragment) FragmentManager.FindFragmentById(Resource.Id.map);
 			GoogleMap map = mapFrag.Map;
 			if (map != null) {

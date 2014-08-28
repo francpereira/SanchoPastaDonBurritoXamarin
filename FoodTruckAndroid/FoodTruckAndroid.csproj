@@ -55,6 +55,7 @@
     <Reference Include="Xamarin.Android.Support.v7.MediaRouter">
       <HintPath>..\Components\googleplayservices-19.0.0\lib\android\Xamarin.Android.Support.v7.MediaRouter.dll</HintPath>
     </Reference>
+    <Reference Include="Mono.Android.Export" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Resources\Resource.designer.cs" />
@@ -210,6 +211,10 @@
     <ProjectReference Include="..\FoodTruckClassLibrary\FoodTruckClassLibrary.csproj">
       <Project>{B51D6ECA-E595-4F91-B995-7582A6394C6D}</Project>
       <Name>FoodTruckClassLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\Users\Francisco\Downloads\ViewPagerIndicator\Library\Library.csproj">
+      <Project>{FA322A14-2B8E-4496-B950-4D8263CA0A2D}</Project>
+      <Name>Library</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

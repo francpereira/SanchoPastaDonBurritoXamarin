@@ -13,6 +13,7 @@ using Android.Widget;
 using Android.Support.V4.App;
 using FoodTruckClassLibrary;
 using Android.Support.V4.View;
+using DK.Ostebaronen.Droid.ViewPagerIndicator;
 
 namespace FoodTruckAndroid
 {
@@ -76,7 +77,8 @@ namespace FoodTruckAndroid
 			viewPager = FindViewById<ViewPager>(Resource.Id.menuPager);
 			viewPager.Adapter = menuPagerAdapter;
 
-
+			var indicator = FindViewById<CirclePageIndicator>(Resource.Id.indicator);
+			indicator.SetViewPager(viewPager);
 
 		}
 	}

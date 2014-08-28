@@ -4,6 +4,7 @@ C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\bin\Debug\FoodTruckAndroid.p
 C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\bin\Debug\FoodTruckAndroid.dll.mdb
 C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\bin\Debug\FoodTruckAndroid.FoodTruckAndroid.apk
 C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\bin\Debug\FoodTruckAndroid.FoodTruckAndroid-Signed.apk
+C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\bin\Debug\DK.Ostebaronen.Droid.ViewPagerIndicator.dll
 C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\bin\Debug\FoodTruckClassLibrary.dll
 C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\bin\Debug\GooglePlayServicesLib.dll
 C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\bin\Debug\Xamarin.Android.Support.v4.dll
@@ -11,6 +12,8 @@ C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\bin\Debug\Xamarin.Android.Su
 C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
 C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\bin\Debug\FoodTruckClassLibrary.pdb
 C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\bin\Debug\FoodTruckClassLibrary.dll.mdb
+C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\bin\Debug\DK.Ostebaronen.Droid.ViewPagerIndicator.pdb
+C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\bin\Debug\DK.Ostebaronen.Droid.ViewPagerIndicator.dll.mdb
 C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\obj\Debug\FoodTruckAndroid.dll
 C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\obj\Debug\FoodTruckAndroid.pdb
 C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\obj\Debug\android\bin\FoodTruckAndroid.FoodTruckAndroid.apk

@@ -67,6 +67,7 @@ public class MonoPackageManager {
 class MonoPackageManager_Resources {
 	public static final String[] Assemblies = new String[]{
 		"FoodTruckAndroid.dll",
+		"DK.Ostebaronen.Droid.ViewPagerIndicator.dll",
 		"FoodTruckClassLibrary.dll",
 		"GooglePlayServicesLib.dll",
 		"Xamarin.Android.Support.v4.dll",

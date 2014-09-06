@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical"
-    android:layout_width="wrap_content"
+    android:layout_width="fill_parent"
     android:layout_height="wrap_content">
     <ImageView
-        android:layout_width="160dp"
+        android:layout_width="fill_parent"
         android:layout_height="160dp"
         android:id="@+id/imgMenu"
-        android:scaleType="fitXY"
-        android:layout_gravity="center_horizontal" />
+        android:scaleType="fitCenter"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/burrito1"
+        android:layout_marginTop="12dp" />
     <TextView
         android:text="Large Text"
         android:textAppearance="?android:attr/textAppearanceLarge"
@@ -34,5 +36,7 @@
         android:gravity="center"
         android:layout_margin="10dp"
         android:textColor="#ff07df1c"
-        android:layout_marginLeft="15dp" />
+        android:layout_marginLeft="15dp"
+        android:layout_gravity="right"
+        android:textSize="30dp" />
 </LinearLayout>

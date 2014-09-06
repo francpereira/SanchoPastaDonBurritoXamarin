@@ -14,10 +14,11 @@ using Android.Support.V4.App;
 using FoodTruckClassLibrary;
 using Android.Support.V4.View;
 using DK.Ostebaronen.Droid.ViewPagerIndicator;
+using Android.Content.PM;
 
 namespace FoodTruckAndroid
 {
-	[Activity (Label = "Don Burrito y Sancho Pasta", Icon = "@drawable/newicon")]		
+	[Activity (Label = "Don Burrito y Sancho Pasta", Icon = "@drawable/appicon", ScreenOrientation = ScreenOrientation.Portrait)]		
 	public class MenuActivity : FragmentActivity
 	{
 		MenuManager menuManager;

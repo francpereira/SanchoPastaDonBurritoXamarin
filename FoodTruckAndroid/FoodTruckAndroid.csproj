@@ -75,7 +75,6 @@
   <ItemGroup>
     <AndroidResource Include="Resources\values\Strings.xml" />
     <AndroidResource Include="Resources\values\Styles.xml" />
-    <AndroidResource Include="Resources\drawable\NewIcon.png" />
     <AndroidResource Include="Resources\drawable\splashfoodtruck.png" />
     <AndroidResource Include="Resources\layout\MenuFragment.axml" />
     <AndroidResource Include="Resources\layout\MenuActivity.axml" />
@@ -205,6 +204,14 @@
     <AndroidResource Include="Resources\drawable\burrito.png" />
     <AndroidResource Include="Resources\drawable\contactus.png" />
     <AndroidResource Include="Resources\drawable\pasta.png" />
+    <AndroidResource Include="Resources\drawable\burrito1.jpg" />
+    <AndroidResource Include="Resources\drawable\burritoplain.jpg" />
+    <AndroidResource Include="Resources\drawable\lasagna1.jpg" />
+    <AndroidResource Include="Resources\drawable\pasta1.jpg" />
+    <AndroidResource Include="Resources\drawable\quesadilla1.jpg" />
+    <AndroidResource Include="Resources\drawable\sopa1.jpg" />
+    <AndroidResource Include="Resources\drawable\ensalada1.jpg" />
+    <AndroidResource Include="Resources\drawable\appicon.png" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Novell\Novell.MonoDroid.CSharp.targets" />
   <ItemGroup>

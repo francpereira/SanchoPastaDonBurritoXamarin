@@ -1,5 +1,4 @@
 C:\Proyectos\DonBurritoSanchoPasta\FoodTruckClassLibrary\bin\Debug\FoodTruckClassLibrary.dll
 C:\Proyectos\DonBurritoSanchoPasta\FoodTruckClassLibrary\bin\Debug\FoodTruckClassLibrary.pdb
-C:\Proyectos\DonBurritoSanchoPasta\FoodTruckClassLibrary\obj\Debug\FoodTruckClassLibrary.csprojResolveAssemblyReference.cache
 C:\Proyectos\DonBurritoSanchoPasta\FoodTruckClassLibrary\obj\Debug\FoodTruckClassLibrary.dll
 C:\Proyectos\DonBurritoSanchoPasta\FoodTruckClassLibrary\obj\Debug\FoodTruckClassLibrary.pdb

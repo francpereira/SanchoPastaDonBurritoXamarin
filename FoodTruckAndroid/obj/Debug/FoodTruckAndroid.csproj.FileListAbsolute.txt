@@ -1,8 +1,8 @@
 C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\bin\Debug\FoodTruckAndroid.dll
 C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\bin\Debug\FoodTruckAndroid.pdb
 C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\bin\Debug\FoodTruckAndroid.dll.mdb
-C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\bin\Debug\FoodTruckAndroid.FoodTruckAndroid.apk
-C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\bin\Debug\FoodTruckAndroid.FoodTruckAndroid-Signed.apk
+C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\bin\Debug\com.FoodTruckAndroid.FoodTruckAndroid.apk
+C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\bin\Debug\com.FoodTruckAndroid.FoodTruckAndroid-Signed.apk
 C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\bin\Debug\DK.Ostebaronen.Droid.ViewPagerIndicator.dll
 C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\bin\Debug\FoodTruckClassLibrary.dll
 C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\bin\Debug\GooglePlayServicesLib.dll
@@ -16,7 +16,7 @@ C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\bin\Debug\DK.Ostebaronen.Dro
 C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\obj\Debug\FoodTruckAndroid.csprojResolveAssemblyReference.cache
 C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\obj\Debug\FoodTruckAndroid.dll
 C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\obj\Debug\FoodTruckAndroid.pdb
-C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\obj\Debug\android\bin\FoodTruckAndroid.FoodTruckAndroid.apk
+C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\obj\Debug\android\bin\com.FoodTruckAndroid.FoodTruckAndroid.apk
 C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\obj\Debug\res\values\strings.xml
 C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\obj\Debug\res\values\styles.xml
 C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\obj\Debug\res\drawable\splashfoodtruck.png
@@ -146,7 +146,10 @@ C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\obj\Debug\res\drawable\pasta
 C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\obj\Debug\res\drawable\quesadilla1.jpg
 C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\obj\Debug\res\drawable\sopa1.jpg
 C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\obj\Debug\res\drawable\ensalada1.jpg
-C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\obj\Debug\res\drawable\appicon.png
 C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\obj\Debug\res\drawable\burrito.png
+C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\obj\Debug\res\drawable\appicon.png
+C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\obj\Debug\res\drawable-hdpi\appicon.png
+C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\obj\Debug\res\drawable-mdpi\appicon.png
+C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\obj\Debug\res\drawable-xhdpi\appicon.png
 C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\obj\Debug\R.cs.flag
 C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\obj\Debug\uploadflags.txt

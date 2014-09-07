@@ -69,7 +69,7 @@ namespace FoodTruckAndroid
 			menuDescription.Text = menu.description;
 			menuPrice.Text = String.Format("{0:C}", menu.price);//.ToString();
 
-			int resourceInt = Resources.GetIdentifier (menu.imageFile, "drawable", "FoodTruckAndroid.FoodTruckAndroid");
+			int resourceInt = Resources.GetIdentifier (menu.imageFile, "drawable", "com.FoodTruckAndroid.FoodTruckAndroid");
 			imgMenu.SetImageResource(resourceInt);
 
 			return viewRoot;

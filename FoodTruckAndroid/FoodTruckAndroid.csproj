@@ -16,6 +16,7 @@
     <AssemblyName>FoodTruckAndroid</AssemblyName>
     <TargetFrameworkVersion>v4.0.3</TargetFrameworkVersion>
     <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
+    <JavaMaximumHeapSize>1G</JavaMaximumHeapSize>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -27,7 +28,6 @@
     <WarningLevel>4</WarningLevel>
     <AndroidLinkMode>None</AndroidLinkMode>
     <ConsolePause>false</ConsolePause>
-    <JavaMaximumHeapSize>512m</JavaMaximumHeapSize>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>full</DebugType>
@@ -78,10 +78,6 @@
     <AndroidResource Include="Resources\drawable\splashfoodtruck.png" />
     <AndroidResource Include="Resources\layout\MenuFragment.axml" />
     <AndroidResource Include="Resources\layout\MenuActivity.axml" />
-    <AndroidResource Include="Resources\drawable\burritosmall.jpg" />
-    <AndroidResource Include="Resources\drawable\ensaladasmall.jpg" />
-    <AndroidResource Include="Resources\drawable\pastasmall.jpg" />
-    <AndroidResource Include="Resources\drawable\tacosmall.jpg" />
     <AndroidResource Include="Resources\layout\MapActivity.axml" />
     <AndroidResource Include="Resources\layout\ContactUsActivity.axml" />
     <AndroidResource Include="Resources\drawable\ab_background_textured_foodtruck.xml" />
@@ -197,21 +193,20 @@
     <AndroidResource Include="Resources\drawable-xxhdpi\tab_unselected_foodtruck.9.png" />
     <AndroidResource Include="Resources\drawable-xxhdpi\tab_unselected_pressed_foodtruck.9.png" />
     <AndroidResource Include="Resources\drawable\contactusanim.xml" />
-    <AndroidResource Include="Resources\drawable\contactimage1.png" />
-    <AndroidResource Include="Resources\drawable\contactimage2.png" />
-    <AndroidResource Include="Resources\drawable\contactimage3.png" />
     <AndroidResource Include="Resources\menu\MapMenu.xml" />
-    <AndroidResource Include="Resources\drawable\burrito.png" />
     <AndroidResource Include="Resources\drawable\contactus.png" />
     <AndroidResource Include="Resources\drawable\pasta.png" />
     <AndroidResource Include="Resources\drawable\burrito1.jpg" />
-    <AndroidResource Include="Resources\drawable\burritoplain.jpg" />
     <AndroidResource Include="Resources\drawable\lasagna1.jpg" />
     <AndroidResource Include="Resources\drawable\pasta1.jpg" />
     <AndroidResource Include="Resources\drawable\quesadilla1.jpg" />
     <AndroidResource Include="Resources\drawable\sopa1.jpg" />
     <AndroidResource Include="Resources\drawable\ensalada1.jpg" />
+    <AndroidResource Include="Resources\drawable\burrito.png" />
     <AndroidResource Include="Resources\drawable\appicon.png" />
+    <AndroidResource Include="Resources\drawable-hdpi\appicon.png" />
+    <AndroidResource Include="Resources\drawable-mdpi\appicon.png" />
+    <AndroidResource Include="Resources\drawable-xhdpi\appicon.png" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Novell\Novell.MonoDroid.CSharp.targets" />
   <ItemGroup>

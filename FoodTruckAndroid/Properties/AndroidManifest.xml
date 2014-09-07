@@ -1,8 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="FoodTruckAndroid.FoodTruckAndroid">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.FoodTruckAndroid.FoodTruckAndroid">
 	<uses-sdk android:minSdkVersion="15" android:targetSdkVersion="15" />
 	<application android:label="Don Burrito y Sancho Pasta" android:theme="@style/Theme.Foodtruck" android:icon="@drawable/appicon">
-		<meta-data android:name="com.google.android.maps.v2.API_KEY" android:value="AIzaSyDbW7Ttqh_IfWQh9SZhjB-pNDsaU87aJZY" />
+		<!--- <meta-data android:name="com.google.android.maps.v2.API_KEY" android:value="AIzaSyDbW7Ttqh_IfWQh9SZhjB-pNDsaU87aJZY" /> -->
+		<meta-data android:name="com.google.android.maps.v2.API_KEY" android:value="AIzaSyBqtrTQNc0d-kqFFGpexi5ZpB-Go_WgoOY" />
 		<meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
 	</application>
 	<!-- Google Maps for Android v2 requires OpenGL ES v2 -->

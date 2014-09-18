@@ -61,6 +61,20 @@ namespace FoodTruckClassLibrary
 				imageFile = "lasagna1"
 			}); 
 
+
+			menu.Add (new MenuOption () { 
+				name = "3 Tacos",
+				description = "Puedes escoger entre pollo, molida, pernil o churrasco. 2 tacos mas por solo 2 dolares. Cada carne adicional solo 1 dolar mas. Incluye bebida.",
+				price = 5.00m,
+				imageFile = "tacos1"
+			}); 
+
+			menu.Add (new MenuOption () { 
+				name = "Nachos",
+				description = "Puedes escoger entre pollo, molida, pernil o churrasco. Cada carne adicional solo 1 dolar mas. Incluye bebida.",
+				price = 6.00m,
+				imageFile = "nachos1"
+			});
 		}
 
 

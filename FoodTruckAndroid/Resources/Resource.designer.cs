@@ -2114,97 +2114,103 @@ namespace FoodTruckAndroid
 			public const int mr_ic_media_route_on_holo_light = 2130837657;
 			
 			// aapt resource value: 0x7f02009a
-			public const int pasta = 2130837658;
+			public const int nachos1 = 2130837658;
 			
 			// aapt resource value: 0x7f02009b
-			public const int pasta1 = 2130837659;
+			public const int pasta = 2130837659;
 			
 			// aapt resource value: 0x7f02009c
-			public const int powered_by_google_dark = 2130837660;
+			public const int pasta1 = 2130837660;
 			
 			// aapt resource value: 0x7f02009d
-			public const int powered_by_google_light = 2130837661;
+			public const int powered_by_google_dark = 2130837661;
 			
 			// aapt resource value: 0x7f02009e
-			public const int progress_bg_foodtruck = 2130837662;
+			public const int powered_by_google_light = 2130837662;
 			
 			// aapt resource value: 0x7f02009f
-			public const int progress_horizontal_foodtruck = 2130837663;
+			public const int progress_bg_foodtruck = 2130837663;
 			
 			// aapt resource value: 0x7f0200a0
-			public const int progress_primary_foodtruck = 2130837664;
+			public const int progress_horizontal_foodtruck = 2130837664;
 			
 			// aapt resource value: 0x7f0200a1
-			public const int progress_secondary_foodtruck = 2130837665;
+			public const int progress_primary_foodtruck = 2130837665;
 			
 			// aapt resource value: 0x7f0200a2
-			public const int quesadilla1 = 2130837666;
+			public const int progress_secondary_foodtruck = 2130837666;
 			
 			// aapt resource value: 0x7f0200a3
-			public const int selectable_background_foodtruck = 2130837667;
+			public const int quesadilla1 = 2130837667;
 			
 			// aapt resource value: 0x7f0200a4
-			public const int sopa1 = 2130837668;
+			public const int selectable_background_foodtruck = 2130837668;
 			
 			// aapt resource value: 0x7f0200a5
-			public const int spinner_ab_default_foodtruck = 2130837669;
+			public const int sopa1 = 2130837669;
 			
 			// aapt resource value: 0x7f0200a6
-			public const int spinner_ab_disabled_foodtruck = 2130837670;
+			public const int spinner_ab_default_foodtruck = 2130837670;
 			
 			// aapt resource value: 0x7f0200a7
-			public const int spinner_ab_focused_foodtruck = 2130837671;
+			public const int spinner_ab_disabled_foodtruck = 2130837671;
 			
 			// aapt resource value: 0x7f0200a8
-			public const int spinner_ab_pressed_foodtruck = 2130837672;
+			public const int spinner_ab_focused_foodtruck = 2130837672;
 			
 			// aapt resource value: 0x7f0200a9
-			public const int spinner_background_ab_foodtruck = 2130837673;
+			public const int spinner_ab_pressed_foodtruck = 2130837673;
 			
 			// aapt resource value: 0x7f0200aa
-			public const int splashfoodtruck = 2130837674;
+			public const int spinner_background_ab_foodtruck = 2130837674;
 			
 			// aapt resource value: 0x7f0200ab
-			public const int tab_indicator_ab_foodtruck = 2130837675;
+			public const int splashfoodtruck = 2130837675;
 			
 			// aapt resource value: 0x7f0200ac
-			public const int tab_selected_focused_foodtruck = 2130837676;
+			public const int tab_indicator_ab_foodtruck = 2130837676;
 			
 			// aapt resource value: 0x7f0200ad
-			public const int tab_selected_foodtruck = 2130837677;
+			public const int tab_selected_focused_foodtruck = 2130837677;
 			
 			// aapt resource value: 0x7f0200ae
-			public const int tab_selected_pressed_foodtruck = 2130837678;
+			public const int tab_selected_foodtruck = 2130837678;
 			
 			// aapt resource value: 0x7f0200af
-			public const int tab_unselected_focused_foodtruck = 2130837679;
+			public const int tab_selected_pressed_foodtruck = 2130837679;
 			
 			// aapt resource value: 0x7f0200b0
-			public const int tab_unselected_foodtruck = 2130837680;
+			public const int tab_unselected_focused_foodtruck = 2130837680;
 			
 			// aapt resource value: 0x7f0200b1
-			public const int tab_unselected_pressed_foodtruck = 2130837681;
+			public const int tab_unselected_foodtruck = 2130837681;
 			
 			// aapt resource value: 0x7f0200b2
-			public const int vpi__tab_indicator = 2130837682;
+			public const int tab_unselected_pressed_foodtruck = 2130837682;
 			
 			// aapt resource value: 0x7f0200b3
-			public const int vpi__tab_selected_focused_holo = 2130837683;
+			public const int tacos1 = 2130837683;
 			
 			// aapt resource value: 0x7f0200b4
-			public const int vpi__tab_selected_holo = 2130837684;
+			public const int vpi__tab_indicator = 2130837684;
 			
 			// aapt resource value: 0x7f0200b5
-			public const int vpi__tab_selected_pressed_holo = 2130837685;
+			public const int vpi__tab_selected_focused_holo = 2130837685;
 			
 			// aapt resource value: 0x7f0200b6
-			public const int vpi__tab_unselected_focused_holo = 2130837686;
+			public const int vpi__tab_selected_holo = 2130837686;
 			
 			// aapt resource value: 0x7f0200b7
-			public const int vpi__tab_unselected_holo = 2130837687;
+			public const int vpi__tab_selected_pressed_holo = 2130837687;
 			
 			// aapt resource value: 0x7f0200b8
-			public const int vpi__tab_unselected_pressed_holo = 2130837688;
+			public const int vpi__tab_unselected_focused_holo = 2130837688;
+			
+			// aapt resource value: 0x7f0200b9
+			public const int vpi__tab_unselected_holo = 2130837689;
+			
+			// aapt resource value: 0x7f0200ba
+			public const int vpi__tab_unselected_pressed_holo = 2130837690;
 			
 			static Drawable()
 			{

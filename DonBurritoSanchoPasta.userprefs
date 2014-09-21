@@ -1,18 +1,8 @@
 ﻿<Properties GitUserInfo="UsingGIT">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.MonoForAndroid_API_15" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="FoodTruckAndroid\MenuActivity.cs">
-    <Files>
-      <File FileName="FoodTruckAndroid\MenuFragment.cs" Line="21" Column="21" />
-      <File FileName="FoodTruckAndroid\MenuPagerAdapter.cs" Line="3" Column="3" />
-      <File FileName="FoodTruckAndroid\MenuActivity.cs" Line="34" Column="34" />
-      <File FileName="FoodTruckClassLibrary\MenuManager.cs" Line="3" Column="3" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <RunToCursorBreakpoint file="C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\MenuActivity.cs" line="33" column="4" />
-    </BreakpointStore>
+    <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.FoodTruckAndroid MonoForAntroid.PreferredDevice="3.7&quot; WVGA (Nexus One)" />
 </Properties>

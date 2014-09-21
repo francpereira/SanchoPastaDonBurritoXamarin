@@ -11,10 +11,11 @@ using Android.Runtime;
 using Android.Views;
 using Android.Widget;
 using Android.Graphics.Drawables;
+using Android.Content.PM;
 
 namespace FoodTruckAndroid
 {
-	[Activity (Label = "Contactenos")]			
+	[Activity (Label = "Contactenos", ScreenOrientation = ScreenOrientation.Portrait)]			
 	public class ContactUsActivity : Activity
 	{
 

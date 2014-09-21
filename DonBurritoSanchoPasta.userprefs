@@ -1,5 +1,9 @@
 ﻿<Properties GitUserInfo="UsingGIT">
+<<<<<<< HEAD
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+=======
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" PreferredExecutionTarget="Android.TA9650BT15" />
+>>>>>>> FETCH_HEAD
   <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

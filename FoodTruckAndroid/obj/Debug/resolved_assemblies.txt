@@ -1,4 +1,5 @@
 C:\Proyectos\DonBurritoSanchoPasta\FoodTruckAndroid\bin\Debug\FoodTruckAndroid.dll
+C:\Users\Francisco\Downloads\ViewPagerIndicator\Library\bin\Debug\DK.Ostebaronen.Droid.ViewPagerIndicator.dll
 C:\Proyectos\DonBurritoSanchoPasta\FoodTruckClassLibrary\bin\Debug\FoodTruckClassLibrary.dll
 C:\Proyectos\DonBurritoSanchoPasta\Components\googleplayservices-19.0.0\lib\android\GooglePlayServicesLib.dll
 C:\Proyectos\DonBurritoSanchoPasta\Components\googleplayservices-19.0.0\lib\android\Xamarin.Android.Support.v4.dll

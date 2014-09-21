@@ -26,6 +26,724 @@ namespace FoodTruckAndroid
 		
 		public static void UpdateIdValues()
 		{
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Animation.abc_fade_in = global::FoodTruckAndroid.Resource.Animation.abc_fade_in;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Animation.abc_fade_out = global::FoodTruckAndroid.Resource.Animation.abc_fade_out;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Animation.abc_slide_in_bottom = global::FoodTruckAndroid.Resource.Animation.abc_slide_in_bottom;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Animation.abc_slide_in_top = global::FoodTruckAndroid.Resource.Animation.abc_slide_in_top;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Animation.abc_slide_out_bottom = global::FoodTruckAndroid.Resource.Animation.abc_slide_out_bottom;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Animation.abc_slide_out_top = global::FoodTruckAndroid.Resource.Animation.abc_slide_out_top;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.actionBarDivider = global::FoodTruckAndroid.Resource.Attribute.actionBarDivider;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.actionBarItemBackground = global::FoodTruckAndroid.Resource.Attribute.actionBarItemBackground;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.actionBarSize = global::FoodTruckAndroid.Resource.Attribute.actionBarSize;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.actionBarSplitStyle = global::FoodTruckAndroid.Resource.Attribute.actionBarSplitStyle;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.actionBarStyle = global::FoodTruckAndroid.Resource.Attribute.actionBarStyle;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.actionBarTabBarStyle = global::FoodTruckAndroid.Resource.Attribute.actionBarTabBarStyle;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.actionBarTabStyle = global::FoodTruckAndroid.Resource.Attribute.actionBarTabStyle;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.actionBarTabTextStyle = global::FoodTruckAndroid.Resource.Attribute.actionBarTabTextStyle;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.actionBarWidgetTheme = global::FoodTruckAndroid.Resource.Attribute.actionBarWidgetTheme;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.actionButtonStyle = global::FoodTruckAndroid.Resource.Attribute.actionButtonStyle;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.actionDropDownStyle = global::FoodTruckAndroid.Resource.Attribute.actionDropDownStyle;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.actionLayout = global::FoodTruckAndroid.Resource.Attribute.actionLayout;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.actionMenuTextAppearance = global::FoodTruckAndroid.Resource.Attribute.actionMenuTextAppearance;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.actionMenuTextColor = global::FoodTruckAndroid.Resource.Attribute.actionMenuTextColor;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.actionModeBackground = global::FoodTruckAndroid.Resource.Attribute.actionModeBackground;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.actionModeCloseButtonStyle = global::FoodTruckAndroid.Resource.Attribute.actionModeCloseButtonStyle;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.actionModeCloseDrawable = global::FoodTruckAndroid.Resource.Attribute.actionModeCloseDrawable;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.actionModeCopyDrawable = global::FoodTruckAndroid.Resource.Attribute.actionModeCopyDrawable;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.actionModeCutDrawable = global::FoodTruckAndroid.Resource.Attribute.actionModeCutDrawable;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.actionModeFindDrawable = global::FoodTruckAndroid.Resource.Attribute.actionModeFindDrawable;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.actionModePasteDrawable = global::FoodTruckAndroid.Resource.Attribute.actionModePasteDrawable;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.actionModePopupWindowStyle = global::FoodTruckAndroid.Resource.Attribute.actionModePopupWindowStyle;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.actionModeSelectAllDrawable = global::FoodTruckAndroid.Resource.Attribute.actionModeSelectAllDrawable;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.actionModeShareDrawable = global::FoodTruckAndroid.Resource.Attribute.actionModeShareDrawable;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.actionModeSplitBackground = global::FoodTruckAndroid.Resource.Attribute.actionModeSplitBackground;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.actionModeStyle = global::FoodTruckAndroid.Resource.Attribute.actionModeStyle;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.actionModeWebSearchDrawable = global::FoodTruckAndroid.Resource.Attribute.actionModeWebSearchDrawable;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.actionOverflowButtonStyle = global::FoodTruckAndroid.Resource.Attribute.actionOverflowButtonStyle;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.actionProviderClass = global::FoodTruckAndroid.Resource.Attribute.actionProviderClass;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.actionViewClass = global::FoodTruckAndroid.Resource.Attribute.actionViewClass;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.activityChooserViewStyle = global::FoodTruckAndroid.Resource.Attribute.activityChooserViewStyle;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.background = global::FoodTruckAndroid.Resource.Attribute.background;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.backgroundSplit = global::FoodTruckAndroid.Resource.Attribute.backgroundSplit;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.backgroundStacked = global::FoodTruckAndroid.Resource.Attribute.backgroundStacked;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.buttonBarButtonStyle = global::FoodTruckAndroid.Resource.Attribute.buttonBarButtonStyle;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.buttonBarStyle = global::FoodTruckAndroid.Resource.Attribute.buttonBarStyle;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.centered = global::FoodTruckAndroid.Resource.Attribute.centered;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.clipPadding = global::FoodTruckAndroid.Resource.Attribute.clipPadding;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.customNavigationLayout = global::FoodTruckAndroid.Resource.Attribute.customNavigationLayout;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.disableChildrenWhenDisabled = global::FoodTruckAndroid.Resource.Attribute.disableChildrenWhenDisabled;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.displayOptions = global::FoodTruckAndroid.Resource.Attribute.displayOptions;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.divider = global::FoodTruckAndroid.Resource.Attribute.divider;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.dividerHorizontal = global::FoodTruckAndroid.Resource.Attribute.dividerHorizontal;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.dividerPadding = global::FoodTruckAndroid.Resource.Attribute.dividerPadding;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.dividerVertical = global::FoodTruckAndroid.Resource.Attribute.dividerVertical;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.dropDownListViewStyle = global::FoodTruckAndroid.Resource.Attribute.dropDownListViewStyle;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.dropdownListPreferredItemHeight = global::FoodTruckAndroid.Resource.Attribute.dropdownListPreferredItemHeight;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.expandActivityOverflowButtonDrawable = global::FoodTruckAndroid.Resource.Attribute.expandActivityOverflowButtonDrawable;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.fadeDelay = global::FoodTruckAndroid.Resource.Attribute.fadeDelay;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.fadeLength = global::FoodTruckAndroid.Resource.Attribute.fadeLength;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.fades = global::FoodTruckAndroid.Resource.Attribute.fades;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.fillColor = global::FoodTruckAndroid.Resource.Attribute.fillColor;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.footerColor = global::FoodTruckAndroid.Resource.Attribute.footerColor;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.footerIndicatorHeight = global::FoodTruckAndroid.Resource.Attribute.footerIndicatorHeight;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.footerIndicatorStyle = global::FoodTruckAndroid.Resource.Attribute.footerIndicatorStyle;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.footerIndicatorUnderlinePadding = global::FoodTruckAndroid.Resource.Attribute.footerIndicatorUnderlinePadding;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.footerLineHeight = global::FoodTruckAndroid.Resource.Attribute.footerLineHeight;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.footerPadding = global::FoodTruckAndroid.Resource.Attribute.footerPadding;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.gapWidth = global::FoodTruckAndroid.Resource.Attribute.gapWidth;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.height = global::FoodTruckAndroid.Resource.Attribute.height;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.homeAsUpIndicator = global::FoodTruckAndroid.Resource.Attribute.homeAsUpIndicator;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.homeLayout = global::FoodTruckAndroid.Resource.Attribute.homeLayout;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.icon = global::FoodTruckAndroid.Resource.Attribute.icon;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.iconifiedByDefault = global::FoodTruckAndroid.Resource.Attribute.iconifiedByDefault;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.indeterminateProgressStyle = global::FoodTruckAndroid.Resource.Attribute.indeterminateProgressStyle;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.initialActivityCount = global::FoodTruckAndroid.Resource.Attribute.initialActivityCount;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.isLightTheme = global::FoodTruckAndroid.Resource.Attribute.isLightTheme;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.itemPadding = global::FoodTruckAndroid.Resource.Attribute.itemPadding;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.linePosition = global::FoodTruckAndroid.Resource.Attribute.linePosition;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.lineWidth = global::FoodTruckAndroid.Resource.Attribute.lineWidth;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.listChoiceBackgroundIndicator = global::FoodTruckAndroid.Resource.Attribute.listChoiceBackgroundIndicator;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.listPopupWindowStyle = global::FoodTruckAndroid.Resource.Attribute.listPopupWindowStyle;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.listPreferredItemHeight = global::FoodTruckAndroid.Resource.Attribute.listPreferredItemHeight;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.listPreferredItemHeightLarge = global::FoodTruckAndroid.Resource.Attribute.listPreferredItemHeightLarge;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.listPreferredItemHeightSmall = global::FoodTruckAndroid.Resource.Attribute.listPreferredItemHeightSmall;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.listPreferredItemPaddingLeft = global::FoodTruckAndroid.Resource.Attribute.listPreferredItemPaddingLeft;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.listPreferredItemPaddingRight = global::FoodTruckAndroid.Resource.Attribute.listPreferredItemPaddingRight;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.logo = global::FoodTruckAndroid.Resource.Attribute.logo;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.navigationMode = global::FoodTruckAndroid.Resource.Attribute.navigationMode;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.paddingEnd = global::FoodTruckAndroid.Resource.Attribute.paddingEnd;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.paddingStart = global::FoodTruckAndroid.Resource.Attribute.paddingStart;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.pageColor = global::FoodTruckAndroid.Resource.Attribute.pageColor;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.panelMenuListTheme = global::FoodTruckAndroid.Resource.Attribute.panelMenuListTheme;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.panelMenuListWidth = global::FoodTruckAndroid.Resource.Attribute.panelMenuListWidth;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.popupMenuStyle = global::FoodTruckAndroid.Resource.Attribute.popupMenuStyle;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.popupPromptView = global::FoodTruckAndroid.Resource.Attribute.popupPromptView;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.progressBarPadding = global::FoodTruckAndroid.Resource.Attribute.progressBarPadding;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.progressBarStyle = global::FoodTruckAndroid.Resource.Attribute.progressBarStyle;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.prompt = global::FoodTruckAndroid.Resource.Attribute.prompt;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.queryHint = global::FoodTruckAndroid.Resource.Attribute.queryHint;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.radius = global::FoodTruckAndroid.Resource.Attribute.radius;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.searchDropdownBackground = global::FoodTruckAndroid.Resource.Attribute.searchDropdownBackground;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.searchResultListItemHeight = global::FoodTruckAndroid.Resource.Attribute.searchResultListItemHeight;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.searchViewAutoCompleteTextView = global::FoodTruckAndroid.Resource.Attribute.searchViewAutoCompleteTextView;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.searchViewCloseIcon = global::FoodTruckAndroid.Resource.Attribute.searchViewCloseIcon;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.searchViewEditQuery = global::FoodTruckAndroid.Resource.Attribute.searchViewEditQuery;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.searchViewEditQueryBackground = global::FoodTruckAndroid.Resource.Attribute.searchViewEditQueryBackground;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.searchViewGoIcon = global::FoodTruckAndroid.Resource.Attribute.searchViewGoIcon;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.searchViewSearchIcon = global::FoodTruckAndroid.Resource.Attribute.searchViewSearchIcon;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.searchViewTextField = global::FoodTruckAndroid.Resource.Attribute.searchViewTextField;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.searchViewTextFieldRight = global::FoodTruckAndroid.Resource.Attribute.searchViewTextFieldRight;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.searchViewVoiceIcon = global::FoodTruckAndroid.Resource.Attribute.searchViewVoiceIcon;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.selectableItemBackground = global::FoodTruckAndroid.Resource.Attribute.selectableItemBackground;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.selectedBold = global::FoodTruckAndroid.Resource.Attribute.selectedBold;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.selectedColor = global::FoodTruckAndroid.Resource.Attribute.selectedColor;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.showAsAction = global::FoodTruckAndroid.Resource.Attribute.showAsAction;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.showDividers = global::FoodTruckAndroid.Resource.Attribute.showDividers;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.snap = global::FoodTruckAndroid.Resource.Attribute.snap;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.spinnerDropDownItemStyle = global::FoodTruckAndroid.Resource.Attribute.spinnerDropDownItemStyle;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.spinnerMode = global::FoodTruckAndroid.Resource.Attribute.spinnerMode;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.spinnerStyle = global::FoodTruckAndroid.Resource.Attribute.spinnerStyle;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.strokeColor = global::FoodTruckAndroid.Resource.Attribute.strokeColor;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.strokeWidth = global::FoodTruckAndroid.Resource.Attribute.strokeWidth;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.subtitle = global::FoodTruckAndroid.Resource.Attribute.subtitle;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.subtitleTextStyle = global::FoodTruckAndroid.Resource.Attribute.subtitleTextStyle;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.textAllCaps = global::FoodTruckAndroid.Resource.Attribute.textAllCaps;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.textAppearanceLargePopupMenu = global::FoodTruckAndroid.Resource.Attribute.textAppearanceLargePopupMenu;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.textAppearanceListItem = global::FoodTruckAndroid.Resource.Attribute.textAppearanceListItem;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.textAppearanceListItemSmall = global::FoodTruckAndroid.Resource.Attribute.textAppearanceListItemSmall;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.textAppearanceSearchResultSubtitle = global::FoodTruckAndroid.Resource.Attribute.textAppearanceSearchResultSubtitle;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.textAppearanceSearchResultTitle = global::FoodTruckAndroid.Resource.Attribute.textAppearanceSearchResultTitle;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.textAppearanceSmallPopupMenu = global::FoodTruckAndroid.Resource.Attribute.textAppearanceSmallPopupMenu;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.textColorSearchUrl = global::FoodTruckAndroid.Resource.Attribute.textColorSearchUrl;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.title = global::FoodTruckAndroid.Resource.Attribute.title;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.titlePadding = global::FoodTruckAndroid.Resource.Attribute.titlePadding;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.titleTextStyle = global::FoodTruckAndroid.Resource.Attribute.titleTextStyle;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.topPadding = global::FoodTruckAndroid.Resource.Attribute.topPadding;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.unselectedColor = global::FoodTruckAndroid.Resource.Attribute.unselectedColor;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.vpiCirclePageIndicatorStyle = global::FoodTruckAndroid.Resource.Attribute.vpiCirclePageIndicatorStyle;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.vpiIconPageIndicatorStyle = global::FoodTruckAndroid.Resource.Attribute.vpiIconPageIndicatorStyle;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.vpiLinePageIndicatorStyle = global::FoodTruckAndroid.Resource.Attribute.vpiLinePageIndicatorStyle;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.vpiTabPageIndicatorStyle = global::FoodTruckAndroid.Resource.Attribute.vpiTabPageIndicatorStyle;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.vpiTitlePageIndicatorStyle = global::FoodTruckAndroid.Resource.Attribute.vpiTitlePageIndicatorStyle;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.vpiUnderlinePageIndicatorStyle = global::FoodTruckAndroid.Resource.Attribute.vpiUnderlinePageIndicatorStyle;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.windowActionBar = global::FoodTruckAndroid.Resource.Attribute.windowActionBar;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.windowActionBarOverlay = global::FoodTruckAndroid.Resource.Attribute.windowActionBarOverlay;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.windowFixedHeightMajor = global::FoodTruckAndroid.Resource.Attribute.windowFixedHeightMajor;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.windowFixedHeightMinor = global::FoodTruckAndroid.Resource.Attribute.windowFixedHeightMinor;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.windowFixedWidthMajor = global::FoodTruckAndroid.Resource.Attribute.windowFixedWidthMajor;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.windowFixedWidthMinor = global::FoodTruckAndroid.Resource.Attribute.windowFixedWidthMinor;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Attribute.windowSplitActionBar = global::FoodTruckAndroid.Resource.Attribute.windowSplitActionBar;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Boolean.abc_action_bar_embed_tabs_pre_jb = global::FoodTruckAndroid.Resource.Boolean.abc_action_bar_embed_tabs_pre_jb;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Boolean.abc_action_bar_expanded_action_views_exclusive = global::FoodTruckAndroid.Resource.Boolean.abc_action_bar_expanded_action_views_exclusive;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::FoodTruckAndroid.Resource.Boolean.abc_config_actionMenuItemAllCaps;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Boolean.abc_config_allowActionMenuItemTextWithIcon = global::FoodTruckAndroid.Resource.Boolean.abc_config_allowActionMenuItemTextWithIcon;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent = global::FoodTruckAndroid.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Boolean.abc_split_action_bar_is_narrow = global::FoodTruckAndroid.Resource.Boolean.abc_split_action_bar_is_narrow;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Boolean.default_circle_indicator_centered = global::FoodTruckAndroid.Resource.Boolean.default_circle_indicator_centered;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Boolean.default_circle_indicator_snap = global::FoodTruckAndroid.Resource.Boolean.default_circle_indicator_snap;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Boolean.default_line_indicator_centered = global::FoodTruckAndroid.Resource.Boolean.default_line_indicator_centered;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Boolean.default_title_indicator_selected_bold = global::FoodTruckAndroid.Resource.Boolean.default_title_indicator_selected_bold;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Boolean.default_underline_indicator_fades = global::FoodTruckAndroid.Resource.Boolean.default_underline_indicator_fades;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Color.abc_search_url_text_holo = global::FoodTruckAndroid.Resource.Color.abc_search_url_text_holo;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Color.abc_search_url_text_normal = global::FoodTruckAndroid.Resource.Color.abc_search_url_text_normal;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Color.abc_search_url_text_pressed = global::FoodTruckAndroid.Resource.Color.abc_search_url_text_pressed;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Color.abc_search_url_text_selected = global::FoodTruckAndroid.Resource.Color.abc_search_url_text_selected;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Color.default_circle_indicator_fill_color = global::FoodTruckAndroid.Resource.Color.default_circle_indicator_fill_color;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Color.default_circle_indicator_page_color = global::FoodTruckAndroid.Resource.Color.default_circle_indicator_page_color;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Color.default_circle_indicator_stroke_color = global::FoodTruckAndroid.Resource.Color.default_circle_indicator_stroke_color;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Color.default_line_indicator_selected_color = global::FoodTruckAndroid.Resource.Color.default_line_indicator_selected_color;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Color.default_line_indicator_unselected_color = global::FoodTruckAndroid.Resource.Color.default_line_indicator_unselected_color;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Color.default_title_indicator_footer_color = global::FoodTruckAndroid.Resource.Color.default_title_indicator_footer_color;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Color.default_title_indicator_selected_color = global::FoodTruckAndroid.Resource.Color.default_title_indicator_selected_color;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Color.default_title_indicator_text_color = global::FoodTruckAndroid.Resource.Color.default_title_indicator_text_color;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Color.default_underline_indicator_selected_color = global::FoodTruckAndroid.Resource.Color.default_underline_indicator_selected_color;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Color.vpi__background_holo_dark = global::FoodTruckAndroid.Resource.Color.vpi__background_holo_dark;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Color.vpi__background_holo_light = global::FoodTruckAndroid.Resource.Color.vpi__background_holo_light;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Color.vpi__bright_foreground_disabled_holo_dark = global::FoodTruckAndroid.Resource.Color.vpi__bright_foreground_disabled_holo_dark;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Color.vpi__bright_foreground_disabled_holo_light = global::FoodTruckAndroid.Resource.Color.vpi__bright_foreground_disabled_holo_light;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Color.vpi__bright_foreground_holo_dark = global::FoodTruckAndroid.Resource.Color.vpi__bright_foreground_holo_dark;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Color.vpi__bright_foreground_holo_light = global::FoodTruckAndroid.Resource.Color.vpi__bright_foreground_holo_light;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Color.vpi__bright_foreground_inverse_holo_dark = global::FoodTruckAndroid.Resource.Color.vpi__bright_foreground_inverse_holo_dark;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Color.vpi__bright_foreground_inverse_holo_light = global::FoodTruckAndroid.Resource.Color.vpi__bright_foreground_inverse_holo_light;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Color.vpi__dark_theme = global::FoodTruckAndroid.Resource.Color.vpi__dark_theme;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Color.vpi__light_theme = global::FoodTruckAndroid.Resource.Color.vpi__light_theme;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Dimension.abc_action_bar_default_height = global::FoodTruckAndroid.Resource.Dimension.abc_action_bar_default_height;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Dimension.abc_action_bar_icon_vertical_padding = global::FoodTruckAndroid.Resource.Dimension.abc_action_bar_icon_vertical_padding;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Dimension.abc_action_bar_progress_bar_size = global::FoodTruckAndroid.Resource.Dimension.abc_action_bar_progress_bar_size;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Dimension.abc_action_bar_stacked_max_height = global::FoodTruckAndroid.Resource.Dimension.abc_action_bar_stacked_max_height;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::FoodTruckAndroid.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Dimension.abc_action_bar_subtitle_bottom_margin = global::FoodTruckAndroid.Resource.Dimension.abc_action_bar_subtitle_bottom_margin;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Dimension.abc_action_bar_subtitle_text_size = global::FoodTruckAndroid.Resource.Dimension.abc_action_bar_subtitle_text_size;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Dimension.abc_action_bar_subtitle_top_margin = global::FoodTruckAndroid.Resource.Dimension.abc_action_bar_subtitle_top_margin;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Dimension.abc_action_bar_title_text_size = global::FoodTruckAndroid.Resource.Dimension.abc_action_bar_title_text_size;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Dimension.abc_action_button_min_width = global::FoodTruckAndroid.Resource.Dimension.abc_action_button_min_width;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Dimension.abc_config_prefDialogWidth = global::FoodTruckAndroid.Resource.Dimension.abc_config_prefDialogWidth;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Dimension.abc_dropdownitem_icon_width = global::FoodTruckAndroid.Resource.Dimension.abc_dropdownitem_icon_width;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Dimension.abc_dropdownitem_text_padding_left = global::FoodTruckAndroid.Resource.Dimension.abc_dropdownitem_text_padding_left;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Dimension.abc_dropdownitem_text_padding_right = global::FoodTruckAndroid.Resource.Dimension.abc_dropdownitem_text_padding_right;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Dimension.abc_panel_menu_list_width = global::FoodTruckAndroid.Resource.Dimension.abc_panel_menu_list_width;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Dimension.abc_search_view_preferred_width = global::FoodTruckAndroid.Resource.Dimension.abc_search_view_preferred_width;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Dimension.abc_search_view_text_min_width = global::FoodTruckAndroid.Resource.Dimension.abc_search_view_text_min_width;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Dimension.default_circle_indicator_radius = global::FoodTruckAndroid.Resource.Dimension.default_circle_indicator_radius;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Dimension.default_circle_indicator_stroke_width = global::FoodTruckAndroid.Resource.Dimension.default_circle_indicator_stroke_width;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Dimension.default_line_indicator_gap_width = global::FoodTruckAndroid.Resource.Dimension.default_line_indicator_gap_width;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Dimension.default_line_indicator_line_width = global::FoodTruckAndroid.Resource.Dimension.default_line_indicator_line_width;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Dimension.default_line_indicator_stroke_width = global::FoodTruckAndroid.Resource.Dimension.default_line_indicator_stroke_width;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Dimension.default_title_indicator_clip_padding = global::FoodTruckAndroid.Resource.Dimension.default_title_indicator_clip_padding;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Dimension.default_title_indicator_footer_indicator_height = global::FoodTruckAndroid.Resource.Dimension.default_title_indicator_footer_indicator_height;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Dimension.default_title_indicator_footer_indicator_underline_padding = global::FoodTruckAndroid.Resource.Dimension.default_title_indicator_footer_indicator_underline_padding;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Dimension.default_title_indicator_footer_line_height = global::FoodTruckAndroid.Resource.Dimension.default_title_indicator_footer_line_height;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Dimension.default_title_indicator_footer_padding = global::FoodTruckAndroid.Resource.Dimension.default_title_indicator_footer_padding;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Dimension.default_title_indicator_text_size = global::FoodTruckAndroid.Resource.Dimension.default_title_indicator_text_size;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Dimension.default_title_indicator_title_padding = global::FoodTruckAndroid.Resource.Dimension.default_title_indicator_title_padding;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Dimension.default_title_indicator_top_padding = global::FoodTruckAndroid.Resource.Dimension.default_title_indicator_top_padding;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Dimension.dialog_fixed_height_major = global::FoodTruckAndroid.Resource.Dimension.dialog_fixed_height_major;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Dimension.dialog_fixed_height_minor = global::FoodTruckAndroid.Resource.Dimension.dialog_fixed_height_minor;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Dimension.dialog_fixed_width_major = global::FoodTruckAndroid.Resource.Dimension.dialog_fixed_width_major;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Dimension.dialog_fixed_width_minor = global::FoodTruckAndroid.Resource.Dimension.dialog_fixed_width_minor;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_ab_bottom_solid_dark_holo = global::FoodTruckAndroid.Resource.Drawable.abc_ab_bottom_solid_dark_holo;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_ab_bottom_solid_light_holo = global::FoodTruckAndroid.Resource.Drawable.abc_ab_bottom_solid_light_holo;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_ab_bottom_transparent_dark_holo = global::FoodTruckAndroid.Resource.Drawable.abc_ab_bottom_transparent_dark_holo;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_ab_bottom_transparent_light_holo = global::FoodTruckAndroid.Resource.Drawable.abc_ab_bottom_transparent_light_holo;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_ab_share_pack_holo_dark = global::FoodTruckAndroid.Resource.Drawable.abc_ab_share_pack_holo_dark;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_ab_share_pack_holo_light = global::FoodTruckAndroid.Resource.Drawable.abc_ab_share_pack_holo_light;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_ab_solid_dark_holo = global::FoodTruckAndroid.Resource.Drawable.abc_ab_solid_dark_holo;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_ab_solid_light_holo = global::FoodTruckAndroid.Resource.Drawable.abc_ab_solid_light_holo;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_ab_stacked_solid_dark_holo = global::FoodTruckAndroid.Resource.Drawable.abc_ab_stacked_solid_dark_holo;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_ab_stacked_solid_light_holo = global::FoodTruckAndroid.Resource.Drawable.abc_ab_stacked_solid_light_holo;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_ab_stacked_transparent_dark_holo = global::FoodTruckAndroid.Resource.Drawable.abc_ab_stacked_transparent_dark_holo;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_ab_stacked_transparent_light_holo = global::FoodTruckAndroid.Resource.Drawable.abc_ab_stacked_transparent_light_holo;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_ab_transparent_dark_holo = global::FoodTruckAndroid.Resource.Drawable.abc_ab_transparent_dark_holo;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_ab_transparent_light_holo = global::FoodTruckAndroid.Resource.Drawable.abc_ab_transparent_light_holo;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_cab_background_bottom_holo_dark = global::FoodTruckAndroid.Resource.Drawable.abc_cab_background_bottom_holo_dark;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_cab_background_bottom_holo_light = global::FoodTruckAndroid.Resource.Drawable.abc_cab_background_bottom_holo_light;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_cab_background_top_holo_dark = global::FoodTruckAndroid.Resource.Drawable.abc_cab_background_top_holo_dark;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_cab_background_top_holo_light = global::FoodTruckAndroid.Resource.Drawable.abc_cab_background_top_holo_light;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_ic_ab_back_holo_dark = global::FoodTruckAndroid.Resource.Drawable.abc_ic_ab_back_holo_dark;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_ic_ab_back_holo_light = global::FoodTruckAndroid.Resource.Drawable.abc_ic_ab_back_holo_light;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_ic_cab_done_holo_dark = global::FoodTruckAndroid.Resource.Drawable.abc_ic_cab_done_holo_dark;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_ic_cab_done_holo_light = global::FoodTruckAndroid.Resource.Drawable.abc_ic_cab_done_holo_light;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_ic_clear = global::FoodTruckAndroid.Resource.Drawable.abc_ic_clear;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_ic_clear_disabled = global::FoodTruckAndroid.Resource.Drawable.abc_ic_clear_disabled;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_ic_clear_holo_light = global::FoodTruckAndroid.Resource.Drawable.abc_ic_clear_holo_light;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_ic_clear_normal = global::FoodTruckAndroid.Resource.Drawable.abc_ic_clear_normal;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_ic_clear_search_api_disabled_holo_light = global::FoodTruckAndroid.Resource.Drawable.abc_ic_clear_search_api_disabled_holo_light;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_ic_clear_search_api_holo_light = global::FoodTruckAndroid.Resource.Drawable.abc_ic_clear_search_api_holo_light;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_ic_commit_search_api_holo_dark = global::FoodTruckAndroid.Resource.Drawable.abc_ic_commit_search_api_holo_dark;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_ic_commit_search_api_holo_light = global::FoodTruckAndroid.Resource.Drawable.abc_ic_commit_search_api_holo_light;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_ic_go = global::FoodTruckAndroid.Resource.Drawable.abc_ic_go;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_ic_go_search_api_holo_light = global::FoodTruckAndroid.Resource.Drawable.abc_ic_go_search_api_holo_light;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_ic_menu_moreoverflow_normal_holo_dark = global::FoodTruckAndroid.Resource.Drawable.abc_ic_menu_moreoverflow_normal_holo_dark;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_ic_menu_moreoverflow_normal_holo_light = global::FoodTruckAndroid.Resource.Drawable.abc_ic_menu_moreoverflow_normal_holo_light;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_ic_menu_share_holo_dark = global::FoodTruckAndroid.Resource.Drawable.abc_ic_menu_share_holo_dark;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_ic_menu_share_holo_light = global::FoodTruckAndroid.Resource.Drawable.abc_ic_menu_share_holo_light;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_ic_search = global::FoodTruckAndroid.Resource.Drawable.abc_ic_search;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_ic_search_api_holo_light = global::FoodTruckAndroid.Resource.Drawable.abc_ic_search_api_holo_light;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_ic_voice_search = global::FoodTruckAndroid.Resource.Drawable.abc_ic_voice_search;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_ic_voice_search_api_holo_light = global::FoodTruckAndroid.Resource.Drawable.abc_ic_voice_search_api_holo_light;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_item_background_holo_dark = global::FoodTruckAndroid.Resource.Drawable.abc_item_background_holo_dark;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_item_background_holo_light = global::FoodTruckAndroid.Resource.Drawable.abc_item_background_holo_light;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_list_divider_holo_dark = global::FoodTruckAndroid.Resource.Drawable.abc_list_divider_holo_dark;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_list_divider_holo_light = global::FoodTruckAndroid.Resource.Drawable.abc_list_divider_holo_light;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_list_focused_holo = global::FoodTruckAndroid.Resource.Drawable.abc_list_focused_holo;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_list_longpressed_holo = global::FoodTruckAndroid.Resource.Drawable.abc_list_longpressed_holo;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_list_pressed_holo_dark = global::FoodTruckAndroid.Resource.Drawable.abc_list_pressed_holo_dark;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_list_pressed_holo_light = global::FoodTruckAndroid.Resource.Drawable.abc_list_pressed_holo_light;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::FoodTruckAndroid.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::FoodTruckAndroid.Resource.Drawable.abc_list_selector_background_transition_holo_light;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::FoodTruckAndroid.Resource.Drawable.abc_list_selector_disabled_holo_dark;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_list_selector_disabled_holo_light = global::FoodTruckAndroid.Resource.Drawable.abc_list_selector_disabled_holo_light;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_list_selector_holo_dark = global::FoodTruckAndroid.Resource.Drawable.abc_list_selector_holo_dark;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_list_selector_holo_light = global::FoodTruckAndroid.Resource.Drawable.abc_list_selector_holo_light;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_menu_dropdown_panel_holo_dark = global::FoodTruckAndroid.Resource.Drawable.abc_menu_dropdown_panel_holo_dark;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_menu_dropdown_panel_holo_light = global::FoodTruckAndroid.Resource.Drawable.abc_menu_dropdown_panel_holo_light;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_menu_hardkey_panel_holo_dark = global::FoodTruckAndroid.Resource.Drawable.abc_menu_hardkey_panel_holo_dark;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_menu_hardkey_panel_holo_light = global::FoodTruckAndroid.Resource.Drawable.abc_menu_hardkey_panel_holo_light;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_search_dropdown_dark = global::FoodTruckAndroid.Resource.Drawable.abc_search_dropdown_dark;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_search_dropdown_light = global::FoodTruckAndroid.Resource.Drawable.abc_search_dropdown_light;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_spinner_ab_default_holo_dark = global::FoodTruckAndroid.Resource.Drawable.abc_spinner_ab_default_holo_dark;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_spinner_ab_default_holo_light = global::FoodTruckAndroid.Resource.Drawable.abc_spinner_ab_default_holo_light;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_spinner_ab_disabled_holo_dark = global::FoodTruckAndroid.Resource.Drawable.abc_spinner_ab_disabled_holo_dark;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_spinner_ab_disabled_holo_light = global::FoodTruckAndroid.Resource.Drawable.abc_spinner_ab_disabled_holo_light;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_spinner_ab_focused_holo_dark = global::FoodTruckAndroid.Resource.Drawable.abc_spinner_ab_focused_holo_dark;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_spinner_ab_focused_holo_light = global::FoodTruckAndroid.Resource.Drawable.abc_spinner_ab_focused_holo_light;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_spinner_ab_holo_dark = global::FoodTruckAndroid.Resource.Drawable.abc_spinner_ab_holo_dark;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_spinner_ab_holo_light = global::FoodTruckAndroid.Resource.Drawable.abc_spinner_ab_holo_light;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_spinner_ab_pressed_holo_dark = global::FoodTruckAndroid.Resource.Drawable.abc_spinner_ab_pressed_holo_dark;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_spinner_ab_pressed_holo_light = global::FoodTruckAndroid.Resource.Drawable.abc_spinner_ab_pressed_holo_light;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_tab_indicator_ab_holo = global::FoodTruckAndroid.Resource.Drawable.abc_tab_indicator_ab_holo;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_tab_selected_focused_holo = global::FoodTruckAndroid.Resource.Drawable.abc_tab_selected_focused_holo;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_tab_selected_holo = global::FoodTruckAndroid.Resource.Drawable.abc_tab_selected_holo;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_tab_selected_pressed_holo = global::FoodTruckAndroid.Resource.Drawable.abc_tab_selected_pressed_holo;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_tab_unselected_pressed_holo = global::FoodTruckAndroid.Resource.Drawable.abc_tab_unselected_pressed_holo;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_textfield_search_default_holo_dark = global::FoodTruckAndroid.Resource.Drawable.abc_textfield_search_default_holo_dark;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_textfield_search_default_holo_light = global::FoodTruckAndroid.Resource.Drawable.abc_textfield_search_default_holo_light;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_textfield_search_right_default_holo_dark = global::FoodTruckAndroid.Resource.Drawable.abc_textfield_search_right_default_holo_dark;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_textfield_search_right_default_holo_light = global::FoodTruckAndroid.Resource.Drawable.abc_textfield_search_right_default_holo_light;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_textfield_search_right_selected_holo_dark = global::FoodTruckAndroid.Resource.Drawable.abc_textfield_search_right_selected_holo_dark;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_textfield_search_right_selected_holo_light = global::FoodTruckAndroid.Resource.Drawable.abc_textfield_search_right_selected_holo_light;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_textfield_search_selected_holo_dark = global::FoodTruckAndroid.Resource.Drawable.abc_textfield_search_selected_holo_dark;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_textfield_search_selected_holo_light = global::FoodTruckAndroid.Resource.Drawable.abc_textfield_search_selected_holo_light;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_textfield_searchview_holo_dark = global::FoodTruckAndroid.Resource.Drawable.abc_textfield_searchview_holo_dark;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_textfield_searchview_holo_light = global::FoodTruckAndroid.Resource.Drawable.abc_textfield_searchview_holo_light;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_textfield_searchview_right_holo_dark = global::FoodTruckAndroid.Resource.Drawable.abc_textfield_searchview_right_holo_dark;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.abc_textfield_searchview_right_holo_light = global::FoodTruckAndroid.Resource.Drawable.abc_textfield_searchview_right_holo_light;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.vpi__tab_indicator = global::FoodTruckAndroid.Resource.Drawable.vpi__tab_indicator;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.vpi__tab_selected_focused_holo = global::FoodTruckAndroid.Resource.Drawable.vpi__tab_selected_focused_holo;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.vpi__tab_selected_holo = global::FoodTruckAndroid.Resource.Drawable.vpi__tab_selected_holo;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.vpi__tab_selected_pressed_holo = global::FoodTruckAndroid.Resource.Drawable.vpi__tab_selected_pressed_holo;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.vpi__tab_unselected_focused_holo = global::FoodTruckAndroid.Resource.Drawable.vpi__tab_unselected_focused_holo;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.vpi__tab_unselected_holo = global::FoodTruckAndroid.Resource.Drawable.vpi__tab_unselected_holo;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Drawable.vpi__tab_unselected_pressed_holo = global::FoodTruckAndroid.Resource.Drawable.vpi__tab_unselected_pressed_holo;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Id.action_bar = global::FoodTruckAndroid.Resource.Id.action_bar;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Id.action_bar_activity_content = global::FoodTruckAndroid.Resource.Id.action_bar_activity_content;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Id.action_bar_container = global::FoodTruckAndroid.Resource.Id.action_bar_container;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Id.action_bar_overlay_layout = global::FoodTruckAndroid.Resource.Id.action_bar_overlay_layout;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Id.action_bar_root = global::FoodTruckAndroid.Resource.Id.action_bar_root;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Id.action_bar_subtitle = global::FoodTruckAndroid.Resource.Id.action_bar_subtitle;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Id.action_bar_title = global::FoodTruckAndroid.Resource.Id.action_bar_title;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Id.action_context_bar = global::FoodTruckAndroid.Resource.Id.action_context_bar;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Id.action_menu_divider = global::FoodTruckAndroid.Resource.Id.action_menu_divider;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Id.action_menu_presenter = global::FoodTruckAndroid.Resource.Id.action_menu_presenter;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Id.action_mode_close_button = global::FoodTruckAndroid.Resource.Id.action_mode_close_button;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Id.activity_chooser_view_content = global::FoodTruckAndroid.Resource.Id.activity_chooser_view_content;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Id.always = global::FoodTruckAndroid.Resource.Id.always;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Id.beginning = global::FoodTruckAndroid.Resource.Id.beginning;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Id.bottom = global::FoodTruckAndroid.Resource.Id.bottom;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Id.checkbox = global::FoodTruckAndroid.Resource.Id.checkbox;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Id.collapseActionView = global::FoodTruckAndroid.Resource.Id.collapseActionView;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Id.default_activity_button = global::FoodTruckAndroid.Resource.Id.default_activity_button;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Id.dialog = global::FoodTruckAndroid.Resource.Id.dialog;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Id.disableHome = global::FoodTruckAndroid.Resource.Id.disableHome;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Id.dropdown = global::FoodTruckAndroid.Resource.Id.dropdown;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Id.edit_query = global::FoodTruckAndroid.Resource.Id.edit_query;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Id.end = global::FoodTruckAndroid.Resource.Id.end;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Id.expand_activities_button = global::FoodTruckAndroid.Resource.Id.expand_activities_button;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Id.expanded_menu = global::FoodTruckAndroid.Resource.Id.expanded_menu;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Id.home = global::FoodTruckAndroid.Resource.Id.home;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Id.homeAsUp = global::FoodTruckAndroid.Resource.Id.homeAsUp;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Id.icon = global::FoodTruckAndroid.Resource.Id.icon;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Id.ifRoom = global::FoodTruckAndroid.Resource.Id.ifRoom;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Id.image = global::FoodTruckAndroid.Resource.Id.image;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Id.listMode = global::FoodTruckAndroid.Resource.Id.listMode;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Id.list_item = global::FoodTruckAndroid.Resource.Id.list_item;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Id.middle = global::FoodTruckAndroid.Resource.Id.middle;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Id.never = global::FoodTruckAndroid.Resource.Id.never;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Id.none = global::FoodTruckAndroid.Resource.Id.none;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Id.normal = global::FoodTruckAndroid.Resource.Id.normal;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Id.progress_circular = global::FoodTruckAndroid.Resource.Id.progress_circular;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Id.progress_horizontal = global::FoodTruckAndroid.Resource.Id.progress_horizontal;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Id.radio = global::FoodTruckAndroid.Resource.Id.radio;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Id.search_badge = global::FoodTruckAndroid.Resource.Id.search_badge;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Id.search_bar = global::FoodTruckAndroid.Resource.Id.search_bar;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Id.search_button = global::FoodTruckAndroid.Resource.Id.search_button;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Id.search_close_btn = global::FoodTruckAndroid.Resource.Id.search_close_btn;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Id.search_edit_frame = global::FoodTruckAndroid.Resource.Id.search_edit_frame;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Id.search_go_btn = global::FoodTruckAndroid.Resource.Id.search_go_btn;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Id.search_mag_icon = global::FoodTruckAndroid.Resource.Id.search_mag_icon;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Id.search_plate = global::FoodTruckAndroid.Resource.Id.search_plate;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Id.search_src_text = global::FoodTruckAndroid.Resource.Id.search_src_text;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Id.search_voice_btn = global::FoodTruckAndroid.Resource.Id.search_voice_btn;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Id.shortcut = global::FoodTruckAndroid.Resource.Id.shortcut;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Id.showCustom = global::FoodTruckAndroid.Resource.Id.showCustom;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Id.showHome = global::FoodTruckAndroid.Resource.Id.showHome;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Id.showTitle = global::FoodTruckAndroid.Resource.Id.showTitle;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Id.split_action_bar = global::FoodTruckAndroid.Resource.Id.split_action_bar;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Id.submit_area = global::FoodTruckAndroid.Resource.Id.submit_area;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Id.tabMode = global::FoodTruckAndroid.Resource.Id.tabMode;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Id.title = global::FoodTruckAndroid.Resource.Id.title;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Id.top = global::FoodTruckAndroid.Resource.Id.top;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Id.top_action_bar = global::FoodTruckAndroid.Resource.Id.top_action_bar;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Id.triangle = global::FoodTruckAndroid.Resource.Id.triangle;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Id.underline = global::FoodTruckAndroid.Resource.Id.underline;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Id.up = global::FoodTruckAndroid.Resource.Id.up;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Id.useLogo = global::FoodTruckAndroid.Resource.Id.useLogo;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Id.withText = global::FoodTruckAndroid.Resource.Id.withText;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Integer.abc_max_action_buttons = global::FoodTruckAndroid.Resource.Integer.abc_max_action_buttons;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Integer.default_circle_indicator_orientation = global::FoodTruckAndroid.Resource.Integer.default_circle_indicator_orientation;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Integer.default_title_indicator_footer_indicator_style = global::FoodTruckAndroid.Resource.Integer.default_title_indicator_footer_indicator_style;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Integer.default_title_indicator_line_position = global::FoodTruckAndroid.Resource.Integer.default_title_indicator_line_position;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Integer.default_underline_indicator_fade_delay = global::FoodTruckAndroid.Resource.Integer.default_underline_indicator_fade_delay;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Integer.default_underline_indicator_fade_length = global::FoodTruckAndroid.Resource.Integer.default_underline_indicator_fade_length;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Layout.abc_action_bar_decor = global::FoodTruckAndroid.Resource.Layout.abc_action_bar_decor;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Layout.abc_action_bar_decor_include = global::FoodTruckAndroid.Resource.Layout.abc_action_bar_decor_include;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Layout.abc_action_bar_decor_overlay = global::FoodTruckAndroid.Resource.Layout.abc_action_bar_decor_overlay;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Layout.abc_action_bar_home = global::FoodTruckAndroid.Resource.Layout.abc_action_bar_home;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Layout.abc_action_bar_tab = global::FoodTruckAndroid.Resource.Layout.abc_action_bar_tab;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Layout.abc_action_bar_tabbar = global::FoodTruckAndroid.Resource.Layout.abc_action_bar_tabbar;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Layout.abc_action_bar_title_item = global::FoodTruckAndroid.Resource.Layout.abc_action_bar_title_item;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Layout.abc_action_bar_view_list_nav_layout = global::FoodTruckAndroid.Resource.Layout.abc_action_bar_view_list_nav_layout;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Layout.abc_action_menu_item_layout = global::FoodTruckAndroid.Resource.Layout.abc_action_menu_item_layout;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Layout.abc_action_menu_layout = global::FoodTruckAndroid.Resource.Layout.abc_action_menu_layout;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Layout.abc_action_mode_bar = global::FoodTruckAndroid.Resource.Layout.abc_action_mode_bar;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Layout.abc_action_mode_close_item = global::FoodTruckAndroid.Resource.Layout.abc_action_mode_close_item;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Layout.abc_activity_chooser_view = global::FoodTruckAndroid.Resource.Layout.abc_activity_chooser_view;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Layout.abc_activity_chooser_view_include = global::FoodTruckAndroid.Resource.Layout.abc_activity_chooser_view_include;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Layout.abc_activity_chooser_view_list_item = global::FoodTruckAndroid.Resource.Layout.abc_activity_chooser_view_list_item;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Layout.abc_expanded_menu_layout = global::FoodTruckAndroid.Resource.Layout.abc_expanded_menu_layout;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Layout.abc_list_menu_item_checkbox = global::FoodTruckAndroid.Resource.Layout.abc_list_menu_item_checkbox;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Layout.abc_list_menu_item_icon = global::FoodTruckAndroid.Resource.Layout.abc_list_menu_item_icon;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Layout.abc_list_menu_item_layout = global::FoodTruckAndroid.Resource.Layout.abc_list_menu_item_layout;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Layout.abc_list_menu_item_radio = global::FoodTruckAndroid.Resource.Layout.abc_list_menu_item_radio;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Layout.abc_popup_menu_item_layout = global::FoodTruckAndroid.Resource.Layout.abc_popup_menu_item_layout;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Layout.abc_search_dropdown_item_icons_2line = global::FoodTruckAndroid.Resource.Layout.abc_search_dropdown_item_icons_2line;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Layout.abc_search_view = global::FoodTruckAndroid.Resource.Layout.abc_search_view;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Layout.abc_simple_decor = global::FoodTruckAndroid.Resource.Layout.abc_simple_decor;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Layout.support_simple_spinner_dropdown_item = global::FoodTruckAndroid.Resource.Layout.support_simple_spinner_dropdown_item;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.String.abc_action_bar_home_description = global::FoodTruckAndroid.Resource.String.abc_action_bar_home_description;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.String.abc_action_bar_up_description = global::FoodTruckAndroid.Resource.String.abc_action_bar_up_description;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.String.abc_action_menu_overflow_description = global::FoodTruckAndroid.Resource.String.abc_action_menu_overflow_description;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.String.abc_action_mode_done = global::FoodTruckAndroid.Resource.String.abc_action_mode_done;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.String.abc_activity_chooser_view_see_all = global::FoodTruckAndroid.Resource.String.abc_activity_chooser_view_see_all;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.String.abc_activitychooserview_choose_application = global::FoodTruckAndroid.Resource.String.abc_activitychooserview_choose_application;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.String.abc_searchview_description_clear = global::FoodTruckAndroid.Resource.String.abc_searchview_description_clear;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.String.abc_searchview_description_query = global::FoodTruckAndroid.Resource.String.abc_searchview_description_query;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.String.abc_searchview_description_search = global::FoodTruckAndroid.Resource.String.abc_searchview_description_search;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.String.abc_searchview_description_submit = global::FoodTruckAndroid.Resource.String.abc_searchview_description_submit;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.String.abc_searchview_description_voice = global::FoodTruckAndroid.Resource.String.abc_searchview_description_voice;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.String.abc_shareactionprovider_share_with = global::FoodTruckAndroid.Resource.String.abc_shareactionprovider_share_with;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.String.abc_shareactionprovider_share_with_application = global::FoodTruckAndroid.Resource.String.abc_shareactionprovider_share_with_application;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.TextAppearance_AppCompat_Base_CompactMenu_Dialog = global::FoodTruckAndroid.Resource.Style.TextAppearance_AppCompat_Base_CompactMenu_Dialog;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.TextAppearance_AppCompat_Base_SearchResult = global::FoodTruckAndroid.Resource.Style.TextAppearance_AppCompat_Base_SearchResult;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.TextAppearance_AppCompat_Base_SearchResult_Subtitle = global::FoodTruckAndroid.Resource.Style.TextAppearance_AppCompat_Base_SearchResult_Subtitle;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.TextAppearance_AppCompat_Base_SearchResult_Title = global::FoodTruckAndroid.Resource.Style.TextAppearance_AppCompat_Base_SearchResult_Title;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.TextAppearance_AppCompat_Base_Widget_PopupMenu_Large = global::FoodTruckAndroid.Resource.Style.TextAppearance_AppCompat_Base_Widget_PopupMenu_Large;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.TextAppearance_AppCompat_Base_Widget_PopupMenu_Small = global::FoodTruckAndroid.Resource.Style.TextAppearance_AppCompat_Base_Widget_PopupMenu_Small;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.TextAppearance_AppCompat_Light_Base_SearchResult = global::FoodTruckAndroid.Resource.Style.TextAppearance_AppCompat_Light_Base_SearchResult;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.TextAppearance_AppCompat_Light_Base_SearchResult_Subtitle = global::FoodTruckAndroid.Resource.Style.TextAppearance_AppCompat_Light_Base_SearchResult_Subtitle;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.TextAppearance_AppCompat_Light_Base_SearchResult_Title = global::FoodTruckAndroid.Resource.Style.TextAppearance_AppCompat_Light_Base_SearchResult_Title;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.TextAppearance_AppCompat_Light_Base_Widget_PopupMenu_Large = global::FoodTruckAndroid.Resource.Style.TextAppearance_AppCompat_Light_Base_Widget_PopupMenu_Large;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.TextAppearance_AppCompat_Light_Base_Widget_PopupMenu_Small = global::FoodTruckAndroid.Resource.Style.TextAppearance_AppCompat_Light_Base_Widget_PopupMenu_Small;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::FoodTruckAndroid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::FoodTruckAndroid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::FoodTruckAndroid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::FoodTruckAndroid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::FoodTruckAndroid.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::FoodTruckAndroid.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::FoodTruckAndroid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::FoodTruckAndroid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::FoodTruckAndroid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::FoodTruckAndroid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::FoodTruckAndroid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::FoodTruckAndroid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::FoodTruckAndroid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::FoodTruckAndroid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::FoodTruckAndroid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.TextAppearance_AppCompat_Widget_Base_ActionBar_Menu = global::FoodTruckAndroid.Resource.Style.TextAppearance_AppCompat_Widget_Base_ActionBar_Menu;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.TextAppearance_AppCompat_Widget_Base_ActionBar_Subtitle = global::FoodTruckAndroid.Resource.Style.TextAppearance_AppCompat_Widget_Base_ActionBar_Subtitle;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.TextAppearance_AppCompat_Widget_Base_ActionBar_Subtitle_Inverse = global::FoodTruckAndroid.Resource.Style.TextAppearance_AppCompat_Widget_Base_ActionBar_Subtitle_Inverse;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.TextAppearance_AppCompat_Widget_Base_ActionBar_Title = global::FoodTruckAndroid.Resource.Style.TextAppearance_AppCompat_Widget_Base_ActionBar_Title;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.TextAppearance_AppCompat_Widget_Base_ActionBar_Title_Inverse = global::FoodTruckAndroid.Resource.Style.TextAppearance_AppCompat_Widget_Base_ActionBar_Title_Inverse;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.TextAppearance_AppCompat_Widget_Base_ActionMode_Subtitle = global::FoodTruckAndroid.Resource.Style.TextAppearance_AppCompat_Widget_Base_ActionMode_Subtitle;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.TextAppearance_AppCompat_Widget_Base_ActionMode_Subtitle_Inverse = global::FoodTruckAndroid.Resource.Style.TextAppearance_AppCompat_Widget_Base_ActionMode_Subtitle_Inverse;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.TextAppearance_AppCompat_Widget_Base_ActionMode_Title = global::FoodTruckAndroid.Resource.Style.TextAppearance_AppCompat_Widget_Base_ActionMode_Title;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.TextAppearance_AppCompat_Widget_Base_ActionMode_Title_Inverse = global::FoodTruckAndroid.Resource.Style.TextAppearance_AppCompat_Widget_Base_ActionMode_Title_Inverse;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.TextAppearance_AppCompat_Widget_Base_DropDownItem = global::FoodTruckAndroid.Resource.Style.TextAppearance_AppCompat_Widget_Base_DropDownItem;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::FoodTruckAndroid.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::FoodTruckAndroid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::FoodTruckAndroid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.TextAppearance_TabPageIndicator = global::FoodTruckAndroid.Resource.Style.TextAppearance_TabPageIndicator;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.TextAppearance_Widget_AppCompat_Base_ExpandedMenu_Item = global::FoodTruckAndroid.Resource.Style.TextAppearance_Widget_AppCompat_Base_ExpandedMenu_Item;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::FoodTruckAndroid.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Theme_AppCompat = global::FoodTruckAndroid.Resource.Style.Theme_AppCompat;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Theme_AppCompat_Base_CompactMenu = global::FoodTruckAndroid.Resource.Style.Theme_AppCompat_Base_CompactMenu;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Theme_AppCompat_Base_CompactMenu_Dialog = global::FoodTruckAndroid.Resource.Style.Theme_AppCompat_Base_CompactMenu_Dialog;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Theme_AppCompat_CompactMenu = global::FoodTruckAndroid.Resource.Style.Theme_AppCompat_CompactMenu;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Theme_AppCompat_CompactMenu_Dialog = global::FoodTruckAndroid.Resource.Style.Theme_AppCompat_CompactMenu_Dialog;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::FoodTruckAndroid.Resource.Style.Theme_AppCompat_DialogWhenLarge;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Theme_AppCompat_Light = global::FoodTruckAndroid.Resource.Style.Theme_AppCompat_Light;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::FoodTruckAndroid.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::FoodTruckAndroid.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Theme_Base = global::FoodTruckAndroid.Resource.Style.Theme_Base;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Theme_Base_AppCompat = global::FoodTruckAndroid.Resource.Style.Theme_Base_AppCompat;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Theme_Base_AppCompat_Dialog_FixedSize = global::FoodTruckAndroid.Resource.Style.Theme_Base_AppCompat_Dialog_FixedSize;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Theme_Base_AppCompat_Dialog_Light_FixedSize = global::FoodTruckAndroid.Resource.Style.Theme_Base_AppCompat_Dialog_Light_FixedSize;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Theme_Base_AppCompat_DialogWhenLarge = global::FoodTruckAndroid.Resource.Style.Theme_Base_AppCompat_DialogWhenLarge;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Theme_Base_AppCompat_DialogWhenLarge_Base = global::FoodTruckAndroid.Resource.Style.Theme_Base_AppCompat_DialogWhenLarge_Base;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Theme_Base_AppCompat_Light = global::FoodTruckAndroid.Resource.Style.Theme_Base_AppCompat_Light;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Theme_Base_AppCompat_Light_DarkActionBar = global::FoodTruckAndroid.Resource.Style.Theme_Base_AppCompat_Light_DarkActionBar;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Theme_Base_AppCompat_Light_DialogWhenLarge = global::FoodTruckAndroid.Resource.Style.Theme_Base_AppCompat_Light_DialogWhenLarge;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Theme_Base_AppCompat_Light_DialogWhenLarge_Base = global::FoodTruckAndroid.Resource.Style.Theme_Base_AppCompat_Light_DialogWhenLarge_Base;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Theme_Base_Light = global::FoodTruckAndroid.Resource.Style.Theme_Base_Light;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Theme_PageIndicatorDefaults = global::FoodTruckAndroid.Resource.Style.Theme_PageIndicatorDefaults;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget = global::FoodTruckAndroid.Resource.Style.Widget;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_ActionBar = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_ActionBar;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_ActionBar_Solid;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_ActionBar_TabText;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_ActionBar_TabView;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_ActionButton = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_ActionButton;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_ActionMode = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_ActionMode;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_ActivityChooserView = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_ActivityChooserView;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_Base_ActionBar = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_Base_ActionBar;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_Base_ActionBar_Solid = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_Base_ActionBar_Solid;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_Base_ActionBar_TabBar = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_Base_ActionBar_TabBar;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_Base_ActionBar_TabText = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_Base_ActionBar_TabText;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_Base_ActionBar_TabView = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_Base_ActionBar_TabView;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_Base_ActionButton = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_Base_ActionButton;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_Base_ActionButton_CloseMode = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_Base_ActionButton_CloseMode;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_Base_ActionButton_Overflow = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_Base_ActionButton_Overflow;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_Base_ActionMode = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_Base_ActionMode;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_Base_ActivityChooserView = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_Base_ActivityChooserView;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_Base_AutoCompleteTextView = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_Base_AutoCompleteTextView;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_Base_DropDownItem_Spinner = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_Base_DropDownItem_Spinner;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_Base_ListPopupWindow = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_Base_ListPopupWindow;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_Base_ListView_DropDown = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_Base_ListView_DropDown;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_Base_ListView_Menu = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_Base_ListView_Menu;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_Base_PopupMenu = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_Base_PopupMenu;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_Base_ProgressBar = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_Base_ProgressBar;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_Base_ProgressBar_Horizontal = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_Base_ProgressBar_Horizontal;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_Base_Spinner = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_Base_Spinner;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_Light_ActionBar = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_Light_ActionBar;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_Light_ActionButton = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_Light_ActionButton;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_Light_Base_ActionBar = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_Light_Base_ActionBar;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_Light_Base_ActionBar_Solid = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_Light_Base_ActionBar_Solid;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_Light_Base_ActionBar_Solid_Inverse = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_Light_Base_ActionBar_Solid_Inverse;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_Light_Base_ActionBar_TabBar = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_Light_Base_ActionBar_TabBar;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_Light_Base_ActionBar_TabBar_Inverse = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_Light_Base_ActionBar_TabBar_Inverse;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_Light_Base_ActionBar_TabText = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_Light_Base_ActionBar_TabText;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_Light_Base_ActionBar_TabText_Inverse = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_Light_Base_ActionBar_TabText_Inverse;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_Light_Base_ActionBar_TabView = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_Light_Base_ActionBar_TabView;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_Light_Base_ActionBar_TabView_Inverse = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_Light_Base_ActionBar_TabView_Inverse;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_Light_Base_ActionButton = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_Light_Base_ActionButton;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_Light_Base_ActionButton_CloseMode = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_Light_Base_ActionButton_CloseMode;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_Light_Base_ActionButton_Overflow = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_Light_Base_ActionButton_Overflow;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_Light_Base_ActionMode_Inverse = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_Light_Base_ActionMode_Inverse;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_Light_Base_ActivityChooserView = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_Light_Base_ActivityChooserView;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_Light_Base_AutoCompleteTextView = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_Light_Base_AutoCompleteTextView;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_Light_Base_DropDownItem_Spinner = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_Light_Base_DropDownItem_Spinner;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_Light_Base_ListPopupWindow = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_Light_Base_ListPopupWindow;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_Light_Base_ListView_DropDown = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_Light_Base_ListView_DropDown;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_Light_Base_PopupMenu = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_Light_Base_PopupMenu;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_Light_Base_Spinner = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_Light_Base_Spinner;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_Light_PopupMenu;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_ListPopupWindow = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_ListPopupWindow;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_ListView_DropDown = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_ListView_DropDown;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_ListView_Menu = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_ListView_Menu;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_PopupMenu = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_PopupMenu;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_ProgressBar = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_ProgressBar;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::FoodTruckAndroid.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_IconPageIndicator = global::FoodTruckAndroid.Resource.Style.Widget_IconPageIndicator;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Style.Widget_TabPageIndicator = global::FoodTruckAndroid.Resource.Style.Widget_TabPageIndicator;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.ActionBar = global::FoodTruckAndroid.Resource.Styleable.ActionBar;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.ActionBar_background = global::FoodTruckAndroid.Resource.Styleable.ActionBar_background;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.ActionBar_backgroundSplit = global::FoodTruckAndroid.Resource.Styleable.ActionBar_backgroundSplit;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.ActionBar_backgroundStacked = global::FoodTruckAndroid.Resource.Styleable.ActionBar_backgroundStacked;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.ActionBar_customNavigationLayout = global::FoodTruckAndroid.Resource.Styleable.ActionBar_customNavigationLayout;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.ActionBar_displayOptions = global::FoodTruckAndroid.Resource.Styleable.ActionBar_displayOptions;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.ActionBar_divider = global::FoodTruckAndroid.Resource.Styleable.ActionBar_divider;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.ActionBar_height = global::FoodTruckAndroid.Resource.Styleable.ActionBar_height;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.ActionBar_homeLayout = global::FoodTruckAndroid.Resource.Styleable.ActionBar_homeLayout;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.ActionBar_icon = global::FoodTruckAndroid.Resource.Styleable.ActionBar_icon;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::FoodTruckAndroid.Resource.Styleable.ActionBar_indeterminateProgressStyle;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.ActionBar_itemPadding = global::FoodTruckAndroid.Resource.Styleable.ActionBar_itemPadding;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.ActionBar_logo = global::FoodTruckAndroid.Resource.Styleable.ActionBar_logo;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.ActionBar_navigationMode = global::FoodTruckAndroid.Resource.Styleable.ActionBar_navigationMode;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.ActionBar_progressBarPadding = global::FoodTruckAndroid.Resource.Styleable.ActionBar_progressBarPadding;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.ActionBar_progressBarStyle = global::FoodTruckAndroid.Resource.Styleable.ActionBar_progressBarStyle;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.ActionBar_subtitle = global::FoodTruckAndroid.Resource.Styleable.ActionBar_subtitle;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.ActionBar_subtitleTextStyle = global::FoodTruckAndroid.Resource.Styleable.ActionBar_subtitleTextStyle;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.ActionBar_title = global::FoodTruckAndroid.Resource.Styleable.ActionBar_title;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.ActionBar_titleTextStyle = global::FoodTruckAndroid.Resource.Styleable.ActionBar_titleTextStyle;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.ActionBarLayout = global::FoodTruckAndroid.Resource.Styleable.ActionBarLayout;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::FoodTruckAndroid.Resource.Styleable.ActionBarLayout_android_layout_gravity;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.ActionBarWindow = global::FoodTruckAndroid.Resource.Styleable.ActionBarWindow;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.ActionBarWindow_windowActionBar = global::FoodTruckAndroid.Resource.Styleable.ActionBarWindow_windowActionBar;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.ActionBarWindow_windowActionBarOverlay = global::FoodTruckAndroid.Resource.Styleable.ActionBarWindow_windowActionBarOverlay;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.ActionBarWindow_windowFixedHeightMajor = global::FoodTruckAndroid.Resource.Styleable.ActionBarWindow_windowFixedHeightMajor;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.ActionBarWindow_windowFixedHeightMinor = global::FoodTruckAndroid.Resource.Styleable.ActionBarWindow_windowFixedHeightMinor;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.ActionBarWindow_windowFixedWidthMajor = global::FoodTruckAndroid.Resource.Styleable.ActionBarWindow_windowFixedWidthMajor;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.ActionBarWindow_windowFixedWidthMinor = global::FoodTruckAndroid.Resource.Styleable.ActionBarWindow_windowFixedWidthMinor;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.ActionBarWindow_windowSplitActionBar = global::FoodTruckAndroid.Resource.Styleable.ActionBarWindow_windowSplitActionBar;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.ActionMenuItemView = global::FoodTruckAndroid.Resource.Styleable.ActionMenuItemView;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.ActionMenuItemView_android_minWidth = global::FoodTruckAndroid.Resource.Styleable.ActionMenuItemView_android_minWidth;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.ActionMenuView = global::FoodTruckAndroid.Resource.Styleable.ActionMenuView;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.ActionMode = global::FoodTruckAndroid.Resource.Styleable.ActionMode;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.ActionMode_background = global::FoodTruckAndroid.Resource.Styleable.ActionMode_background;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.ActionMode_backgroundSplit = global::FoodTruckAndroid.Resource.Styleable.ActionMode_backgroundSplit;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.ActionMode_height = global::FoodTruckAndroid.Resource.Styleable.ActionMode_height;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.ActionMode_subtitleTextStyle = global::FoodTruckAndroid.Resource.Styleable.ActionMode_subtitleTextStyle;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.ActionMode_titleTextStyle = global::FoodTruckAndroid.Resource.Styleable.ActionMode_titleTextStyle;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.ActivityChooserView = global::FoodTruckAndroid.Resource.Styleable.ActivityChooserView;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::FoodTruckAndroid.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.ActivityChooserView_initialActivityCount = global::FoodTruckAndroid.Resource.Styleable.ActivityChooserView_initialActivityCount;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.CirclePageIndicator = global::FoodTruckAndroid.Resource.Styleable.CirclePageIndicator;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.CirclePageIndicator_android_background = global::FoodTruckAndroid.Resource.Styleable.CirclePageIndicator_android_background;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.CirclePageIndicator_android_orientation = global::FoodTruckAndroid.Resource.Styleable.CirclePageIndicator_android_orientation;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.CirclePageIndicator_centered = global::FoodTruckAndroid.Resource.Styleable.CirclePageIndicator_centered;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.CirclePageIndicator_fillColor = global::FoodTruckAndroid.Resource.Styleable.CirclePageIndicator_fillColor;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.CirclePageIndicator_pageColor = global::FoodTruckAndroid.Resource.Styleable.CirclePageIndicator_pageColor;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.CirclePageIndicator_radius = global::FoodTruckAndroid.Resource.Styleable.CirclePageIndicator_radius;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.CirclePageIndicator_snap = global::FoodTruckAndroid.Resource.Styleable.CirclePageIndicator_snap;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.CirclePageIndicator_strokeColor = global::FoodTruckAndroid.Resource.Styleable.CirclePageIndicator_strokeColor;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.CirclePageIndicator_strokeWidth = global::FoodTruckAndroid.Resource.Styleable.CirclePageIndicator_strokeWidth;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.CompatTextView = global::FoodTruckAndroid.Resource.Styleable.CompatTextView;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.CompatTextView_textAllCaps = global::FoodTruckAndroid.Resource.Styleable.CompatTextView_textAllCaps;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.LinePageIndicator = global::FoodTruckAndroid.Resource.Styleable.LinePageIndicator;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.LinePageIndicator_android_background = global::FoodTruckAndroid.Resource.Styleable.LinePageIndicator_android_background;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.LinePageIndicator_centered = global::FoodTruckAndroid.Resource.Styleable.LinePageIndicator_centered;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.LinePageIndicator_gapWidth = global::FoodTruckAndroid.Resource.Styleable.LinePageIndicator_gapWidth;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.LinePageIndicator_lineWidth = global::FoodTruckAndroid.Resource.Styleable.LinePageIndicator_lineWidth;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.LinePageIndicator_selectedColor = global::FoodTruckAndroid.Resource.Styleable.LinePageIndicator_selectedColor;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.LinePageIndicator_strokeWidth = global::FoodTruckAndroid.Resource.Styleable.LinePageIndicator_strokeWidth;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.LinePageIndicator_unselectedColor = global::FoodTruckAndroid.Resource.Styleable.LinePageIndicator_unselectedColor;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.LinearLayoutICS = global::FoodTruckAndroid.Resource.Styleable.LinearLayoutICS;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.LinearLayoutICS_divider = global::FoodTruckAndroid.Resource.Styleable.LinearLayoutICS_divider;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.LinearLayoutICS_dividerPadding = global::FoodTruckAndroid.Resource.Styleable.LinearLayoutICS_dividerPadding;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.LinearLayoutICS_showDividers = global::FoodTruckAndroid.Resource.Styleable.LinearLayoutICS_showDividers;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.MenuGroup = global::FoodTruckAndroid.Resource.Styleable.MenuGroup;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.MenuGroup_android_checkableBehavior = global::FoodTruckAndroid.Resource.Styleable.MenuGroup_android_checkableBehavior;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.MenuGroup_android_enabled = global::FoodTruckAndroid.Resource.Styleable.MenuGroup_android_enabled;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.MenuGroup_android_id = global::FoodTruckAndroid.Resource.Styleable.MenuGroup_android_id;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.MenuGroup_android_menuCategory = global::FoodTruckAndroid.Resource.Styleable.MenuGroup_android_menuCategory;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.MenuGroup_android_orderInCategory = global::FoodTruckAndroid.Resource.Styleable.MenuGroup_android_orderInCategory;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.MenuGroup_android_visible = global::FoodTruckAndroid.Resource.Styleable.MenuGroup_android_visible;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.MenuItem = global::FoodTruckAndroid.Resource.Styleable.MenuItem;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.MenuItem_actionLayout = global::FoodTruckAndroid.Resource.Styleable.MenuItem_actionLayout;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.MenuItem_actionProviderClass = global::FoodTruckAndroid.Resource.Styleable.MenuItem_actionProviderClass;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.MenuItem_actionViewClass = global::FoodTruckAndroid.Resource.Styleable.MenuItem_actionViewClass;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::FoodTruckAndroid.Resource.Styleable.MenuItem_android_alphabeticShortcut;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.MenuItem_android_checkable = global::FoodTruckAndroid.Resource.Styleable.MenuItem_android_checkable;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.MenuItem_android_checked = global::FoodTruckAndroid.Resource.Styleable.MenuItem_android_checked;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.MenuItem_android_enabled = global::FoodTruckAndroid.Resource.Styleable.MenuItem_android_enabled;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.MenuItem_android_icon = global::FoodTruckAndroid.Resource.Styleable.MenuItem_android_icon;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.MenuItem_android_id = global::FoodTruckAndroid.Resource.Styleable.MenuItem_android_id;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.MenuItem_android_menuCategory = global::FoodTruckAndroid.Resource.Styleable.MenuItem_android_menuCategory;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.MenuItem_android_numericShortcut = global::FoodTruckAndroid.Resource.Styleable.MenuItem_android_numericShortcut;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.MenuItem_android_onClick = global::FoodTruckAndroid.Resource.Styleable.MenuItem_android_onClick;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.MenuItem_android_orderInCategory = global::FoodTruckAndroid.Resource.Styleable.MenuItem_android_orderInCategory;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.MenuItem_android_title = global::FoodTruckAndroid.Resource.Styleable.MenuItem_android_title;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.MenuItem_android_titleCondensed = global::FoodTruckAndroid.Resource.Styleable.MenuItem_android_titleCondensed;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.MenuItem_android_visible = global::FoodTruckAndroid.Resource.Styleable.MenuItem_android_visible;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.MenuItem_showAsAction = global::FoodTruckAndroid.Resource.Styleable.MenuItem_showAsAction;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.MenuView = global::FoodTruckAndroid.Resource.Styleable.MenuView;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.MenuView_android_headerBackground = global::FoodTruckAndroid.Resource.Styleable.MenuView_android_headerBackground;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.MenuView_android_horizontalDivider = global::FoodTruckAndroid.Resource.Styleable.MenuView_android_horizontalDivider;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.MenuView_android_itemBackground = global::FoodTruckAndroid.Resource.Styleable.MenuView_android_itemBackground;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::FoodTruckAndroid.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.MenuView_android_itemTextAppearance = global::FoodTruckAndroid.Resource.Styleable.MenuView_android_itemTextAppearance;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.MenuView_android_preserveIconSpacing = global::FoodTruckAndroid.Resource.Styleable.MenuView_android_preserveIconSpacing;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.MenuView_android_verticalDivider = global::FoodTruckAndroid.Resource.Styleable.MenuView_android_verticalDivider;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.MenuView_android_windowAnimationStyle = global::FoodTruckAndroid.Resource.Styleable.MenuView_android_windowAnimationStyle;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.SearchView = global::FoodTruckAndroid.Resource.Styleable.SearchView;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.SearchView_android_imeOptions = global::FoodTruckAndroid.Resource.Styleable.SearchView_android_imeOptions;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.SearchView_android_inputType = global::FoodTruckAndroid.Resource.Styleable.SearchView_android_inputType;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.SearchView_android_maxWidth = global::FoodTruckAndroid.Resource.Styleable.SearchView_android_maxWidth;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.SearchView_iconifiedByDefault = global::FoodTruckAndroid.Resource.Styleable.SearchView_iconifiedByDefault;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.SearchView_queryHint = global::FoodTruckAndroid.Resource.Styleable.SearchView_queryHint;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.Spinner = global::FoodTruckAndroid.Resource.Styleable.Spinner;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.Spinner_android_dropDownHorizontalOffset = global::FoodTruckAndroid.Resource.Styleable.Spinner_android_dropDownHorizontalOffset;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.Spinner_android_dropDownSelector = global::FoodTruckAndroid.Resource.Styleable.Spinner_android_dropDownSelector;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.Spinner_android_dropDownVerticalOffset = global::FoodTruckAndroid.Resource.Styleable.Spinner_android_dropDownVerticalOffset;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.Spinner_android_dropDownWidth = global::FoodTruckAndroid.Resource.Styleable.Spinner_android_dropDownWidth;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.Spinner_android_gravity = global::FoodTruckAndroid.Resource.Styleable.Spinner_android_gravity;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.Spinner_android_popupBackground = global::FoodTruckAndroid.Resource.Styleable.Spinner_android_popupBackground;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.Spinner_disableChildrenWhenDisabled = global::FoodTruckAndroid.Resource.Styleable.Spinner_disableChildrenWhenDisabled;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.Spinner_popupPromptView = global::FoodTruckAndroid.Resource.Styleable.Spinner_popupPromptView;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.Spinner_prompt = global::FoodTruckAndroid.Resource.Styleable.Spinner_prompt;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.Spinner_spinnerMode = global::FoodTruckAndroid.Resource.Styleable.Spinner_spinnerMode;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.Theme = global::FoodTruckAndroid.Resource.Styleable.Theme;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.Theme_actionDropDownStyle = global::FoodTruckAndroid.Resource.Styleable.Theme_actionDropDownStyle;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.Theme_dropdownListPreferredItemHeight = global::FoodTruckAndroid.Resource.Styleable.Theme_dropdownListPreferredItemHeight;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.Theme_listChoiceBackgroundIndicator = global::FoodTruckAndroid.Resource.Styleable.Theme_listChoiceBackgroundIndicator;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.Theme_panelMenuListTheme = global::FoodTruckAndroid.Resource.Styleable.Theme_panelMenuListTheme;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.Theme_panelMenuListWidth = global::FoodTruckAndroid.Resource.Styleable.Theme_panelMenuListWidth;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.Theme_popupMenuStyle = global::FoodTruckAndroid.Resource.Styleable.Theme_popupMenuStyle;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.TitlePageIndicator = global::FoodTruckAndroid.Resource.Styleable.TitlePageIndicator;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.TitlePageIndicator_android_background = global::FoodTruckAndroid.Resource.Styleable.TitlePageIndicator_android_background;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.TitlePageIndicator_android_textColor = global::FoodTruckAndroid.Resource.Styleable.TitlePageIndicator_android_textColor;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.TitlePageIndicator_android_textSize = global::FoodTruckAndroid.Resource.Styleable.TitlePageIndicator_android_textSize;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.TitlePageIndicator_clipPadding = global::FoodTruckAndroid.Resource.Styleable.TitlePageIndicator_clipPadding;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.TitlePageIndicator_footerColor = global::FoodTruckAndroid.Resource.Styleable.TitlePageIndicator_footerColor;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.TitlePageIndicator_footerIndicatorHeight = global::FoodTruckAndroid.Resource.Styleable.TitlePageIndicator_footerIndicatorHeight;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.TitlePageIndicator_footerIndicatorStyle = global::FoodTruckAndroid.Resource.Styleable.TitlePageIndicator_footerIndicatorStyle;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.TitlePageIndicator_footerIndicatorUnderlinePadding = global::FoodTruckAndroid.Resource.Styleable.TitlePageIndicator_footerIndicatorUnderlinePadding;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.TitlePageIndicator_footerLineHeight = global::FoodTruckAndroid.Resource.Styleable.TitlePageIndicator_footerLineHeight;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.TitlePageIndicator_footerPadding = global::FoodTruckAndroid.Resource.Styleable.TitlePageIndicator_footerPadding;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.TitlePageIndicator_linePosition = global::FoodTruckAndroid.Resource.Styleable.TitlePageIndicator_linePosition;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.TitlePageIndicator_selectedBold = global::FoodTruckAndroid.Resource.Styleable.TitlePageIndicator_selectedBold;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.TitlePageIndicator_selectedColor = global::FoodTruckAndroid.Resource.Styleable.TitlePageIndicator_selectedColor;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.TitlePageIndicator_titlePadding = global::FoodTruckAndroid.Resource.Styleable.TitlePageIndicator_titlePadding;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.TitlePageIndicator_topPadding = global::FoodTruckAndroid.Resource.Styleable.TitlePageIndicator_topPadding;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.UnderlinePageIndicator = global::FoodTruckAndroid.Resource.Styleable.UnderlinePageIndicator;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.UnderlinePageIndicator_android_background = global::FoodTruckAndroid.Resource.Styleable.UnderlinePageIndicator_android_background;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.UnderlinePageIndicator_fadeDelay = global::FoodTruckAndroid.Resource.Styleable.UnderlinePageIndicator_fadeDelay;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.UnderlinePageIndicator_fadeLength = global::FoodTruckAndroid.Resource.Styleable.UnderlinePageIndicator_fadeLength;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.UnderlinePageIndicator_fades = global::FoodTruckAndroid.Resource.Styleable.UnderlinePageIndicator_fades;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.UnderlinePageIndicator_selectedColor = global::FoodTruckAndroid.Resource.Styleable.UnderlinePageIndicator_selectedColor;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.View = global::FoodTruckAndroid.Resource.Styleable.View;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.View_android_focusable = global::FoodTruckAndroid.Resource.Styleable.View_android_focusable;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.View_paddingEnd = global::FoodTruckAndroid.Resource.Styleable.View_paddingEnd;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.View_paddingStart = global::FoodTruckAndroid.Resource.Styleable.View_paddingStart;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.ViewPagerIndicator = global::FoodTruckAndroid.Resource.Styleable.ViewPagerIndicator;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.ViewPagerIndicator_vpiCirclePageIndicatorStyle = global::FoodTruckAndroid.Resource.Styleable.ViewPagerIndicator_vpiCirclePageIndicatorStyle;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.ViewPagerIndicator_vpiIconPageIndicatorStyle = global::FoodTruckAndroid.Resource.Styleable.ViewPagerIndicator_vpiIconPageIndicatorStyle;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.ViewPagerIndicator_vpiLinePageIndicatorStyle = global::FoodTruckAndroid.Resource.Styleable.ViewPagerIndicator_vpiLinePageIndicatorStyle;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.ViewPagerIndicator_vpiTabPageIndicatorStyle = global::FoodTruckAndroid.Resource.Styleable.ViewPagerIndicator_vpiTabPageIndicatorStyle;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.ViewPagerIndicator_vpiTitlePageIndicatorStyle = global::FoodTruckAndroid.Resource.Styleable.ViewPagerIndicator_vpiTitlePageIndicatorStyle;
+			global::DK.Ostebaronen.Droid.ViewPagerIndicator.Resource.Styleable.ViewPagerIndicator_vpiUnderlinePageIndicatorStyle = global::FoodTruckAndroid.Resource.Styleable.ViewPagerIndicator_vpiUnderlinePageIndicatorStyle;
 		}
 		
 		public partial class Animation
@@ -206,6 +924,12 @@ namespace FoodTruckAndroid
 			// aapt resource value: 0x7f01007b
 			public const int cameraZoom = 2130772091;
 			
+			// aapt resource value: 0x7f010099
+			public const int centered = 2130772121;
+			
+			// aapt resource value: 0x7f0100a4
+			public const int clipPadding = 2130772132;
+			
 			// aapt resource value: 0x7f010037
 			public const int customNavigationLayout = 2130772023;
 			
@@ -242,11 +966,44 @@ namespace FoodTruckAndroid
 			// aapt resource value: 0x7f010000
 			public const int externalRouteEnabledDrawable = 2130771968;
 			
+			// aapt resource value: 0x7f0100b0
+			public const int fadeDelay = 2130772144;
+			
+			// aapt resource value: 0x7f0100b1
+			public const int fadeLength = 2130772145;
+			
+			// aapt resource value: 0x7f0100af
+			public const int fades = 2130772143;
+			
+			// aapt resource value: 0x7f01009d
+			public const int fillColor = 2130772125;
+			
+			// aapt resource value: 0x7f0100a5
+			public const int footerColor = 2130772133;
+			
+			// aapt resource value: 0x7f0100a8
+			public const int footerIndicatorHeight = 2130772136;
+			
+			// aapt resource value: 0x7f0100a7
+			public const int footerIndicatorStyle = 2130772135;
+			
+			// aapt resource value: 0x7f0100a9
+			public const int footerIndicatorUnderlinePadding = 2130772137;
+			
+			// aapt resource value: 0x7f0100a6
+			public const int footerLineHeight = 2130772134;
+			
+			// aapt resource value: 0x7f0100aa
+			public const int footerPadding = 2130772138;
+			
 			// aapt resource value: 0x7f010087
 			public const int fragmentMode = 2130772103;
 			
 			// aapt resource value: 0x7f010086
 			public const int fragmentStyle = 2130772102;
+			
+			// aapt resource value: 0x7f0100a3
+			public const int gapWidth = 2130772131;
 			
 			// aapt resource value: 0x7f01002b
 			public const int height = 2130772011;
@@ -274,6 +1031,12 @@ namespace FoodTruckAndroid
 			
 			// aapt resource value: 0x7f01003c
 			public const int itemPadding = 2130772028;
+			
+			// aapt resource value: 0x7f0100ab
+			public const int linePosition = 2130772139;
+			
+			// aapt resource value: 0x7f0100a2
+			public const int lineWidth = 2130772130;
 			
 			// aapt resource value: 0x7f010051
 			public const int listChoiceBackgroundIndicator = 2130772049;
@@ -344,6 +1107,9 @@ namespace FoodTruckAndroid
 			// aapt resource value: 0x7f01003d
 			public const int paddingStart = 2130772029;
 			
+			// aapt resource value: 0x7f01009e
+			public const int pageColor = 2130772126;
+			
 			// aapt resource value: 0x7f010050
 			public const int panelMenuListTheme = 2130772048;
 			
@@ -367,6 +1133,9 @@ namespace FoodTruckAndroid
 			
 			// aapt resource value: 0x7f010060
 			public const int queryHint = 2130772064;
+			
+			// aapt resource value: 0x7f01009f
+			public const int radius = 2130772127;
 			
 			// aapt resource value: 0x7f010061
 			public const int searchDropdownBackground = 2130772065;
@@ -404,11 +1173,20 @@ namespace FoodTruckAndroid
 			// aapt resource value: 0x7f01001e
 			public const int selectableItemBackground = 2130771998;
 			
+			// aapt resource value: 0x7f0100ac
+			public const int selectedBold = 2130772140;
+			
+			// aapt resource value: 0x7f01009a
+			public const int selectedColor = 2130772122;
+			
 			// aapt resource value: 0x7f010052
 			public const int showAsAction = 2130772050;
 			
 			// aapt resource value: 0x7f01005a
 			public const int showDividers = 2130772058;
+			
+			// aapt resource value: 0x7f0100a0
+			public const int snap = 2130772128;
 			
 			// aapt resource value: 0x7f01005d
 			public const int spinnerDropDownItemStyle = 2130772061;
@@ -418,6 +1196,12 @@ namespace FoodTruckAndroid
 			
 			// aapt resource value: 0x7f01005c
 			public const int spinnerStyle = 2130772060;
+			
+			// aapt resource value: 0x7f0100a1
+			public const int strokeColor = 2130772129;
+			
+			// aapt resource value: 0x7f01009b
+			public const int strokeWidth = 2130772123;
 			
 			// aapt resource value: 0x7f01002e
 			public const int subtitle = 2130772014;
@@ -455,8 +1239,14 @@ namespace FoodTruckAndroid
 			// aapt resource value: 0x7f01002a
 			public const int title = 2130772010;
 			
+			// aapt resource value: 0x7f0100ad
+			public const int titlePadding = 2130772141;
+			
 			// aapt resource value: 0x7f01002f
 			public const int titleTextStyle = 2130772015;
+			
+			// aapt resource value: 0x7f0100ae
+			public const int topPadding = 2130772142;
 			
 			// aapt resource value: 0x7f01007c
 			public const int uiCompass = 2130772092;
@@ -476,8 +1266,29 @@ namespace FoodTruckAndroid
 			// aapt resource value: 0x7f010081
 			public const int uiZoomGestures = 2130772097;
 			
+			// aapt resource value: 0x7f01009c
+			public const int unselectedColor = 2130772124;
+			
 			// aapt resource value: 0x7f010082
 			public const int useViewLifecycle = 2130772098;
+			
+			// aapt resource value: 0x7f010093
+			public const int vpiCirclePageIndicatorStyle = 2130772115;
+			
+			// aapt resource value: 0x7f010094
+			public const int vpiIconPageIndicatorStyle = 2130772116;
+			
+			// aapt resource value: 0x7f010095
+			public const int vpiLinePageIndicatorStyle = 2130772117;
+			
+			// aapt resource value: 0x7f010097
+			public const int vpiTabPageIndicatorStyle = 2130772119;
+			
+			// aapt resource value: 0x7f010096
+			public const int vpiTitlePageIndicatorStyle = 2130772118;
+			
+			// aapt resource value: 0x7f010098
+			public const int vpiUnderlinePageIndicatorStyle = 2130772120;
 			
 			// aapt resource value: 0x7f010005
 			public const int windowActionBar = 2130771973;
@@ -534,6 +1345,21 @@ namespace FoodTruckAndroid
 			// aapt resource value: 0x7f080002
 			public const int abc_split_action_bar_is_narrow = 2131230722;
 			
+			// aapt resource value: 0x7f080006
+			public const int default_circle_indicator_centered = 2131230726;
+			
+			// aapt resource value: 0x7f080007
+			public const int default_circle_indicator_snap = 2131230727;
+			
+			// aapt resource value: 0x7f080008
+			public const int default_line_indicator_centered = 2131230728;
+			
+			// aapt resource value: 0x7f080009
+			public const int default_title_indicator_selected_bold = 2131230729;
+			
+			// aapt resource value: 0x7f08000a
+			public const int default_underline_indicator_fades = 2131230730;
+			
 			static Boolean()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
@@ -547,8 +1373,8 @@ namespace FoodTruckAndroid
 		public partial class Color
 		{
 			
-			// aapt resource value: 0x7f09001a
-			public const int abc_search_url_text_holo = 2131296282;
+			// aapt resource value: 0x7f09002b
+			public const int abc_search_url_text_holo = 2131296299;
 			
 			// aapt resource value: 0x7f090000
 			public const int abc_search_url_text_normal = 2131296256;
@@ -589,11 +1415,68 @@ namespace FoodTruckAndroid
 			// aapt resource value: 0x7f090008
 			public const int common_signin_btn_light_text_pressed = 2131296264;
 			
+			// aapt resource value: 0x7f09002c
+			public const int common_signin_btn_text_dark = 2131296300;
+			
+			// aapt resource value: 0x7f09002d
+			public const int common_signin_btn_text_light = 2131296301;
+			
+			// aapt resource value: 0x7f090022
+			public const int default_circle_indicator_fill_color = 2131296290;
+			
+			// aapt resource value: 0x7f090023
+			public const int default_circle_indicator_page_color = 2131296291;
+			
+			// aapt resource value: 0x7f090024
+			public const int default_circle_indicator_stroke_color = 2131296292;
+			
+			// aapt resource value: 0x7f090025
+			public const int default_line_indicator_selected_color = 2131296293;
+			
+			// aapt resource value: 0x7f090026
+			public const int default_line_indicator_unselected_color = 2131296294;
+			
+			// aapt resource value: 0x7f090027
+			public const int default_title_indicator_footer_color = 2131296295;
+			
+			// aapt resource value: 0x7f090028
+			public const int default_title_indicator_selected_color = 2131296296;
+			
+			// aapt resource value: 0x7f090029
+			public const int default_title_indicator_text_color = 2131296297;
+			
+			// aapt resource value: 0x7f09002a
+			public const int default_underline_indicator_selected_color = 2131296298;
+			
+			// aapt resource value: 0x7f09001a
+			public const int vpi__background_holo_dark = 2131296282;
+			
 			// aapt resource value: 0x7f09001b
-			public const int common_signin_btn_text_dark = 2131296283;
+			public const int vpi__background_holo_light = 2131296283;
+			
+			// aapt resource value: 0x7f09001e
+			public const int vpi__bright_foreground_disabled_holo_dark = 2131296286;
+			
+			// aapt resource value: 0x7f09001f
+			public const int vpi__bright_foreground_disabled_holo_light = 2131296287;
 			
 			// aapt resource value: 0x7f09001c
-			public const int common_signin_btn_text_light = 2131296284;
+			public const int vpi__bright_foreground_holo_dark = 2131296284;
+			
+			// aapt resource value: 0x7f09001d
+			public const int vpi__bright_foreground_holo_light = 2131296285;
+			
+			// aapt resource value: 0x7f090020
+			public const int vpi__bright_foreground_inverse_holo_dark = 2131296288;
+			
+			// aapt resource value: 0x7f090021
+			public const int vpi__bright_foreground_inverse_holo_light = 2131296289;
+			
+			// aapt resource value: 0x7f09002e
+			public const int vpi__dark_theme = 2131296302;
+			
+			// aapt resource value: 0x7f09002f
+			public const int vpi__light_theme = 2131296303;
 			
 			// aapt resource value: 0x7f090012
 			public const int wallet_bright_foreground_disabled_holo_light = 2131296274;
@@ -634,11 +1517,11 @@ namespace FoodTruckAndroid
 			// aapt resource value: 0x7f090019
 			public const int wallet_link_text_light = 2131296281;
 			
-			// aapt resource value: 0x7f09001d
-			public const int wallet_primary_text_holo_light = 2131296285;
+			// aapt resource value: 0x7f090030
+			public const int wallet_primary_text_holo_light = 2131296304;
 			
-			// aapt resource value: 0x7f09001e
-			public const int wallet_secondary_text_holo_dark = 2131296286;
+			// aapt resource value: 0x7f090031
+			public const int wallet_secondary_text_holo_dark = 2131296305;
 			
 			static Color()
 			{
@@ -703,6 +1586,45 @@ namespace FoodTruckAndroid
 			
 			// aapt resource value: 0x7f0a000c
 			public const int abc_search_view_text_min_width = 2131361804;
+			
+			// aapt resource value: 0x7f0a0015
+			public const int default_circle_indicator_radius = 2131361813;
+			
+			// aapt resource value: 0x7f0a0016
+			public const int default_circle_indicator_stroke_width = 2131361814;
+			
+			// aapt resource value: 0x7f0a0018
+			public const int default_line_indicator_gap_width = 2131361816;
+			
+			// aapt resource value: 0x7f0a0017
+			public const int default_line_indicator_line_width = 2131361815;
+			
+			// aapt resource value: 0x7f0a0019
+			public const int default_line_indicator_stroke_width = 2131361817;
+			
+			// aapt resource value: 0x7f0a001a
+			public const int default_title_indicator_clip_padding = 2131361818;
+			
+			// aapt resource value: 0x7f0a001c
+			public const int default_title_indicator_footer_indicator_height = 2131361820;
+			
+			// aapt resource value: 0x7f0a001d
+			public const int default_title_indicator_footer_indicator_underline_padding = 2131361821;
+			
+			// aapt resource value: 0x7f0a001b
+			public const int default_title_indicator_footer_line_height = 2131361819;
+			
+			// aapt resource value: 0x7f0a001e
+			public const int default_title_indicator_footer_padding = 2131361822;
+			
+			// aapt resource value: 0x7f0a001f
+			public const int default_title_indicator_text_size = 2131361823;
+			
+			// aapt resource value: 0x7f0a0020
+			public const int default_title_indicator_title_padding = 2131361824;
+			
+			// aapt resource value: 0x7f0a0021
+			public const int default_title_indicator_top_padding = 2131361825;
 			
 			// aapt resource value: 0x7f0a0013
 			public const int dialog_fixed_height_major = 2131361811;
@@ -1009,262 +1931,286 @@ namespace FoodTruckAndroid
 			public const int abc_textfield_searchview_right_holo_light = 2130837596;
 			
 			// aapt resource value: 0x7f02005d
-			public const int btn_cab_done_default_foodtruck = 2130837597;
+			public const int appicon = 2130837597;
 			
 			// aapt resource value: 0x7f02005e
-			public const int btn_cab_done_focused_foodtruck = 2130837598;
+			public const int btn_cab_done_default_foodtruck = 2130837598;
 			
 			// aapt resource value: 0x7f02005f
-			public const int btn_cab_done_foodtruck = 2130837599;
+			public const int btn_cab_done_focused_foodtruck = 2130837599;
 			
 			// aapt resource value: 0x7f020060
-			public const int btn_cab_done_pressed_foodtruck = 2130837600;
+			public const int btn_cab_done_foodtruck = 2130837600;
 			
 			// aapt resource value: 0x7f020061
-			public const int burrito = 2130837601;
+			public const int btn_cab_done_pressed_foodtruck = 2130837601;
 			
 			// aapt resource value: 0x7f020062
-			public const int burritosmall = 2130837602;
+			public const int burrito = 2130837602;
 			
 			// aapt resource value: 0x7f020063
-			public const int cab_background_bottom_foodtruck = 2130837603;
+			public const int burrito1 = 2130837603;
 			
 			// aapt resource value: 0x7f020064
-			public const int cab_background_top_foodtruck = 2130837604;
+			public const int cab_background_bottom_foodtruck = 2130837604;
 			
 			// aapt resource value: 0x7f020065
-			public const int common_signin_btn_icon_dark = 2130837605;
+			public const int cab_background_top_foodtruck = 2130837605;
 			
 			// aapt resource value: 0x7f020066
-			public const int common_signin_btn_icon_disabled_dark = 2130837606;
+			public const int common_signin_btn_icon_dark = 2130837606;
 			
 			// aapt resource value: 0x7f020067
-			public const int common_signin_btn_icon_disabled_focus_dark = 2130837607;
+			public const int common_signin_btn_icon_disabled_dark = 2130837607;
 			
 			// aapt resource value: 0x7f020068
-			public const int common_signin_btn_icon_disabled_focus_light = 2130837608;
+			public const int common_signin_btn_icon_disabled_focus_dark = 2130837608;
 			
 			// aapt resource value: 0x7f020069
-			public const int common_signin_btn_icon_disabled_light = 2130837609;
+			public const int common_signin_btn_icon_disabled_focus_light = 2130837609;
 			
 			// aapt resource value: 0x7f02006a
-			public const int common_signin_btn_icon_focus_dark = 2130837610;
+			public const int common_signin_btn_icon_disabled_light = 2130837610;
 			
 			// aapt resource value: 0x7f02006b
-			public const int common_signin_btn_icon_focus_light = 2130837611;
+			public const int common_signin_btn_icon_focus_dark = 2130837611;
 			
 			// aapt resource value: 0x7f02006c
-			public const int common_signin_btn_icon_light = 2130837612;
+			public const int common_signin_btn_icon_focus_light = 2130837612;
 			
 			// aapt resource value: 0x7f02006d
-			public const int common_signin_btn_icon_normal_dark = 2130837613;
+			public const int common_signin_btn_icon_light = 2130837613;
 			
 			// aapt resource value: 0x7f02006e
-			public const int common_signin_btn_icon_normal_light = 2130837614;
+			public const int common_signin_btn_icon_normal_dark = 2130837614;
 			
 			// aapt resource value: 0x7f02006f
-			public const int common_signin_btn_icon_pressed_dark = 2130837615;
+			public const int common_signin_btn_icon_normal_light = 2130837615;
 			
 			// aapt resource value: 0x7f020070
-			public const int common_signin_btn_icon_pressed_light = 2130837616;
+			public const int common_signin_btn_icon_pressed_dark = 2130837616;
 			
 			// aapt resource value: 0x7f020071
-			public const int common_signin_btn_text_dark = 2130837617;
+			public const int common_signin_btn_icon_pressed_light = 2130837617;
 			
 			// aapt resource value: 0x7f020072
-			public const int common_signin_btn_text_disabled_dark = 2130837618;
+			public const int common_signin_btn_text_dark = 2130837618;
 			
 			// aapt resource value: 0x7f020073
-			public const int common_signin_btn_text_disabled_focus_dark = 2130837619;
+			public const int common_signin_btn_text_disabled_dark = 2130837619;
 			
 			// aapt resource value: 0x7f020074
-			public const int common_signin_btn_text_disabled_focus_light = 2130837620;
+			public const int common_signin_btn_text_disabled_focus_dark = 2130837620;
 			
 			// aapt resource value: 0x7f020075
-			public const int common_signin_btn_text_disabled_light = 2130837621;
+			public const int common_signin_btn_text_disabled_focus_light = 2130837621;
 			
 			// aapt resource value: 0x7f020076
-			public const int common_signin_btn_text_focus_dark = 2130837622;
+			public const int common_signin_btn_text_disabled_light = 2130837622;
 			
 			// aapt resource value: 0x7f020077
-			public const int common_signin_btn_text_focus_light = 2130837623;
+			public const int common_signin_btn_text_focus_dark = 2130837623;
 			
 			// aapt resource value: 0x7f020078
-			public const int common_signin_btn_text_light = 2130837624;
+			public const int common_signin_btn_text_focus_light = 2130837624;
 			
 			// aapt resource value: 0x7f020079
-			public const int common_signin_btn_text_normal_dark = 2130837625;
+			public const int common_signin_btn_text_light = 2130837625;
 			
 			// aapt resource value: 0x7f02007a
-			public const int common_signin_btn_text_normal_light = 2130837626;
+			public const int common_signin_btn_text_normal_dark = 2130837626;
 			
 			// aapt resource value: 0x7f02007b
-			public const int common_signin_btn_text_pressed_dark = 2130837627;
+			public const int common_signin_btn_text_normal_light = 2130837627;
 			
 			// aapt resource value: 0x7f02007c
-			public const int common_signin_btn_text_pressed_light = 2130837628;
+			public const int common_signin_btn_text_pressed_dark = 2130837628;
 			
 			// aapt resource value: 0x7f02007d
-			public const int contactimage1 = 2130837629;
+			public const int common_signin_btn_text_pressed_light = 2130837629;
 			
 			// aapt resource value: 0x7f02007e
-			public const int contactimage2 = 2130837630;
+			public const int contactus = 2130837630;
 			
 			// aapt resource value: 0x7f02007f
-			public const int contactimage3 = 2130837631;
+			public const int contactusanim = 2130837631;
 			
 			// aapt resource value: 0x7f020080
-			public const int contactus = 2130837632;
+			public const int ensalada1 = 2130837632;
 			
 			// aapt resource value: 0x7f020081
-			public const int contactusanim = 2130837633;
+			public const int ic_plusone_medium_off_client = 2130837633;
 			
 			// aapt resource value: 0x7f020082
-			public const int ensaladasmall = 2130837634;
+			public const int ic_plusone_small_off_client = 2130837634;
 			
 			// aapt resource value: 0x7f020083
-			public const int ic_plusone_medium_off_client = 2130837635;
+			public const int ic_plusone_standard_off_client = 2130837635;
 			
 			// aapt resource value: 0x7f020084
-			public const int ic_plusone_small_off_client = 2130837636;
+			public const int ic_plusone_tall_off_client = 2130837636;
 			
 			// aapt resource value: 0x7f020085
-			public const int ic_plusone_standard_off_client = 2130837637;
+			public const int lasagna1 = 2130837637;
 			
 			// aapt resource value: 0x7f020086
-			public const int ic_plusone_tall_off_client = 2130837638;
+			public const int list_focused_foodtruck = 2130837638;
 			
 			// aapt resource value: 0x7f020087
-			public const int list_focused_foodtruck = 2130837639;
+			public const int list_pressed_foodtruck = 2130837639;
 			
 			// aapt resource value: 0x7f020088
-			public const int list_pressed_foodtruck = 2130837640;
+			public const int menu_dropdown_panel_foodtruck = 2130837640;
 			
 			// aapt resource value: 0x7f020089
-			public const int menu_dropdown_panel_foodtruck = 2130837641;
+			public const int mr_ic_audio_vol = 2130837641;
 			
 			// aapt resource value: 0x7f02008a
-			public const int mr_ic_audio_vol = 2130837642;
+			public const int mr_ic_media_route_connecting_holo_dark = 2130837642;
 			
 			// aapt resource value: 0x7f02008b
-			public const int mr_ic_media_route_connecting_holo_dark = 2130837643;
+			public const int mr_ic_media_route_connecting_holo_light = 2130837643;
 			
 			// aapt resource value: 0x7f02008c
-			public const int mr_ic_media_route_connecting_holo_light = 2130837644;
+			public const int mr_ic_media_route_disabled_holo_dark = 2130837644;
 			
 			// aapt resource value: 0x7f02008d
-			public const int mr_ic_media_route_disabled_holo_dark = 2130837645;
+			public const int mr_ic_media_route_disabled_holo_light = 2130837645;
 			
 			// aapt resource value: 0x7f02008e
-			public const int mr_ic_media_route_disabled_holo_light = 2130837646;
+			public const int mr_ic_media_route_holo_dark = 2130837646;
 			
 			// aapt resource value: 0x7f02008f
-			public const int mr_ic_media_route_holo_dark = 2130837647;
+			public const int mr_ic_media_route_holo_light = 2130837647;
 			
 			// aapt resource value: 0x7f020090
-			public const int mr_ic_media_route_holo_light = 2130837648;
+			public const int mr_ic_media_route_off_holo_dark = 2130837648;
 			
 			// aapt resource value: 0x7f020091
-			public const int mr_ic_media_route_off_holo_dark = 2130837649;
+			public const int mr_ic_media_route_off_holo_light = 2130837649;
 			
 			// aapt resource value: 0x7f020092
-			public const int mr_ic_media_route_off_holo_light = 2130837650;
+			public const int mr_ic_media_route_on_0_holo_dark = 2130837650;
 			
 			// aapt resource value: 0x7f020093
-			public const int mr_ic_media_route_on_0_holo_dark = 2130837651;
+			public const int mr_ic_media_route_on_0_holo_light = 2130837651;
 			
 			// aapt resource value: 0x7f020094
-			public const int mr_ic_media_route_on_0_holo_light = 2130837652;
+			public const int mr_ic_media_route_on_1_holo_dark = 2130837652;
 			
 			// aapt resource value: 0x7f020095
-			public const int mr_ic_media_route_on_1_holo_dark = 2130837653;
+			public const int mr_ic_media_route_on_1_holo_light = 2130837653;
 			
 			// aapt resource value: 0x7f020096
-			public const int mr_ic_media_route_on_1_holo_light = 2130837654;
+			public const int mr_ic_media_route_on_2_holo_dark = 2130837654;
 			
 			// aapt resource value: 0x7f020097
-			public const int mr_ic_media_route_on_2_holo_dark = 2130837655;
+			public const int mr_ic_media_route_on_2_holo_light = 2130837655;
 			
 			// aapt resource value: 0x7f020098
-			public const int mr_ic_media_route_on_2_holo_light = 2130837656;
+			public const int mr_ic_media_route_on_holo_dark = 2130837656;
 			
 			// aapt resource value: 0x7f020099
-			public const int mr_ic_media_route_on_holo_dark = 2130837657;
+			public const int mr_ic_media_route_on_holo_light = 2130837657;
 			
 			// aapt resource value: 0x7f02009a
-			public const int mr_ic_media_route_on_holo_light = 2130837658;
+			public const int nachos1 = 2130837658;
 			
 			// aapt resource value: 0x7f02009b
-			public const int NewIcon = 2130837659;
+			public const int pasta = 2130837659;
 			
 			// aapt resource value: 0x7f02009c
-			public const int pasta = 2130837660;
+			public const int pasta1 = 2130837660;
 			
 			// aapt resource value: 0x7f02009d
-			public const int pastasmall = 2130837661;
+			public const int powered_by_google_dark = 2130837661;
 			
 			// aapt resource value: 0x7f02009e
-			public const int powered_by_google_dark = 2130837662;
+			public const int powered_by_google_light = 2130837662;
 			
 			// aapt resource value: 0x7f02009f
-			public const int powered_by_google_light = 2130837663;
+			public const int progress_bg_foodtruck = 2130837663;
 			
 			// aapt resource value: 0x7f0200a0
-			public const int progress_bg_foodtruck = 2130837664;
+			public const int progress_horizontal_foodtruck = 2130837664;
 			
 			// aapt resource value: 0x7f0200a1
-			public const int progress_horizontal_foodtruck = 2130837665;
+			public const int progress_primary_foodtruck = 2130837665;
 			
 			// aapt resource value: 0x7f0200a2
-			public const int progress_primary_foodtruck = 2130837666;
+			public const int progress_secondary_foodtruck = 2130837666;
 			
 			// aapt resource value: 0x7f0200a3
-			public const int progress_secondary_foodtruck = 2130837667;
+			public const int quesadilla1 = 2130837667;
 			
 			// aapt resource value: 0x7f0200a4
 			public const int selectable_background_foodtruck = 2130837668;
 			
 			// aapt resource value: 0x7f0200a5
-			public const int spinner_ab_default_foodtruck = 2130837669;
+			public const int sopa1 = 2130837669;
 			
 			// aapt resource value: 0x7f0200a6
-			public const int spinner_ab_disabled_foodtruck = 2130837670;
+			public const int spinner_ab_default_foodtruck = 2130837670;
 			
 			// aapt resource value: 0x7f0200a7
-			public const int spinner_ab_focused_foodtruck = 2130837671;
+			public const int spinner_ab_disabled_foodtruck = 2130837671;
 			
 			// aapt resource value: 0x7f0200a8
-			public const int spinner_ab_pressed_foodtruck = 2130837672;
+			public const int spinner_ab_focused_foodtruck = 2130837672;
 			
 			// aapt resource value: 0x7f0200a9
-			public const int spinner_background_ab_foodtruck = 2130837673;
+			public const int spinner_ab_pressed_foodtruck = 2130837673;
 			
 			// aapt resource value: 0x7f0200aa
-			public const int splashfoodtruck = 2130837674;
+			public const int spinner_background_ab_foodtruck = 2130837674;
 			
 			// aapt resource value: 0x7f0200ab
-			public const int tab_indicator_ab_foodtruck = 2130837675;
+			public const int splashfoodtruck = 2130837675;
 			
 			// aapt resource value: 0x7f0200ac
-			public const int tab_selected_focused_foodtruck = 2130837676;
+			public const int tab_indicator_ab_foodtruck = 2130837676;
 			
 			// aapt resource value: 0x7f0200ad
-			public const int tab_selected_foodtruck = 2130837677;
+			public const int tab_selected_focused_foodtruck = 2130837677;
 			
 			// aapt resource value: 0x7f0200ae
-			public const int tab_selected_pressed_foodtruck = 2130837678;
+			public const int tab_selected_foodtruck = 2130837678;
 			
 			// aapt resource value: 0x7f0200af
-			public const int tab_unselected_focused_foodtruck = 2130837679;
+			public const int tab_selected_pressed_foodtruck = 2130837679;
 			
 			// aapt resource value: 0x7f0200b0
-			public const int tab_unselected_foodtruck = 2130837680;
+			public const int tab_unselected_focused_foodtruck = 2130837680;
 			
 			// aapt resource value: 0x7f0200b1
-			public const int tab_unselected_pressed_foodtruck = 2130837681;
+			public const int tab_unselected_foodtruck = 2130837681;
 			
 			// aapt resource value: 0x7f0200b2
-			public const int tacosmall = 2130837682;
+			public const int tab_unselected_pressed_foodtruck = 2130837682;
+			
+			// aapt resource value: 0x7f0200b3
+			public const int tacos1 = 2130837683;
+			
+			// aapt resource value: 0x7f0200b4
+			public const int vpi__tab_indicator = 2130837684;
+			
+			// aapt resource value: 0x7f0200b5
+			public const int vpi__tab_selected_focused_holo = 2130837685;
+			
+			// aapt resource value: 0x7f0200b6
+			public const int vpi__tab_selected_holo = 2130837686;
+			
+			// aapt resource value: 0x7f0200b7
+			public const int vpi__tab_selected_pressed_holo = 2130837687;
+			
+			// aapt resource value: 0x7f0200b8
+			public const int vpi__tab_unselected_focused_holo = 2130837688;
+			
+			// aapt resource value: 0x7f0200b9
+			public const int vpi__tab_unselected_holo = 2130837689;
+			
+			// aapt resource value: 0x7f0200ba
+			public const int vpi__tab_unselected_pressed_holo = 2130837690;
 			
 			static Drawable()
 			{
@@ -1279,29 +2225,29 @@ namespace FoodTruckAndroid
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f07002e
-			public const int action_bar = 2131165230;
+			// aapt resource value: 0x7f070032
+			public const int action_bar = 2131165234;
 			
 			// aapt resource value: 0x7f070015
 			public const int action_bar_activity_content = 2131165205;
 			
-			// aapt resource value: 0x7f07002d
-			public const int action_bar_container = 2131165229;
-			
 			// aapt resource value: 0x7f070031
-			public const int action_bar_overlay_layout = 2131165233;
-			
-			// aapt resource value: 0x7f07002c
-			public const int action_bar_root = 2131165228;
+			public const int action_bar_container = 2131165233;
 			
 			// aapt resource value: 0x7f070035
-			public const int action_bar_subtitle = 2131165237;
+			public const int action_bar_overlay_layout = 2131165237;
 			
-			// aapt resource value: 0x7f070034
-			public const int action_bar_title = 2131165236;
+			// aapt resource value: 0x7f070030
+			public const int action_bar_root = 2131165232;
 			
-			// aapt resource value: 0x7f07002f
-			public const int action_context_bar = 2131165231;
+			// aapt resource value: 0x7f070039
+			public const int action_bar_subtitle = 2131165241;
+			
+			// aapt resource value: 0x7f070038
+			public const int action_bar_title = 2131165240;
+			
+			// aapt resource value: 0x7f070033
+			public const int action_context_bar = 2131165235;
 			
 			// aapt resource value: 0x7f070016
 			public const int action_menu_divider = 2131165206;
@@ -1309,11 +2255,11 @@ namespace FoodTruckAndroid
 			// aapt resource value: 0x7f070017
 			public const int action_menu_presenter = 2131165207;
 			
-			// aapt resource value: 0x7f070036
-			public const int action_mode_close_button = 2131165238;
+			// aapt resource value: 0x7f07003a
+			public const int action_mode_close_button = 2131165242;
 			
-			// aapt resource value: 0x7f070037
-			public const int activity_chooser_view_content = 2131165239;
+			// aapt resource value: 0x7f07003b
+			public const int activity_chooser_view_content = 2131165243;
 			
 			// aapt resource value: 0x7f07000b
 			public const int always = 2131165195;
@@ -1324,6 +2270,9 @@ namespace FoodTruckAndroid
 			// aapt resource value: 0x7f070028
 			public const int book_now = 2131165224;
 			
+			// aapt resource value: 0x7f07002e
+			public const int bottom = 2131165230;
+			
 			// aapt resource value: 0x7f070022
 			public const int buyButton = 2131165218;
 			
@@ -1333,8 +2282,8 @@ namespace FoodTruckAndroid
 			// aapt resource value: 0x7f070026
 			public const int buy_with_google = 2131165222;
 			
-			// aapt resource value: 0x7f07003f
-			public const int checkbox = 2131165247;
+			// aapt resource value: 0x7f070043
+			public const int checkbox = 2131165251;
 			
 			// aapt resource value: 0x7f070029
 			public const int classic = 2131165225;
@@ -1342,8 +2291,8 @@ namespace FoodTruckAndroid
 			// aapt resource value: 0x7f07000d
 			public const int collapseActionView = 2131165197;
 			
-			// aapt resource value: 0x7f07003a
-			public const int default_activity_button = 2131165242;
+			// aapt resource value: 0x7f07003e
+			public const int default_activity_button = 2131165246;
 			
 			// aapt resource value: 0x7f07000e
 			public const int dialog = 2131165198;
@@ -1354,17 +2303,17 @@ namespace FoodTruckAndroid
 			// aapt resource value: 0x7f07000f
 			public const int dropdown = 2131165199;
 			
-			// aapt resource value: 0x7f070042
-			public const int edit_query = 2131165250;
+			// aapt resource value: 0x7f070046
+			public const int edit_query = 2131165254;
 			
 			// aapt resource value: 0x7f070013
 			public const int end = 2131165203;
 			
-			// aapt resource value: 0x7f070038
-			public const int expand_activities_button = 2131165240;
+			// aapt resource value: 0x7f07003c
+			public const int expand_activities_button = 2131165244;
 			
-			// aapt resource value: 0x7f07003e
-			public const int expanded_menu = 2131165246;
+			// aapt resource value: 0x7f070042
+			public const int expanded_menu = 2131165250;
 			
 			// aapt resource value: 0x7f07002a
 			public const int grayscale = 2131165226;
@@ -1384,53 +2333,56 @@ namespace FoodTruckAndroid
 			// aapt resource value: 0x7f07001c
 			public const int hybrid = 2131165212;
 			
-			// aapt resource value: 0x7f07003c
-			public const int icon = 2131165244;
+			// aapt resource value: 0x7f070040
+			public const int icon = 2131165248;
 			
 			// aapt resource value: 0x7f07000a
 			public const int ifRoom = 2131165194;
 			
-			// aapt resource value: 0x7f070039
-			public const int image = 2131165241;
-			
-			// aapt resource value: 0x7f070056
-			public const int imageViewContact = 2131165270;
+			// aapt resource value: 0x7f07003d
+			public const int image = 2131165245;
 			
 			// aapt resource value: 0x7f07005a
-			public const int imgMenu = 2131165274;
+			public const int imageViewContact = 2131165274;
+			
+			// aapt resource value: 0x7f07005e
+			public const int imgMenu = 2131165278;
+			
+			// aapt resource value: 0x7f07005d
+			public const int indicator = 2131165277;
 			
 			// aapt resource value: 0x7f070001
 			public const int listMode = 2131165185;
 			
-			// aapt resource value: 0x7f07003b
-			public const int list_item = 2131165243;
+			// aapt resource value: 0x7f07003f
+			public const int list_item = 2131165247;
 			
-			// aapt resource value: 0x7f070057
-			public const int map = 2131165271;
+			// aapt resource value: 0x7f07005b
+			public const int map = 2131165275;
 			
-			// aapt resource value: 0x7f070062
-			public const int map_dir = 2131165282;
+			// aapt resource value: 0x7f070067
+			public const int map_dir = 2131165287;
 			
 			// aapt resource value: 0x7f070024
 			public const int match_parent = 2131165220;
 			
-			// aapt resource value: 0x7f070060
-			public const int media_route_control_frame = 2131165280;
+			// aapt resource value: 0x7f070065
+			public const int media_route_control_frame = 2131165285;
 			
-			// aapt resource value: 0x7f070061
-			public const int media_route_disconnect_button = 2131165281;
+			// aapt resource value: 0x7f070066
+			public const int media_route_disconnect_button = 2131165286;
 			
-			// aapt resource value: 0x7f07005d
-			public const int media_route_list = 2131165277;
+			// aapt resource value: 0x7f070062
+			public const int media_route_list = 2131165282;
 			
-			// aapt resource value: 0x7f07005e
-			public const int media_route_volume_layout = 2131165278;
+			// aapt resource value: 0x7f070063
+			public const int media_route_volume_layout = 2131165283;
 			
-			// aapt resource value: 0x7f07005f
-			public const int media_route_volume_slider = 2131165279;
+			// aapt resource value: 0x7f070064
+			public const int media_route_volume_slider = 2131165284;
 			
-			// aapt resource value: 0x7f070058
-			public const int menuPager = 2131165272;
+			// aapt resource value: 0x7f07005c
+			public const int menuPager = 2131165276;
 			
 			// aapt resource value: 0x7f070012
 			public const int middle = 2131165202;
@@ -1456,8 +2408,8 @@ namespace FoodTruckAndroid
 			// aapt resource value: 0x7f070019
 			public const int progress_horizontal = 2131165209;
 			
-			// aapt resource value: 0x7f070041
-			public const int radio = 2131165249;
+			// aapt resource value: 0x7f070045
+			public const int radio = 2131165253;
 			
 			// aapt resource value: 0x7f070020
 			public const int sandbox = 2131165216;
@@ -1465,41 +2417,41 @@ namespace FoodTruckAndroid
 			// aapt resource value: 0x7f07001a
 			public const int satellite = 2131165210;
 			
-			// aapt resource value: 0x7f070044
-			public const int search_badge = 2131165252;
-			
-			// aapt resource value: 0x7f070043
-			public const int search_bar = 2131165251;
-			
-			// aapt resource value: 0x7f070045
-			public const int search_button = 2131165253;
-			
-			// aapt resource value: 0x7f07004a
-			public const int search_close_btn = 2131165258;
-			
-			// aapt resource value: 0x7f070046
-			public const int search_edit_frame = 2131165254;
-			
-			// aapt resource value: 0x7f07004c
-			public const int search_go_btn = 2131165260;
+			// aapt resource value: 0x7f070048
+			public const int search_badge = 2131165256;
 			
 			// aapt resource value: 0x7f070047
-			public const int search_mag_icon = 2131165255;
-			
-			// aapt resource value: 0x7f070048
-			public const int search_plate = 2131165256;
+			public const int search_bar = 2131165255;
 			
 			// aapt resource value: 0x7f070049
-			public const int search_src_text = 2131165257;
+			public const int search_button = 2131165257;
+			
+			// aapt resource value: 0x7f07004e
+			public const int search_close_btn = 2131165262;
+			
+			// aapt resource value: 0x7f07004a
+			public const int search_edit_frame = 2131165258;
+			
+			// aapt resource value: 0x7f070050
+			public const int search_go_btn = 2131165264;
+			
+			// aapt resource value: 0x7f07004b
+			public const int search_mag_icon = 2131165259;
+			
+			// aapt resource value: 0x7f07004c
+			public const int search_plate = 2131165260;
 			
 			// aapt resource value: 0x7f07004d
-			public const int search_voice_btn = 2131165261;
+			public const int search_src_text = 2131165261;
+			
+			// aapt resource value: 0x7f070051
+			public const int search_voice_btn = 2131165265;
 			
 			// aapt resource value: 0x7f070023
 			public const int selectionDetails = 2131165219;
 			
-			// aapt resource value: 0x7f070040
-			public const int shortcut = 2131165248;
+			// aapt resource value: 0x7f070044
+			public const int shortcut = 2131165252;
 			
 			// aapt resource value: 0x7f070007
 			public const int showCustom = 2131165191;
@@ -1510,17 +2462,17 @@ namespace FoodTruckAndroid
 			// aapt resource value: 0x7f070006
 			public const int showTitle = 2131165190;
 			
-			// aapt resource value: 0x7f07004e
-			public const int space1 = 2131165262;
+			// aapt resource value: 0x7f070052
+			public const int space1 = 2131165266;
 			
-			// aapt resource value: 0x7f070030
-			public const int split_action_bar = 2131165232;
+			// aapt resource value: 0x7f070034
+			public const int split_action_bar = 2131165236;
 			
 			// aapt resource value: 0x7f070021
 			public const int strict_sandbox = 2131165217;
 			
-			// aapt resource value: 0x7f07004b
-			public const int submit_area = 2131165259;
+			// aapt resource value: 0x7f07004f
+			public const int submit_area = 2131165263;
 			
 			// aapt resource value: 0x7f070002
 			public const int tabMode = 2131165186;
@@ -1528,47 +2480,56 @@ namespace FoodTruckAndroid
 			// aapt resource value: 0x7f07001b
 			public const int terrain = 2131165211;
 			
-			// aapt resource value: 0x7f07004f
-			public const int textView1 = 2131165263;
-			
-			// aapt resource value: 0x7f070052
-			public const int textView3 = 2131165266;
-			
-			// aapt resource value: 0x7f070055
-			public const int textView8 = 2131165269;
-			
 			// aapt resource value: 0x7f070053
-			public const int textViewEmail = 2131165267;
+			public const int textView1 = 2131165267;
 			
-			// aapt resource value: 0x7f070054
-			public const int textViewFacebook = 2131165268;
-			
-			// aapt resource value: 0x7f070051
-			public const int textViewPhone = 2131165265;
-			
-			// aapt resource value: 0x7f07003d
-			public const int title = 2131165245;
-			
-			// aapt resource value: 0x7f070032
-			public const int top_action_bar = 2131165234;
-			
-			// aapt resource value: 0x7f07005b
-			public const int txtMenuDescription = 2131165275;
+			// aapt resource value: 0x7f070056
+			public const int textView3 = 2131165270;
 			
 			// aapt resource value: 0x7f070059
-			public const int txtMenuName = 2131165273;
+			public const int textView8 = 2131165273;
 			
-			// aapt resource value: 0x7f07005c
-			public const int txtMenuPrice = 2131165276;
+			// aapt resource value: 0x7f070057
+			public const int textViewEmail = 2131165271;
 			
-			// aapt resource value: 0x7f070033
-			public const int up = 2131165235;
+			// aapt resource value: 0x7f070058
+			public const int textViewFacebook = 2131165272;
+			
+			// aapt resource value: 0x7f070055
+			public const int textViewPhone = 2131165269;
+			
+			// aapt resource value: 0x7f070041
+			public const int title = 2131165249;
+			
+			// aapt resource value: 0x7f07002f
+			public const int top = 2131165231;
+			
+			// aapt resource value: 0x7f070036
+			public const int top_action_bar = 2131165238;
+			
+			// aapt resource value: 0x7f07002c
+			public const int triangle = 2131165228;
+			
+			// aapt resource value: 0x7f070060
+			public const int txtMenuDescription = 2131165280;
+			
+			// aapt resource value: 0x7f07005f
+			public const int txtMenuName = 2131165279;
+			
+			// aapt resource value: 0x7f070061
+			public const int txtMenuPrice = 2131165281;
+			
+			// aapt resource value: 0x7f07002d
+			public const int underline = 2131165229;
+			
+			// aapt resource value: 0x7f070037
+			public const int up = 2131165239;
 			
 			// aapt resource value: 0x7f070003
 			public const int useLogo = 2131165187;
 			
-			// aapt resource value: 0x7f070050
-			public const int view1 = 2131165264;
+			// aapt resource value: 0x7f070054
+			public const int view1 = 2131165268;
 			
 			// aapt resource value: 0x7f07000c
 			public const int withText = 2131165196;
@@ -1591,6 +2552,21 @@ namespace FoodTruckAndroid
 			
 			// aapt resource value: 0x7f0b0000
 			public const int abc_max_action_buttons = 2131427328;
+			
+			// aapt resource value: 0x7f0b0002
+			public const int default_circle_indicator_orientation = 2131427330;
+			
+			// aapt resource value: 0x7f0b0003
+			public const int default_title_indicator_footer_indicator_style = 2131427331;
+			
+			// aapt resource value: 0x7f0b0004
+			public const int default_title_indicator_line_position = 2131427332;
+			
+			// aapt resource value: 0x7f0b0005
+			public const int default_underline_indicator_fade_delay = 2131427333;
+			
+			// aapt resource value: 0x7f0b0006
+			public const int default_underline_indicator_fade_length = 2131427334;
 			
 			// aapt resource value: 0x7f0b0001
 			public const int google_play_services_version = 2131427329;
@@ -1887,32 +2863,32 @@ namespace FoodTruckAndroid
 		public partial class Style
 		{
 			
-			// aapt resource value: 0x7f060097
-			public const int ActionBar_Solid_Foodtruck = 2131099799;
-			
-			// aapt resource value: 0x7f060098
-			public const int ActionBar_Transparent_Foodtruck = 2131099800;
-			
-			// aapt resource value: 0x7f06009b
-			public const int ActionBarTabStyle_Foodtruck = 2131099803;
-			
-			// aapt resource value: 0x7f06009e
-			public const int ActionButton_CloseMode_Foodtruck = 2131099806;
-			
-			// aapt resource value: 0x7f060095
-			public const int Divider = 2131099797;
-			
-			// aapt resource value: 0x7f06009a
-			public const int DropDownListView_Foodtruck = 2131099802;
-			
 			// aapt resource value: 0x7f06009c
-			public const int DropDownNav_Foodtruck = 2131099804;
-			
-			// aapt resource value: 0x7f060099
-			public const int PopupMenu_Foodtruck = 2131099801;
+			public const int ActionBar_Solid_Foodtruck = 2131099804;
 			
 			// aapt resource value: 0x7f06009d
-			public const int ProgressBar_Foodtruck = 2131099805;
+			public const int ActionBar_Transparent_Foodtruck = 2131099805;
+			
+			// aapt resource value: 0x7f0600a0
+			public const int ActionBarTabStyle_Foodtruck = 2131099808;
+			
+			// aapt resource value: 0x7f0600a3
+			public const int ActionButton_CloseMode_Foodtruck = 2131099811;
+			
+			// aapt resource value: 0x7f06009a
+			public const int Divider = 2131099802;
+			
+			// aapt resource value: 0x7f06009f
+			public const int DropDownListView_Foodtruck = 2131099807;
+			
+			// aapt resource value: 0x7f0600a1
+			public const int DropDownNav_Foodtruck = 2131099809;
+			
+			// aapt resource value: 0x7f06009e
+			public const int PopupMenu_Foodtruck = 2131099806;
+			
+			// aapt resource value: 0x7f0600a2
+			public const int ProgressBar_Foodtruck = 2131099810;
 			
 			// aapt resource value: 0x7f060067
 			public const int TextAppearance_AppCompat_Base_CompactMenu_Dialog = 2131099751;
@@ -2031,6 +3007,9 @@ namespace FoodTruckAndroid
 			// aapt resource value: 0x7f060033
 			public const int TextAppearance_AppCompat_Widget_PopupMenu_Small = 2131099699;
 			
+			// aapt resource value: 0x7f060097
+			public const int TextAppearance_TabPageIndicator = 2131099799;
+			
 			// aapt resource value: 0x7f060066
 			public const int TextAppearance_Widget_AppCompat_Base_ExpandedMenu_Item = 2131099750;
 			
@@ -2097,11 +3076,11 @@ namespace FoodTruckAndroid
 			// aapt resource value: 0x7f060083
 			public const int Theme_Base_Light = 2131099779;
 			
-			// aapt resource value: 0x7f060096
-			public const int Theme_Foodtruck = 2131099798;
+			// aapt resource value: 0x7f06009b
+			public const int Theme_Foodtruck = 2131099803;
 			
-			// aapt resource value: 0x7f06009f
-			public const int Theme_Foodtruck_Widget = 2131099807;
+			// aapt resource value: 0x7f0600a4
+			public const int Theme_Foodtruck_Widget = 2131099812;
 			
 			// aapt resource value: 0x7f06008f
 			public const int Theme_IAPTheme = 2131099791;
@@ -2113,7 +3092,10 @@ namespace FoodTruckAndroid
 			public const int Theme_MediaRouter_Light = 2131099651;
 			
 			// aapt resource value: 0x7f060094
-			public const int Theme_Splash = 2131099796;
+			public const int Theme_PageIndicatorDefaults = 2131099796;
+			
+			// aapt resource value: 0x7f060099
+			public const int Theme_Splash = 2131099801;
 			
 			// aapt resource value: 0x7f060092
 			public const int WalletFragmentDefaultButtonTextAppearance = 2131099794;
@@ -2126,6 +3108,9 @@ namespace FoodTruckAndroid
 			
 			// aapt resource value: 0x7f060093
 			public const int WalletFragmentDefaultStyle = 2131099795;
+			
+			// aapt resource value: 0x7f060095
+			public const int Widget = 2131099797;
 			
 			// aapt resource value: 0x7f060004
 			public const int Widget_AppCompat_ActionBar = 2131099652;
@@ -2361,11 +3346,17 @@ namespace FoodTruckAndroid
 			// aapt resource value: 0x7f060026
 			public const int Widget_AppCompat_Spinner_DropDown_ActionBar = 2131099686;
 			
+			// aapt resource value: 0x7f060098
+			public const int Widget_IconPageIndicator = 2131099800;
+			
 			// aapt resource value: 0x7f060001
 			public const int Widget_MediaRouter_Light_MediaRouteButton = 2131099649;
 			
 			// aapt resource value: 0x7f060000
 			public const int Widget_MediaRouter_MediaRouteButton = 2131099648;
+			
+			// aapt resource value: 0x7f060096
+			public const int Widget_TabPageIndicator = 2131099798;
 			
 			static Style()
 			{
@@ -2548,11 +3539,79 @@ namespace FoodTruckAndroid
 			// aapt resource value: 2
 			public const int AdsAttrs_adUnitId = 2;
 			
+			public static int[] CirclePageIndicator = new int[] {
+					16842948,
+					16842964,
+					2130772121,
+					2130772123,
+					2130772125,
+					2130772126,
+					2130772127,
+					2130772128,
+					2130772129};
+			
+			// aapt resource value: 1
+			public const int CirclePageIndicator_android_background = 1;
+			
+			// aapt resource value: 0
+			public const int CirclePageIndicator_android_orientation = 0;
+			
+			// aapt resource value: 2
+			public const int CirclePageIndicator_centered = 2;
+			
+			// aapt resource value: 4
+			public const int CirclePageIndicator_fillColor = 4;
+			
+			// aapt resource value: 5
+			public const int CirclePageIndicator_pageColor = 5;
+			
+			// aapt resource value: 6
+			public const int CirclePageIndicator_radius = 6;
+			
+			// aapt resource value: 7
+			public const int CirclePageIndicator_snap = 7;
+			
+			// aapt resource value: 8
+			public const int CirclePageIndicator_strokeColor = 8;
+			
+			// aapt resource value: 3
+			public const int CirclePageIndicator_strokeWidth = 3;
+			
 			public static int[] CompatTextView = new int[] {
 					2130772082};
 			
 			// aapt resource value: 0
 			public const int CompatTextView_textAllCaps = 0;
+			
+			public static int[] LinePageIndicator = new int[] {
+					16842964,
+					2130772121,
+					2130772122,
+					2130772123,
+					2130772124,
+					2130772130,
+					2130772131};
+			
+			// aapt resource value: 0
+			public const int LinePageIndicator_android_background = 0;
+			
+			// aapt resource value: 1
+			public const int LinePageIndicator_centered = 1;
+			
+			// aapt resource value: 6
+			public const int LinePageIndicator_gapWidth = 6;
+			
+			// aapt resource value: 5
+			public const int LinePageIndicator_lineWidth = 5;
+			
+			// aapt resource value: 2
+			public const int LinePageIndicator_selectedColor = 2;
+			
+			// aapt resource value: 3
+			public const int LinePageIndicator_strokeWidth = 3;
+			
+			// aapt resource value: 4
+			public const int LinePageIndicator_unselectedColor = 4;
 			
 			public static int[] LinearLayoutICS = new int[] {
 					2130772019,
@@ -2860,6 +3919,90 @@ namespace FoodTruckAndroid
 			// aapt resource value: 2
 			public const int Theme_popupMenuStyle = 2;
 			
+			public static int[] TitlePageIndicator = new int[] {
+					16842901,
+					16842904,
+					16842964,
+					2130772122,
+					2130772132,
+					2130772133,
+					2130772134,
+					2130772135,
+					2130772136,
+					2130772137,
+					2130772138,
+					2130772139,
+					2130772140,
+					2130772141,
+					2130772142};
+			
+			// aapt resource value: 2
+			public const int TitlePageIndicator_android_background = 2;
+			
+			// aapt resource value: 1
+			public const int TitlePageIndicator_android_textColor = 1;
+			
+			// aapt resource value: 0
+			public const int TitlePageIndicator_android_textSize = 0;
+			
+			// aapt resource value: 4
+			public const int TitlePageIndicator_clipPadding = 4;
+			
+			// aapt resource value: 5
+			public const int TitlePageIndicator_footerColor = 5;
+			
+			// aapt resource value: 8
+			public const int TitlePageIndicator_footerIndicatorHeight = 8;
+			
+			// aapt resource value: 7
+			public const int TitlePageIndicator_footerIndicatorStyle = 7;
+			
+			// aapt resource value: 9
+			public const int TitlePageIndicator_footerIndicatorUnderlinePadding = 9;
+			
+			// aapt resource value: 6
+			public const int TitlePageIndicator_footerLineHeight = 6;
+			
+			// aapt resource value: 10
+			public const int TitlePageIndicator_footerPadding = 10;
+			
+			// aapt resource value: 11
+			public const int TitlePageIndicator_linePosition = 11;
+			
+			// aapt resource value: 12
+			public const int TitlePageIndicator_selectedBold = 12;
+			
+			// aapt resource value: 3
+			public const int TitlePageIndicator_selectedColor = 3;
+			
+			// aapt resource value: 13
+			public const int TitlePageIndicator_titlePadding = 13;
+			
+			// aapt resource value: 14
+			public const int TitlePageIndicator_topPadding = 14;
+			
+			public static int[] UnderlinePageIndicator = new int[] {
+					16842964,
+					2130772122,
+					2130772143,
+					2130772144,
+					2130772145};
+			
+			// aapt resource value: 0
+			public const int UnderlinePageIndicator_android_background = 0;
+			
+			// aapt resource value: 3
+			public const int UnderlinePageIndicator_fadeDelay = 3;
+			
+			// aapt resource value: 4
+			public const int UnderlinePageIndicator_fadeLength = 4;
+			
+			// aapt resource value: 2
+			public const int UnderlinePageIndicator_fades = 2;
+			
+			// aapt resource value: 1
+			public const int UnderlinePageIndicator_selectedColor = 1;
+			
 			public static int[] View = new int[] {
 					16842970,
 					2130772029,
@@ -2873,6 +4016,32 @@ namespace FoodTruckAndroid
 			
 			// aapt resource value: 1
 			public const int View_paddingStart = 1;
+			
+			public static int[] ViewPagerIndicator = new int[] {
+					2130772115,
+					2130772116,
+					2130772117,
+					2130772118,
+					2130772119,
+					2130772120};
+			
+			// aapt resource value: 0
+			public const int ViewPagerIndicator_vpiCirclePageIndicatorStyle = 0;
+			
+			// aapt resource value: 1
+			public const int ViewPagerIndicator_vpiIconPageIndicatorStyle = 1;
+			
+			// aapt resource value: 2
+			public const int ViewPagerIndicator_vpiLinePageIndicatorStyle = 2;
+			
+			// aapt resource value: 4
+			public const int ViewPagerIndicator_vpiTabPageIndicatorStyle = 4;
+			
+			// aapt resource value: 3
+			public const int ViewPagerIndicator_vpiTitlePageIndicatorStyle = 3;
+			
+			// aapt resource value: 5
+			public const int ViewPagerIndicator_vpiUnderlinePageIndicatorStyle = 5;
 			
 			public static int[] WalletFragmentOptions = new int[] {
 					2130772100,

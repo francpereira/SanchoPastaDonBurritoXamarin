@@ -1,8 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="FoodTruckAndroid.FoodTruckAndroid">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.FoodTruckAndroid.FoodTruckAndroid">
   <uses-sdk android:minSdkVersion="15" android:targetSdkVersion="15" />
-  <application android:label="Don Burrito y Sancho Pasta" android:theme="@style/Theme.Foodtruck" android:icon="@drawable/newicon" android:name="mono.android.app.Application" android:debuggable="true">
-    <meta-data android:name="com.google.android.maps.v2.API_KEY" android:value="AIzaSyDbW7Ttqh_IfWQh9SZhjB-pNDsaU87aJZY" />
+  <application android:label="Don Burrito y Sancho Pasta" android:theme="@style/Theme.Foodtruck" android:icon="@drawable/appicon" android:debuggable="true" android:name="mono.android.app.Application">
+    <!--- <meta-data android:name="com.google.android.maps.v2.API_KEY" android:value="AIzaSyDbW7Ttqh_IfWQh9SZhjB-pNDsaU87aJZY" /> -->
+    <meta-data android:name="com.google.android.maps.v2.API_KEY" android:value="AIzaSyBqtrTQNc0d-kqFFGpexi5ZpB-Go_WgoOY" />
     <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
     <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
     <activity android:noHistory="true" android:theme="@style/Theme.Splash" android:name="foodtruckandroid.SplashActivity">
@@ -11,14 +12,14 @@
         <category android:name="android.intent.category.LAUNCHER" />
       </intent-filter>
     </activity>
-    <activity android:icon="@drawable/newicon" android:label="Don Burrito y Sancho Pasta" android:name="foodtruckandroid.MenuActivity" />
+    <activity android:icon="@drawable/appicon" android:label="Don Burrito y Sancho Pasta" android:screenOrientation="portrait" android:name="foodtruckandroid.MenuActivity" />
     <activity android:label="Mapa" android:name="foodtruckandroid.MapActivity" />
-    <activity android:label="Contactenos" android:name="foodtruckandroid.ContactUsActivity" />
-    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="FoodTruckAndroid.FoodTruckAndroid.mono.MonoRuntimeProvider.__mono_init__" />
+    <activity android:label="Contactenos" android:screenOrientation="portrait" android:name="foodtruckandroid.ContactUsActivity" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="com.FoodTruckAndroid.FoodTruckAndroid.mono.MonoRuntimeProvider.__mono_init__" />
     <receiver android:name="mono.android.Seppuku">
       <intent-filter>
         <action android:name="mono.android.intent.action.SEPPUKU" />
-        <category android:name="mono.android.intent.category.SEPPUKU.FoodTruckAndroid.FoodTruckAndroid" />
+        <category android:name="mono.android.intent.category.SEPPUKU.com.FoodTruckAndroid.FoodTruckAndroid" />
       </intent-filter>
     </receiver>
   </application>

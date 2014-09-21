@@ -16,6 +16,7 @@
     <AssemblyName>FoodTruckAndroid</AssemblyName>
     <TargetFrameworkVersion>v4.0.3</TargetFrameworkVersion>
     <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
+    <JavaMaximumHeapSize>1G</JavaMaximumHeapSize>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -25,9 +26,8 @@
     <DefineConstants>DEBUG;</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-    <AndroidLinkMode>None</AndroidLinkMode>
     <ConsolePause>false</ConsolePause>
-    <JavaMaximumHeapSize>512m</JavaMaximumHeapSize>
+    <AndroidLinkMode>None</AndroidLinkMode>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>full</DebugType>
@@ -55,6 +55,7 @@
     <Reference Include="Xamarin.Android.Support.v7.MediaRouter">
       <HintPath>..\Components\googleplayservices-19.0.0\lib\android\Xamarin.Android.Support.v7.MediaRouter.dll</HintPath>
     </Reference>
+    <Reference Include="Mono.Android.Export" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Resources\Resource.designer.cs" />
@@ -74,14 +75,9 @@
   <ItemGroup>
     <AndroidResource Include="Resources\values\Strings.xml" />
     <AndroidResource Include="Resources\values\Styles.xml" />
-    <AndroidResource Include="Resources\drawable\NewIcon.png" />
     <AndroidResource Include="Resources\drawable\splashfoodtruck.png" />
     <AndroidResource Include="Resources\layout\MenuFragment.axml" />
     <AndroidResource Include="Resources\layout\MenuActivity.axml" />
-    <AndroidResource Include="Resources\drawable\burritosmall.jpg" />
-    <AndroidResource Include="Resources\drawable\ensaladasmall.jpg" />
-    <AndroidResource Include="Resources\drawable\pastasmall.jpg" />
-    <AndroidResource Include="Resources\drawable\tacosmall.jpg" />
     <AndroidResource Include="Resources\layout\MapActivity.axml" />
     <AndroidResource Include="Resources\layout\ContactUsActivity.axml" />
     <AndroidResource Include="Resources\drawable\ab_background_textured_foodtruck.xml" />
@@ -197,19 +193,32 @@
     <AndroidResource Include="Resources\drawable-xxhdpi\tab_unselected_foodtruck.9.png" />
     <AndroidResource Include="Resources\drawable-xxhdpi\tab_unselected_pressed_foodtruck.9.png" />
     <AndroidResource Include="Resources\drawable\contactusanim.xml" />
-    <AndroidResource Include="Resources\drawable\contactimage1.png" />
-    <AndroidResource Include="Resources\drawable\contactimage2.png" />
-    <AndroidResource Include="Resources\drawable\contactimage3.png" />
     <AndroidResource Include="Resources\menu\MapMenu.xml" />
-    <AndroidResource Include="Resources\drawable\burrito.png" />
     <AndroidResource Include="Resources\drawable\contactus.png" />
     <AndroidResource Include="Resources\drawable\pasta.png" />
+    <AndroidResource Include="Resources\drawable\burrito1.jpg" />
+    <AndroidResource Include="Resources\drawable\lasagna1.jpg" />
+    <AndroidResource Include="Resources\drawable\pasta1.jpg" />
+    <AndroidResource Include="Resources\drawable\quesadilla1.jpg" />
+    <AndroidResource Include="Resources\drawable\sopa1.jpg" />
+    <AndroidResource Include="Resources\drawable\ensalada1.jpg" />
+    <AndroidResource Include="Resources\drawable\burrito.png" />
+    <AndroidResource Include="Resources\drawable\appicon.png" />
+    <AndroidResource Include="Resources\drawable-hdpi\appicon.png" />
+    <AndroidResource Include="Resources\drawable-mdpi\appicon.png" />
+    <AndroidResource Include="Resources\drawable-xhdpi\appicon.png" />
+    <AndroidResource Include="Resources\drawable\tacos1.jpg" />
+    <AndroidResource Include="Resources\drawable\nachos1.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Novell\Novell.MonoDroid.CSharp.targets" />
   <ItemGroup>
     <ProjectReference Include="..\FoodTruckClassLibrary\FoodTruckClassLibrary.csproj">
       <Project>{B51D6ECA-E595-4F91-B995-7582A6394C6D}</Project>
       <Name>FoodTruckClassLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\Users\Francisco\Downloads\ViewPagerIndicator\Library\Library.csproj">
+      <Project>{FA322A14-2B8E-4496-B950-4D8263CA0A2D}</Project>
+      <Name>Library</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

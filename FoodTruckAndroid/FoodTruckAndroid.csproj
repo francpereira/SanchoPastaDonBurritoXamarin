@@ -216,10 +216,6 @@
       <Project>{B51D6ECA-E595-4F91-B995-7582A6394C6D}</Project>
       <Name>FoodTruckClassLibrary</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\..\Users\Francisco\Downloads\ViewPagerIndicator\Library\Library.csproj">
-      <Project>{FA322A14-2B8E-4496-B950-4D8263CA0A2D}</Project>
-      <Name>Library</Name>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <XamarinComponentReference Include="xamandroidsupportv4-18">

@@ -18,6 +18,8 @@ namespace FoodTruckiOS
 		{
 			base.ViewDidLoad ();
 
+			this.TabBarController.TabBar.TintColor = UIColor.Red;
+
 			menuManager = new MenuManager ();
 			menuManager.GetAllMenuOptions ();
 

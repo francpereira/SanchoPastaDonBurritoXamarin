@@ -22,6 +22,8 @@ namespace FoodTruckiOS
 		{
 			base.ViewDidLoad ();
 
+
+
 			UpdateUI();
 		}
 
@@ -29,6 +31,7 @@ namespace FoodTruckiOS
 		{
 			lblName.Text = menuOption.name;
 			txtDescription.Text = menuOption.description;
+			lblPrecio.Text = String.Format ("{0:C}", menuOption.price.ToString());
 			imgMenu.Image = UIImage.FromBundle (menuOption.imageFile + ".jpg");
 
 		}

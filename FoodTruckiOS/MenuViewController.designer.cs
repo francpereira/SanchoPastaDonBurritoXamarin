@@ -24,6 +24,10 @@ namespace FoodTruckiOS
 
 		[Outlet]
 		[GeneratedCode ("iOS Designer", "1.0")]
+		UILabel lblPrecio { get; set; }
+
+		[Outlet]
+		[GeneratedCode ("iOS Designer", "1.0")]
 		UITextView txtDescription { get; set; }
 
 		void ReleaseDesignerOutlets ()
@@ -35,6 +39,10 @@ namespace FoodTruckiOS
 			if (lblName != null) {
 				lblName.Dispose ();
 				lblName = null;
+			}
+			if (lblPrecio != null) {
+				lblPrecio.Dispose ();
+				lblPrecio = null;
 			}
 			if (txtDescription != null) {
 				txtDescription.Dispose ();

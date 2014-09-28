@@ -14,8 +14,16 @@ namespace FoodTruckiOS
 	[Register ("MapaViewController")]
 	partial class MapaViewController
 	{
+		[Outlet]
+		[GeneratedCode ("iOS Designer", "1.0")]
+		MonoTouch.MapKit.MKMapView map { get; set; }
+
 		void ReleaseDesignerOutlets ()
 		{
+			if (map != null) {
+				map.Dispose ();
+				map = null;
+			}
 		}
 	}
 }

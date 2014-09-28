@@ -112,6 +112,10 @@
     <Compile Include="ContactViewController.designer.cs">
       <DependentUpon>ContactViewController.cs</DependentUpon>
     </Compile>
+    <Compile Include="MenuPagerViewController.cs" />
+    <Compile Include="MenuPagerViewController.designer.cs">
+      <DependentUpon>MenuPagerViewController.cs</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <InterfaceDefinition Include="MainStoryboard.storyboard" />
@@ -123,7 +127,21 @@
     <BundleResource Include="Resources\first%402x.png" />
     <BundleResource Include="Resources\second.png" />
     <BundleResource Include="Resources\second%402x.png" />
+    <BundleResource Include="Resources\burrito1.jpg" />
+    <BundleResource Include="Resources\ensalada1.jpg" />
+    <BundleResource Include="Resources\lasagna1.jpg" />
+    <BundleResource Include="Resources\nachos1.jpg" />
+    <BundleResource Include="Resources\pasta1.jpg" />
+    <BundleResource Include="Resources\quesadilla1.jpg" />
+    <BundleResource Include="Resources\sopa1.jpg" />
+    <BundleResource Include="Resources\tacos1.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.MonoTouch.CSharp.targets" />
+  <ItemGroup>
+    <ProjectReference Include="..\FoodTruckClassLibrary\FoodTruckClassLibrary.csproj">
+      <Project>{B51D6ECA-E595-4F91-B995-7582A6394C6D}</Project>
+      <Name>FoodTruckClassLibrary</Name>
+    </ProjectReference>
+  </ItemGroup>
 </Project>

@@ -2,23 +2,35 @@ using System;
 using MonoTouch.Foundation;
 using MonoTouch.UIKit;
 using System.CodeDom.Compiler;
+using FoodTruckClassLibrary;
 
 namespace FoodTruckiOS
 {
 	partial class MenuViewController : UIViewController
 	{
+
+		public MenuOption menuOption { get; set;} 
+		public int MenuOptionPosition { get; set; }
+
 		public MenuViewController (IntPtr handle) : base (handle)
 		{
 		}
 
-		partial void btnPrev_TouchUpInside (UIButton sender)
+
+
+		public override void ViewDidLoad ()
 		{
-			lblName.Text = "Prev Clicked";
+			base.ViewDidLoad ();
+
+			UpdateUI();
 		}
 
-		partial void btnNext_TouchUpInside (UIButton sender)
+		void UpdateUI ()
 		{
-			lblName.Text = "Next Clicked";
+			lblName.Text = menuOption.name;
+			txtDescription.Text = menuOption.description;
+			imgMenu.Image = UIImage.FromBundle (menuOption.imageFile + ".jpg");
+
 		}
 	}
 }

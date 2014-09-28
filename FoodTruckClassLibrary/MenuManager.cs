@@ -85,16 +85,40 @@ namespace FoodTruckClassLibrary
 
 		public void MovePrevious()
 		{
-			if (currentIndex > 0) {
+			if (CanMovePrevious) {
 				--currentIndex;
 			}
 		}
 
+		public bool CanMovePrevious {
+			get { 
+
+				if (currentIndex > 0) {
+					return true;
+				} else {
+					return false;
+				}
+			}
+
+		}
+
 		public void MoveNext()
 		{
-			if (currentIndex < (menu.Count - 1)) {
+			if (CanMoveNext) {
 				++currentIndex;
 			}
+		}
+
+		public bool CanMoveNext {
+			get { 
+			
+				if (currentIndex < (menu.Count - 1)) {
+					return true;
+				} else {
+					return false;
+				}
+			}
+
 		}
 
 		public int Length { get { return menu.Count; } }
@@ -113,6 +137,11 @@ namespace FoodTruckClassLibrary
 		public MenuOption CurrentMenuOption()
 		{
 			return menu[currentIndex];
+		}
+
+		public int CurrentPosition
+		{
+			get { return currentIndex; }
 		}
 
 

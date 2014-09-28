@@ -16,37 +16,29 @@ namespace FoodTruckiOS
 	{
 		[Outlet]
 		[GeneratedCode ("iOS Designer", "1.0")]
-		UIButton btnNext { get; set; }
-
-		[Outlet]
-		[GeneratedCode ("iOS Designer", "1.0")]
-		UIButton btnPrev { get; set; }
+		UIImageView imgMenu { get; set; }
 
 		[Outlet]
 		[GeneratedCode ("iOS Designer", "1.0")]
 		UILabel lblName { get; set; }
 
-		[Action ("btnNext_TouchUpInside:")]
+		[Outlet]
 		[GeneratedCode ("iOS Designer", "1.0")]
-		partial void btnNext_TouchUpInside (UIButton sender);
-
-		[Action ("btnPrev_TouchUpInside:")]
-		[GeneratedCode ("iOS Designer", "1.0")]
-		partial void btnPrev_TouchUpInside (UIButton sender);
+		UITextView txtDescription { get; set; }
 
 		void ReleaseDesignerOutlets ()
 		{
-			if (btnNext != null) {
-				btnNext.Dispose ();
-				btnNext = null;
-			}
-			if (btnPrev != null) {
-				btnPrev.Dispose ();
-				btnPrev = null;
+			if (imgMenu != null) {
+				imgMenu.Dispose ();
+				imgMenu = null;
 			}
 			if (lblName != null) {
 				lblName.Dispose ();
 				lblName = null;
+			}
+			if (txtDescription != null) {
+				txtDescription.Dispose ();
+				txtDescription = null;
 			}
 		}
 	}

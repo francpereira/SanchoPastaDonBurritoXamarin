@@ -1,0 +1,5 @@
+/Users/franciscopereira/Projects/francpereira/SanchoPastaDonBurritoXamarin/FoodTruckiOS/obj/iPhone/Debug/mtouch-cache/Link/mscorlib.dll
+/Users/franciscopereira/Projects/francpereira/SanchoPastaDonBurritoXamarin/FoodTruckiOS/obj/iPhone/Debug/mtouch-cache/Link/monotouch.dll
+/Users/franciscopereira/Projects/francpereira/SanchoPastaDonBurritoXamarin/FoodTruckiOS/obj/iPhone/Debug/mtouch-cache/Link/FoodTruckClassLibrary.dll
+/Users/franciscopereira/Projects/francpereira/SanchoPastaDonBurritoXamarin/FoodTruckiOS/obj/iPhone/Debug/mtouch-cache/Link/System.dll
+/Users/franciscopereira/Projects/francpereira/SanchoPastaDonBurritoXamarin/FoodTruckiOS/obj/iPhone/Debug/mtouch-cache/Link/FoodTruckiOS.exe

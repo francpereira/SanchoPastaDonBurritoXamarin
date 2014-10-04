@@ -1,0 +1,314 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		B97D63500000000000000000 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F28E2D300000000000000000 /* UIKit.framework */; };
+		2D2D79680000000000000000 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 30BE86060000000000000000 /* MapKit.framework */; };
+		260E20000000000000000000 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5F1EE9E00000000000000000 /* Foundation.framework */; };
+		35CBC4490000000000000000 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 395CD0E70000000000000000 /* CoreGraphics.framework */; };
+		263AC3BD0000000000000000 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 29CBD05B0000000000000000 /* Info.plist */; };
+		3B6E2C550000000000000000 /* Entitlements.plist in Resources */ = {isa = PBXBuildFile; fileRef = 3EFF38F30000000000000000 /* Entitlements.plist */; };
+		2998ED3F0000000000000000 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2D29F9DD0000000000000000 /* MainStoryboard.storyboard */; };
+		17C3AE290000000000000000 /* ContactUsViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1B54BAC70000000000000000 /* ContactUsViewController.xib */; };
+		34192FFD0000000000000000 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 37AA3C9B0000000000000000 /* Default-568h@2x.png */; };
+		3B08661D0000000000000000 /* first.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E9972BB0000000000000000 /* first.png */; };
+		293327070000000000000000 /* first@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2CC433A50000000000000000 /* first@2x.png */; };
+		175DE7F10000000000000000 /* second.png in Resources */ = {isa = PBXBuildFile; fileRef = 1AEEF48F0000000000000000 /* second.png */; };
+		588A8DB00000000000000000 /* second@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 919B57900000000000000000 /* second@2x.png */; };
+		1008EB990000000000000000 /* burrito1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1399F8370000000000000000 /* burrito1.jpg */; };
+		3E33AC830000000000000000 /* ensalada1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1C4B92100000000000000000 /* ensalada1.jpg */; };
+		2C5E6D6D0000000000000000 /* lasagna1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2FEF7A0B0000000000000000 /* lasagna1.jpg */; };
+		3A6FBCC90000000000000000 /* nachos1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3E00C9670000000000000000 /* nachos1.jpg */; };
+		8810C2500000000000000000 /* pasta1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C1218C300000000000000000 /* pasta1.jpg */; };
+		36ABCD0F0000000000000000 /* quesadilla1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3A3CD9AD0000000000000000 /* quesadilla1.jpg */; };
+		24D68DF90000000000000000 /* sopa1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 28679A970000000000000000 /* sopa1.jpg */; };
+		13014EE30000000000000000 /* tacos1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 16925B810000000000000000 /* tacos1.jpg */; };
+		457563300000000000000000 /* AppDelegate.h in Sources */ = {isa = PBXBuildFile; fileRef = 7E862D100000000000000000 /* AppDelegate.h */; };
+		39714D3D0000000000000000 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D0259DB0000000000000000 /* AppDelegate.m */; };
+		1235C2730000000000000000 /* ContactUsViewController.h in Sources */ = {isa = PBXBuildFile; fileRef = 15C6CF110000000000000000 /* ContactUsViewController.h */; };
+		27692B0B0000000000000000 /* ContactUsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2AFA37A90000000000000000 /* ContactUsViewController.m */; };
+		29183FCC0000000000000000 /* MenuViewController.h in Sources */ = {isa = PBXBuildFile; fileRef = 2CA94C6A0000000000000000 /* MenuViewController.h */; };
+		156108D90000000000000000 /* MenuViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 18F215770000000000000000 /* MenuViewController.m */; };
+		17101D9A0000000000000000 /* MapaViewController.h in Sources */ = {isa = PBXBuildFile; fileRef = 1AA12A380000000000000000 /* MapaViewController.h */; };
+		E0C0C8100000000000000000 /* MapaViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 119D191F0000000000000000 /* MapaViewController.m */; };
+		2DF29AF30000000000000000 /* ContactViewController.h in Sources */ = {isa = PBXBuildFile; fileRef = 3183A7910000000000000000 /* ContactViewController.h */; };
+		3150C4750000000000000000 /* ContactViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 34E1D1130000000000000000 /* ContactViewController.m */; };
+		6842D0D00000000000000000 /* MenuPagerViewController.h in Sources */ = {isa = PBXBuildFile; fileRef = A1539AB00000000000000000 /* MenuPagerViewController.h */; };
+		1F15BF270000000000000000 /* MenuPagerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 22A6CBC50000000000000000 /* MenuPagerViewController.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1814F80B0000000000000000 /* FoodTruckiOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = "FoodTruckiOS.app"; path = "FoodTruckiOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		F28E2D300000000000000000 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "UIKit.framework"; path = "System/Library/Frameworks/UIKit.framework"; sourceTree = SDKROOT; };
+		30BE86060000000000000000 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "MapKit.framework"; path = "System/Library/Frameworks/MapKit.framework"; sourceTree = SDKROOT; };
+		5F1EE9E00000000000000000 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "Foundation.framework"; path = "System/Library/Frameworks/Foundation.framework"; sourceTree = SDKROOT; };
+		395CD0E70000000000000000 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "CoreGraphics.framework"; path = "System/Library/Frameworks/CoreGraphics.framework"; sourceTree = SDKROOT; };
+		29CBD05B0000000000000000 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "Info.plist"; path = "Info.plist"; sourceTree = "<group>"; };
+		3EFF38F30000000000000000 /* Entitlements.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "Entitlements.plist"; path = "Entitlements.plist"; sourceTree = "<group>"; };
+		2D29F9DD0000000000000000 /* MainStoryboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = "MainStoryboard.storyboard"; path = "MainStoryboard.storyboard"; sourceTree = "<group>"; };
+		1B54BAC70000000000000000 /* ContactUsViewController.xib */ = {isa = PBXFileReference; name = "ContactUsViewController.xib"; path = "ContactUsViewController.xib"; sourceTree = "<group>"; };
+		37AA3C9B0000000000000000 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default-568h@2x.png"; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		3E9972BB0000000000000000 /* first.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "first.png"; path = "first.png"; sourceTree = "<group>"; };
+		2CC433A50000000000000000 /* first@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "first@2x.png"; path = "first@2x.png"; sourceTree = "<group>"; };
+		1AEEF48F0000000000000000 /* second.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "second.png"; path = "second.png"; sourceTree = "<group>"; };
+		919B57900000000000000000 /* second@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "second@2x.png"; path = "second@2x.png"; sourceTree = "<group>"; };
+		1399F8370000000000000000 /* burrito1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "burrito1.jpg"; path = "burrito1.jpg"; sourceTree = "<group>"; };
+		1C4B92100000000000000000 /* ensalada1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "ensalada1.jpg"; path = "ensalada1.jpg"; sourceTree = "<group>"; };
+		2FEF7A0B0000000000000000 /* lasagna1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "lasagna1.jpg"; path = "lasagna1.jpg"; sourceTree = "<group>"; };
+		3E00C9670000000000000000 /* nachos1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "nachos1.jpg"; path = "nachos1.jpg"; sourceTree = "<group>"; };
+		C1218C300000000000000000 /* pasta1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "pasta1.jpg"; path = "pasta1.jpg"; sourceTree = "<group>"; };
+		3A3CD9AD0000000000000000 /* quesadilla1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "quesadilla1.jpg"; path = "quesadilla1.jpg"; sourceTree = "<group>"; };
+		28679A970000000000000000 /* sopa1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "sopa1.jpg"; path = "sopa1.jpg"; sourceTree = "<group>"; };
+		16925B810000000000000000 /* tacos1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "tacos1.jpg"; path = "tacos1.jpg"; sourceTree = "<group>"; };
+		7E862D100000000000000000 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "AppDelegate.h"; path = "AppDelegate.h"; sourceTree = "<group>"; };
+		3D0259DB0000000000000000 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "AppDelegate.m"; path = "AppDelegate.m"; sourceTree = "<group>"; };
+		15C6CF110000000000000000 /* ContactUsViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "ContactUsViewController.h"; path = "ContactUsViewController.h"; sourceTree = "<group>"; };
+		2AFA37A90000000000000000 /* ContactUsViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "ContactUsViewController.m"; path = "ContactUsViewController.m"; sourceTree = "<group>"; };
+		2CA94C6A0000000000000000 /* MenuViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "MenuViewController.h"; path = "MenuViewController.h"; sourceTree = "<group>"; };
+		18F215770000000000000000 /* MenuViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "MenuViewController.m"; path = "MenuViewController.m"; sourceTree = "<group>"; };
+		1AA12A380000000000000000 /* MapaViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "MapaViewController.h"; path = "MapaViewController.h"; sourceTree = "<group>"; };
+		119D191F0000000000000000 /* MapaViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "MapaViewController.m"; path = "MapaViewController.m"; sourceTree = "<group>"; };
+		3183A7910000000000000000 /* ContactViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "ContactViewController.h"; path = "ContactViewController.h"; sourceTree = "<group>"; };
+		34E1D1130000000000000000 /* ContactViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "ContactViewController.m"; path = "ContactViewController.m"; sourceTree = "<group>"; };
+		A1539AB00000000000000000 /* MenuPagerViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "MenuPagerViewController.h"; path = "MenuPagerViewController.h"; sourceTree = "<group>"; };
+		22A6CBC50000000000000000 /* MenuPagerViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "MenuPagerViewController.m"; path = "MenuPagerViewController.m"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1698C6660000000000000000 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B97D63500000000000000000 /* UIKit.framework in Frameworks */,
+				2D2D79680000000000000000 /* MapKit.framework in Frameworks */,
+				260E20000000000000000000 /* Foundation.framework in Frameworks */,
+				35CBC4490000000000000000 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		36B237F40000000000000000 = {
+			isa = PBXGroup;
+			children = (
+				214BEC400000000000000000 /* FoodTruckiOS */,
+				4F66A6C00000000000000000 /* Frameworks */,
+				2BFF121A0000000000000000 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		2BFF121A0000000000000000 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1814F80B0000000000000000 /* FoodTruckiOS.app */,
+			);
+			name = "Products";
+			sourceTree = "<group>";
+		};
+		4F66A6C00000000000000000 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				F28E2D300000000000000000 /* UIKit.framework */,
+				30BE86060000000000000000 /* MapKit.framework */,
+				5F1EE9E00000000000000000 /* Foundation.framework */,
+				395CD0E70000000000000000 /* CoreGraphics.framework */,
+			);
+			name = "Frameworks";
+			sourceTree = "<group>";
+		};
+		214BEC400000000000000000 /* FoodTruckiOS */ = {
+			isa = PBXGroup;
+			children = (
+				7E862D100000000000000000 /* AppDelegate.h */,
+				1399F8370000000000000000 /* burrito1.jpg */,
+				15C6CF110000000000000000 /* ContactUsViewController.h */,
+				1B54BAC70000000000000000 /* ContactUsViewController.xib */,
+				3183A7910000000000000000 /* ContactViewController.h */,
+				37AA3C9B0000000000000000 /* Default-568h@2x.png */,
+				1C4B92100000000000000000 /* ensalada1.jpg */,
+				3EFF38F30000000000000000 /* Entitlements.plist */,
+				3E9972BB0000000000000000 /* first.png */,
+				2CC433A50000000000000000 /* first@2x.png */,
+				29CBD05B0000000000000000 /* Info.plist */,
+				2FEF7A0B0000000000000000 /* lasagna1.jpg */,
+				2D29F9DD0000000000000000 /* MainStoryboard.storyboard */,
+				1AA12A380000000000000000 /* MapaViewController.h */,
+				A1539AB00000000000000000 /* MenuPagerViewController.h */,
+				2CA94C6A0000000000000000 /* MenuViewController.h */,
+				3E00C9670000000000000000 /* nachos1.jpg */,
+				C1218C300000000000000000 /* pasta1.jpg */,
+				3A3CD9AD0000000000000000 /* quesadilla1.jpg */,
+				1AEEF48F0000000000000000 /* second.png */,
+				919B57900000000000000000 /* second@2x.png */,
+				28679A970000000000000000 /* sopa1.jpg */,
+				16925B810000000000000000 /* tacos1.jpg */,
+				3B53451A0000000000000000 /* Supporting Files */,
+			);
+			name = "FoodTruckiOS";
+			sourceTree = "<group>";
+		};
+		3B53451A0000000000000000 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				3D0259DB0000000000000000 /* AppDelegate.m */,
+				2AFA37A90000000000000000 /* ContactUsViewController.m */,
+				34E1D1130000000000000000 /* ContactViewController.m */,
+				119D191F0000000000000000 /* MapaViewController.m */,
+				22A6CBC50000000000000000 /* MenuPagerViewController.m */,
+				18F215770000000000000000 /* MenuViewController.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		141E25350000000000000000 /* FoodTruckiOS */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D61D23100000000000000000 /* Build configuration list for PBXNativeTarget "FoodTruckiOS" */;
+			buildPhases = (
+				3DA16E140000000000000000 /* Sources */,
+				1698C6660000000000000000 /* Frameworks */,
+				2A1D1A3D0000000000000000 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "FoodTruckiOS";
+			productName = "FoodTruckiOS";
+			productReference = 1814F80B0000000000000000 /* FoodTruckiOS.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		96AFF5B00000000000000000 /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 3F1D9FB90000000000000000 /* Build configuration list for PBXProject "FoodTruckiOS" */;
+			compatibilityVersion = "Xcode 3.2";
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 36B237F40000000000000000;
+			productRefGroup = 2BFF121A0000000000000000 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				141E25350000000000000000 /* FoodTruckiOS */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		2A1D1A3D0000000000000000 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				263AC3BD0000000000000000 /* Info.plist in Resources */,
+				3B6E2C550000000000000000 /* Entitlements.plist in Resources */,
+				2998ED3F0000000000000000 /* MainStoryboard.storyboard in Resources */,
+				17C3AE290000000000000000 /* ContactUsViewController.xib in Resources */,
+				34192FFD0000000000000000 /* Default-568h@2x.png in Resources */,
+				3B08661D0000000000000000 /* first.png in Resources */,
+				293327070000000000000000 /* first@2x.png in Resources */,
+				175DE7F10000000000000000 /* second.png in Resources */,
+				588A8DB00000000000000000 /* second@2x.png in Resources */,
+				1008EB990000000000000000 /* burrito1.jpg in Resources */,
+				3E33AC830000000000000000 /* ensalada1.jpg in Resources */,
+				2C5E6D6D0000000000000000 /* lasagna1.jpg in Resources */,
+				3A6FBCC90000000000000000 /* nachos1.jpg in Resources */,
+				8810C2500000000000000000 /* pasta1.jpg in Resources */,
+				36ABCD0F0000000000000000 /* quesadilla1.jpg in Resources */,
+				24D68DF90000000000000000 /* sopa1.jpg in Resources */,
+				13014EE30000000000000000 /* tacos1.jpg in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		3DA16E140000000000000000 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				457563300000000000000000 /* AppDelegate.h in Sources */,
+				39714D3D0000000000000000 /* AppDelegate.m in Sources */,
+				1235C2730000000000000000 /* ContactUsViewController.h in Sources */,
+				27692B0B0000000000000000 /* ContactUsViewController.m in Sources */,
+				29183FCC0000000000000000 /* MenuViewController.h in Sources */,
+				156108D90000000000000000 /* MenuViewController.m in Sources */,
+				17101D9A0000000000000000 /* MapaViewController.h in Sources */,
+				E0C0C8100000000000000000 /* MapaViewController.m in Sources */,
+				2DF29AF30000000000000000 /* ContactViewController.h in Sources */,
+				3150C4750000000000000000 /* ContactViewController.m in Sources */,
+				6842D0D00000000000000000 /* MenuPagerViewController.h in Sources */,
+				1F15BF270000000000000000 /* MenuPagerViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		24444F8A0000000000000000 /* MonoTouch */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				SDKROOT = iphoneos;
+			};
+			name = MonoTouch;
+		};
+		346A79DF0000000000000000 /* MonoTouch */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = NO;
+				PRODUCT_NAME = "FoodTruckiOS";
+				WRAPPER_EXTENSION = app;
+			};
+			name = MonoTouch;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		3F1D9FB90000000000000000 /* Build configuration list for PBXProject "FoodTruckiOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				24444F8A0000000000000000 /* MonoTouch */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = MonoTouch;
+		};
+		D61D23100000000000000000 /* Build configuration list for PBXNativeTarget "FoodTruckiOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				346A79DF0000000000000000 /* MonoTouch */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = MonoTouch;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 96AFF5B00000000000000000 /* Project object */;
+}

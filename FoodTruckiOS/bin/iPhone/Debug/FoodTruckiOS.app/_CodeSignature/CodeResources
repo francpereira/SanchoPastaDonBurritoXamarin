@@ -4,9 +4,21 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>07-map-marker.png</key>
+		<data>
+		+cAyxEu0Aua+a3kFb8yFDAzzXvg=
+		</data>
+		<key>48-fork-and-knife.png</key>
+		<data>
+		XoZtyQyi6CfUN3wtfu6MQHsXPwE=
+		</data>
+		<key>75-phone.png</key>
+		<data>
+		/UAnMYumBaJzMyrZL7WttIBu5FA=
+		</data>
 		<key>ContactUsViewController.nib</key>
 		<data>
-		AzTbccJobdf1ZWNhZ8BkTj6bIr0=
+		FJZ/i1/LBTg0J9tHDZA9+3QB3wk=
 		</data>
 		<key>Default-568h@2x.png</key>
 		<data>
@@ -14,47 +26,47 @@
 		</data>
 		<key>FoodTruckClassLibrary.dll</key>
 		<data>
-		EPNBkLtzg7bBmAaaK9JETvdL9Vo=
+		YIlvjiOb12GBsJOSoPmYUnW3lTM=
 		</data>
 		<key>FoodTruckClassLibrary.dll.mdb</key>
 		<data>
-		xQts/s6jVOXLegDzfldhkocTcbk=
+		YeGVb6TzZiODrx2oHjePoWzgBdw=
 		</data>
 		<key>FoodTruckiOS.exe</key>
 		<data>
-		b37poVc2CPD4MZsBM8/VL+lDqKk=
+		CYTxbvkKyfN2QSxNSaXLnoyx+HY=
 		</data>
 		<key>FoodTruckiOS.exe.mdb</key>
 		<data>
-		gKUi/FU9zFfU+3VQK9wK2hLHljA=
+		0FvZs8Hg/KRI2/lOEycUje3gGCw=
 		</data>
 		<key>MainStoryboard.storyboardc/12-view-13.nib</key>
 		<data>
-		084b8vSw9HzE+AcjmmSzJ5M76jw=
+		jd6pdmdADPB9k9MeWf73GREQ3rQ=
 		</data>
 		<key>MainStoryboard.storyboardc/CZ4-MO-1fc-view-2VE-Yg-loa.nib</key>
 		<data>
-		VpLZRZE52Fkw505cjmlbRjpNMb4=
+		tYPeKbSLllB1d2+OTa3crhhByO8=
 		</data>
 		<key>MainStoryboard.storyboardc/Info.plist</key>
 		<data>
-		50jVQYUWE586CB6/LaJ7hzqQALE=
+		Y6PiP8y+T/Gm1RmUx4UwGPVqssQ=
 		</data>
 		<key>MainStoryboard.storyboardc/MenuViewController.nib</key>
 		<data>
-		hrbFcJ2xu2CARo/feBOZ1hIrFr4=
+		ZAsSN7l3KnP29KdYh5Eph0XMuFE=
 		</data>
 		<key>MainStoryboard.storyboardc/QUy-BD-bpt-view-gMD-aP-Fq6.nib</key>
 		<data>
-		ZzEuw9mF8PHwgWD5mBt8w2ykvxw=
+		DI7FBlfg6gAB1VLEEVp+/FDj7h0=
 		</data>
 		<key>MainStoryboard.storyboardc/UIViewController-8YX-ce-x5E.nib</key>
 		<data>
-		3PbIrsU0uzj/IJLjDp6OatKeb9M=
+		tgrt2F5H0ymxsPR4WmSJuWV6Yvo=
 		</data>
 		<key>MonoTouchDebugConfiguration.txt</key>
 		<data>
-		+WL+eRVeW91GjRSwzZaCm/ephVk=
+		TNx9qH5pDaWfFfq+ZNSkLhwKCeI=
 		</data>
 		<key>NOTICE</key>
 		<data>
@@ -70,11 +82,11 @@
 		</data>
 		<key>System.dll</key>
 		<data>
-		bnwTsQ2AbbKzcTjTQuueYl1P5dE=
+		eLVsEwNM3P8LGnXUnvEvyKgIaHs=
 		</data>
 		<key>System.dll.mdb</key>
 		<data>
-		r5xfPLFEhFTW9mVbVknLQpFNOpk=
+		lj1WqO0WWQthZh3z7N3gObUGDD0=
 		</data>
 		<key>burrito1.jpg</key>
 		<data>
@@ -82,7 +94,7 @@
 		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
-		TwwjI4FdLQEG+NLgyVCRoM/QIVk=
+		WDgu48GVN8D1m9ffEhJnCGx0jP4=
 		</data>
 		<key>ensalada1.jpg</key>
 		<data>
@@ -102,19 +114,19 @@
 		</data>
 		<key>monotouch.dll</key>
 		<data>
-		AQxxk39dRL4gN3EeUBsqDlVBEG4=
+		ft7OZaXmdMOycPPCnks2M84oH0w=
 		</data>
 		<key>monotouch.dll.mdb</key>
 		<data>
-		g0wR7Rp9dn4d4UmVM6+Nbe6kqVY=
+		7ApGaRSmIzsK6RNfOB36g7wzYOo=
 		</data>
 		<key>mscorlib.dll</key>
 		<data>
-		sybGWYMb+AMRUo0lQF4/m06Szto=
+		zV9i0jrx38e1Hkjw8umaZZg6DfA=
 		</data>
 		<key>mscorlib.dll.mdb</key>
 		<data>
-		Cwdh9D9jBuvZyqH+amJa9XjO+HY=
+		dPCa/qtGb8NL7XzoCK7oW7lJ5mA=
 		</data>
 		<key>nachos1.jpg</key>
 		<data>
@@ -147,9 +159,21 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>07-map-marker.png</key>
+		<data>
+		+cAyxEu0Aua+a3kFb8yFDAzzXvg=
+		</data>
+		<key>48-fork-and-knife.png</key>
+		<data>
+		XoZtyQyi6CfUN3wtfu6MQHsXPwE=
+		</data>
+		<key>75-phone.png</key>
+		<data>
+		/UAnMYumBaJzMyrZL7WttIBu5FA=
+		</data>
 		<key>ContactUsViewController.nib</key>
 		<data>
-		AzTbccJobdf1ZWNhZ8BkTj6bIr0=
+		FJZ/i1/LBTg0J9tHDZA9+3QB3wk=
 		</data>
 		<key>Default-568h@2x.png</key>
 		<data>
@@ -157,47 +181,47 @@
 		</data>
 		<key>FoodTruckClassLibrary.dll</key>
 		<data>
-		EPNBkLtzg7bBmAaaK9JETvdL9Vo=
+		YIlvjiOb12GBsJOSoPmYUnW3lTM=
 		</data>
 		<key>FoodTruckClassLibrary.dll.mdb</key>
 		<data>
-		xQts/s6jVOXLegDzfldhkocTcbk=
+		YeGVb6TzZiODrx2oHjePoWzgBdw=
 		</data>
 		<key>FoodTruckiOS.exe</key>
 		<data>
-		b37poVc2CPD4MZsBM8/VL+lDqKk=
+		CYTxbvkKyfN2QSxNSaXLnoyx+HY=
 		</data>
 		<key>FoodTruckiOS.exe.mdb</key>
 		<data>
-		gKUi/FU9zFfU+3VQK9wK2hLHljA=
+		0FvZs8Hg/KRI2/lOEycUje3gGCw=
 		</data>
 		<key>MainStoryboard.storyboardc/12-view-13.nib</key>
 		<data>
-		084b8vSw9HzE+AcjmmSzJ5M76jw=
+		jd6pdmdADPB9k9MeWf73GREQ3rQ=
 		</data>
 		<key>MainStoryboard.storyboardc/CZ4-MO-1fc-view-2VE-Yg-loa.nib</key>
 		<data>
-		VpLZRZE52Fkw505cjmlbRjpNMb4=
+		tYPeKbSLllB1d2+OTa3crhhByO8=
 		</data>
 		<key>MainStoryboard.storyboardc/Info.plist</key>
 		<data>
-		50jVQYUWE586CB6/LaJ7hzqQALE=
+		Y6PiP8y+T/Gm1RmUx4UwGPVqssQ=
 		</data>
 		<key>MainStoryboard.storyboardc/MenuViewController.nib</key>
 		<data>
-		hrbFcJ2xu2CARo/feBOZ1hIrFr4=
+		ZAsSN7l3KnP29KdYh5Eph0XMuFE=
 		</data>
 		<key>MainStoryboard.storyboardc/QUy-BD-bpt-view-gMD-aP-Fq6.nib</key>
 		<data>
-		ZzEuw9mF8PHwgWD5mBt8w2ykvxw=
+		DI7FBlfg6gAB1VLEEVp+/FDj7h0=
 		</data>
 		<key>MainStoryboard.storyboardc/UIViewController-8YX-ce-x5E.nib</key>
 		<data>
-		3PbIrsU0uzj/IJLjDp6OatKeb9M=
+		tgrt2F5H0ymxsPR4WmSJuWV6Yvo=
 		</data>
 		<key>MonoTouchDebugConfiguration.txt</key>
 		<data>
-		+WL+eRVeW91GjRSwzZaCm/ephVk=
+		TNx9qH5pDaWfFfq+ZNSkLhwKCeI=
 		</data>
 		<key>NOTICE</key>
 		<data>
@@ -213,11 +237,11 @@
 		</data>
 		<key>System.dll</key>
 		<data>
-		bnwTsQ2AbbKzcTjTQuueYl1P5dE=
+		eLVsEwNM3P8LGnXUnvEvyKgIaHs=
 		</data>
 		<key>System.dll.mdb</key>
 		<data>
-		r5xfPLFEhFTW9mVbVknLQpFNOpk=
+		lj1WqO0WWQthZh3z7N3gObUGDD0=
 		</data>
 		<key>burrito1.jpg</key>
 		<data>
@@ -225,7 +249,7 @@
 		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
-		TwwjI4FdLQEG+NLgyVCRoM/QIVk=
+		WDgu48GVN8D1m9ffEhJnCGx0jP4=
 		</data>
 		<key>ensalada1.jpg</key>
 		<data>
@@ -245,19 +269,19 @@
 		</data>
 		<key>monotouch.dll</key>
 		<data>
-		AQxxk39dRL4gN3EeUBsqDlVBEG4=
+		ft7OZaXmdMOycPPCnks2M84oH0w=
 		</data>
 		<key>monotouch.dll.mdb</key>
 		<data>
-		g0wR7Rp9dn4d4UmVM6+Nbe6kqVY=
+		7ApGaRSmIzsK6RNfOB36g7wzYOo=
 		</data>
 		<key>mscorlib.dll</key>
 		<data>
-		sybGWYMb+AMRUo0lQF4/m06Szto=
+		zV9i0jrx38e1Hkjw8umaZZg6DfA=
 		</data>
 		<key>mscorlib.dll.mdb</key>
 		<data>
-		Cwdh9D9jBuvZyqH+amJa9XjO+HY=
+		dPCa/qtGb8NL7XzoCK7oW7lJ5mA=
 		</data>
 		<key>nachos1.jpg</key>
 		<data>

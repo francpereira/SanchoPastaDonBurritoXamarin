@@ -1,6 +1,6 @@
-# Version: 8.0.0.63 (58b46df)
+# Version: 8.2.0.193 (959c1e4)
 # [first argument, ignore] # /Users/franciscopereira/Projects/francpereira/SanchoPastaDonBurritoXamarin/FoodTruckiOS/bin/iPhoneSimulator/Debug/mtouch.exe
-/Library/Frameworks/Xamarin.iOS.framework/Versions/8.0.0.63/bin/mtouch \
+/Library/Frameworks/Xamarin.iOS.framework/Versions/8.2.0.193/bin/mtouch \
 	-sdkroot \
 	/Applications/Xcode.app/Contents/Developer \
 	--cache \

@@ -135,6 +135,12 @@
     <BundleResource Include="Resources\quesadilla1.jpg" />
     <BundleResource Include="Resources\sopa1.jpg" />
     <BundleResource Include="Resources\tacos1.jpg" />
+    <BundleResource Include="Resources\48-fork-and-knife.png" />
+    <BundleResource Include="Resources\07-map-marker.png" />
+    <BundleResource Include="Resources\75-phone.png" />
+    <BundleResource Include="Resources\Launch.jpg" />
+    <BundleResource Include="Resources\appicon120.png" />
+    <BundleResource Include="Resources\appicon180.png" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.MonoTouch.CSharp.targets" />

@@ -17,7 +17,7 @@ Ldebug_info_begin:
 	.short 2
 	.long 0
 	.byte 4,1
-	.asciz "Mono AOT Compiler 3.8.0 (mono-3.8.0-branch/e451fb2 Thu Sep 18 22:24:53 EDT 2014)"
+	.asciz "Mono AOT Compiler 3.10.0 (mono-3.10.0-branch/491d1f5 Fri Oct  3 00:18:38 EDT 2014)"
 	.asciz "System.dll"
 	.asciz ""
 
@@ -211,14 +211,14 @@ image_table:
 
 	.long 2
 	.asciz "System"
-	.asciz "A45BB78A-B70C-47E7-9114-80EA395A1180"
+	.asciz "E2D05C4B-AC30-4070-B3E8-84D064E5A3AD"
 	.asciz ""
 	.asciz "7cec85d7bea7798e"
 	.align 3
 
 	.long 1,2,0,5,0
 	.asciz "mscorlib"
-	.asciz "EF8E3FCA-58E6-43D1-A15B-8EB08411FCB0"
+	.asciz "34CB4459-4B5D-47BC-AF5D-887A9696EC39"
 	.asciz ""
 	.asciz "7cec85d7bea7798e"
 	.align 3
@@ -232,7 +232,7 @@ got_end:
 .section __TEXT, __const
 	.align 2
 assembly_guid:
-	.asciz "A45BB78A-B70C-47E7-9114-80EA395A1180"
+	.asciz "E2D05C4B-AC30-4070-B3E8-84D064E5A3AD"
 .section __TEXT, __const
 	.align 2
 runtime_version:
@@ -245,7 +245,7 @@ assembly_name:
 	.align 3
 _mono_aot_file_info:
 
-	.long 100,0
+	.long 102,0
 	.align 2
 	.long _mono_aot_System_got
 	.align 2
@@ -321,8 +321,8 @@ _mono_aot_module_System_info:
 blob:
 
 	.byte 0,0,0,12,0,39,42,47,2,0,26,48,36,60,208,0,0,13,4,208,0,0,13,8,208,0,0,13,0,0,3,8
-	.byte 36,7,8,6,4,0,128,144,8,0,0,1,4,128,160,16,0,0,4,193,0,7,52,193,0,5,55,193,0,7,48,193
-	.byte 0,5,59,98,111,101,104,109,0
+	.byte 36,7,8,6,4,0,128,144,8,0,0,1,4,128,160,16,0,0,4,193,0,7,56,193,0,5,57,193,0,7,52,193
+	.byte 0,5,63,98,111,101,104,109,0
 .section __TEXT, __const
 	.align 3
 Lglobals_hash:
@@ -465,7 +465,7 @@ Ldebug_line_start:
 	.long Ldebug_line_header_end - . -4
 	.byte 1,1,251,14,13,0,1,1,1,1,0,0,0,1,0,0,1
 .section __DWARF, __debug_line,regular,debug
-	.asciz "///Library/Frameworks/Xamarin.iOS.framework/Versions/8.0.0.63/src/mono/mcs/class/System/System.CodeDom.Compiler"
+	.asciz "///Library/Frameworks/Xamarin.iOS.framework/Versions/8.2.0.193/src/mono/mcs/class/System/System.CodeDom.Compiler"
 
 	.byte 0
 	.asciz "<unknown>"

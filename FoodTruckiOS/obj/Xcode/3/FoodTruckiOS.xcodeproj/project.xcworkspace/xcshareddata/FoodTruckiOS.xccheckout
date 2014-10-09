@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6E29175A-72CB-4E69-A7D5-13B7A2F014B9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FoodTruckiOS</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>08FC37055BBD9CFA85F43A7AEED3A9CB7A9405DA</key>
+		<string>https://github.com:443/francpereira/SanchoPastaDonBurritoXamarin</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>FoodTruckiOS/obj/Xcode/3/FoodTruckiOS.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>08FC37055BBD9CFA85F43A7AEED3A9CB7A9405DA</key>
+		<string>../../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com:443/francpereira/SanchoPastaDonBurritoXamarin</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>08FC37055BBD9CFA85F43A7AEED3A9CB7A9405DA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>08FC37055BBD9CFA85F43A7AEED3A9CB7A9405DA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SanchoPastaDonBurritoXamarin</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,11 +1,6 @@
 ﻿<Properties GitUserInfo="UsingGIT">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.Ediel" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="FoodTruckiOS/MenuPagerViewController.cs">
-    <Files>
-      <File FileName="FoodTruckiOS/MenuPagerViewController.cs" Line="4" Column="4" />
-      <File FileName="FoodTruckiOS/MenuPagerViewController.designer.cs" Line="1" Column="1" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.iPhone" />
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

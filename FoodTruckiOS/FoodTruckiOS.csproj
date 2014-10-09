@@ -96,10 +96,6 @@
   <ItemGroup>
     <Compile Include="Main.cs" />
     <Compile Include="AppDelegate.cs" />
-    <Compile Include="ContactUsViewController.cs" />
-    <Compile Include="ContactUsViewController.designer.cs">
-      <DependentUpon>ContactUsViewController.cs</DependentUpon>
-    </Compile>
     <Compile Include="MenuViewController.cs" />
     <Compile Include="MenuViewController.designer.cs">
       <DependentUpon>MenuViewController.cs</DependentUpon>
@@ -119,10 +115,8 @@
   </ItemGroup>
   <ItemGroup>
     <InterfaceDefinition Include="MainStoryboard.storyboard" />
-    <InterfaceDefinition Include="ContactUsViewController.xib" />
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\Default-568h%402x.png" />
     <BundleResource Include="Resources\first.png" />
     <BundleResource Include="Resources\first%402x.png" />
     <BundleResource Include="Resources\second.png" />
@@ -141,6 +135,9 @@
     <BundleResource Include="Resources\Launch.jpg" />
     <BundleResource Include="Resources\appicon120.png" />
     <BundleResource Include="Resources\appicon180.png" />
+    <BundleResource Include="Resources\original180.png" />
+    <BundleResource Include="Resources\Default-568h%402x.png" />
+    <BundleResource Include="Resources\original120.png" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.MonoTouch.CSharp.targets" />

@@ -30,7 +30,7 @@
 	<string>Don Burrito y Sancho Pasta</string>
 	<key>CFBundleIconFiles</key>
 	<array>
-		<string>appicon120</string>
+		<string>original120</string>
 	</array>
 </dict>
 </plist>

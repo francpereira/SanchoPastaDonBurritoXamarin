@@ -9,7 +9,7 @@ namespace FoodTruckiOS
 {
 	public partial class ContactUsViewController : UIViewController
 	{
-		public ContactUsViewController () : base ("ContactUsViewController", null)
+		public ContactUsViewController (IntPtr handle) : base (handle)
 		{
 		}
 
@@ -24,7 +24,9 @@ namespace FoodTruckiOS
 		public override void ViewDidLoad ()
 		{
 			base.ViewDidLoad ();
-			
+
+			//.Layer.CornerRadius = 10f; 
+
 			// Perform any additional setup after loading the view, typically from a nib.
 		}
 	}

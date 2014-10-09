@@ -30,6 +30,10 @@ namespace FoodTruckiOS
 		[GeneratedCode ("iOS Designer", "1.0")]
 		UITextView txtDescription { get; set; }
 
+		[Outlet]
+		[GeneratedCode ("iOS Designer", "1.0")]
+		UIView viewNameDescription { get; set; }
+
 		void ReleaseDesignerOutlets ()
 		{
 			if (imgMenu != null) {
@@ -47,6 +51,10 @@ namespace FoodTruckiOS
 			if (txtDescription != null) {
 				txtDescription.Dispose ();
 				txtDescription = null;
+			}
+			if (viewNameDescription != null) {
+				viewNameDescription.Dispose ();
+				viewNameDescription = null;
 			}
 		}
 	}

@@ -26,6 +26,18 @@ namespace FoodTruckiOS
 		[GeneratedCode ("iOS Designer", "1.0")]
 		UITextView lblUrlFacebook { get; set; }
 
+		[Outlet]
+		[GeneratedCode ("iOS Designer", "1.0")]
+		UIView viewEmailLabel { get; set; }
+
+		[Outlet]
+		[GeneratedCode ("iOS Designer", "1.0")]
+		UIView viewFaceBookLabel { get; set; }
+
+		[Outlet]
+		[GeneratedCode ("iOS Designer", "1.0")]
+		UIView viewTelefonoLabel { get; set; }
+
 		void ReleaseDesignerOutlets ()
 		{
 			if (lblEmail != null) {
@@ -39,6 +51,18 @@ namespace FoodTruckiOS
 			if (lblUrlFacebook != null) {
 				lblUrlFacebook.Dispose ();
 				lblUrlFacebook = null;
+			}
+			if (viewEmailLabel != null) {
+				viewEmailLabel.Dispose ();
+				viewEmailLabel = null;
+			}
+			if (viewFaceBookLabel != null) {
+				viewFaceBookLabel.Dispose ();
+				viewFaceBookLabel = null;
+			}
+			if (viewTelefonoLabel != null) {
+				viewTelefonoLabel.Dispose ();
+				viewTelefonoLabel = null;
 			}
 		}
 	}

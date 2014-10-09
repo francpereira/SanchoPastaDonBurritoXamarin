@@ -22,7 +22,7 @@ namespace FoodTruckiOS
 		{
 			base.ViewDidLoad ();
 
-
+			viewNameDescription.Layer.CornerRadius = 10f; 
 
 			UpdateUI();
 		}

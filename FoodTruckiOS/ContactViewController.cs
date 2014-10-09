@@ -9,10 +9,18 @@ namespace FoodTruckiOS
 	{
 		public ContactViewController (IntPtr handle) : base (handle)
 		{
-			//lblPhoneNum.DataDetectorTypes = UIDataDetectorType.PhoneNumber;
-			//lblEmail.DataDetectorTypes = UIDataDetectorType.Link;
-			//lblUrlFacebook.DataDetectorTypes = UIDataDetectorType.Link;
 
 		}
+
+
+		public override void ViewDidLoad ()
+		{
+			base.ViewDidLoad ();
+
+			viewTelefonoLabel.Layer.CornerRadius = 10f;
+			viewEmailLabel.Layer.CornerRadius = 10f;
+			viewFaceBookLabel.Layer.CornerRadius = 10f;
+		}
+
 	}
 }

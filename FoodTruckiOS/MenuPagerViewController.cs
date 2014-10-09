@@ -20,6 +20,22 @@ namespace FoodTruckiOS
 
 			this.TabBarController.TabBar.TintColor = UIColor.Red;
 
+
+			/*UIView[] subviews = this.View.Subviews;
+			UIPageControl pageControl = null;
+
+			foreach(UIView subview in subviews) 
+			{
+				if (subview.GetType() == typeof(UIPageControl)) 
+				{
+					pageControl = (UIPageControl)subview;	
+				}
+			}
+
+			pageControl.PageIndicatorTintColor =  UIColor.White;
+			pageControl.CurrentPageIndicatorTintColor = UIColor.Black;
+			pageControl.BackgroundColor = UIColor.White; */
+
 			menuManager = new MenuManager ();
 			menuManager.GetAllMenuOptions ();
 

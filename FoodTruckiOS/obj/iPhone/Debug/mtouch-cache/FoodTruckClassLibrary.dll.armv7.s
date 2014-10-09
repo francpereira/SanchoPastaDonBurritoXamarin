@@ -1465,12 +1465,12 @@ image_table:
 
 	.long 1,2,0,5,0
 	.asciz "FoodTruckClassLibrary"
-	.asciz "8771A4F0-B33A-4E3A-AC20-BCFC9C5491F4"
+	.asciz "C1CBBBB5-ADE0-4DC8-894D-19A89E568D1E"
 	.asciz ""
 	.asciz ""
 	.align 3
 
-	.long 0,1,0,5390,28933
+	.long 0,1,0,5394,35364
 .data
 	.align 3
 _mono_aot_FoodTruckClassLibrary_got:
@@ -1479,7 +1479,7 @@ got_end:
 .section __TEXT, __const
 	.align 2
 assembly_guid:
-	.asciz "8771A4F0-B33A-4E3A-AC20-BCFC9C5491F4"
+	.asciz "C1CBBBB5-ADE0-4DC8-894D-19A89E568D1E"
 .section __TEXT, __const
 	.align 2
 runtime_version:
